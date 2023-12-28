@@ -1,0 +1,1640 @@
+abbreviate  /əˈbriːvieɪt/   vt. 缩写，使省略；使简短
+abort  /əˈbɔːrt/   v. （使）流产，堕（胎）；（由于问题或故障）中止，使夭折；（胚胎器官，有机体）发育不全，败育
+abstract  /ˈæbstrækt/   adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的
+abstraction  /æbˈstrækʃn/   n. 抽象；提取；抽象概念；空想；心不在焉
+access  /ˈækses/   n. 入口，通道；获得的机会，使用权；（对计算机存储器的）访问，存取；（情感）爆发，发作；探视权
+access function  /ˈækses ˈfʌŋkʃn/   访问函数：在编程中，用于获取或修改类的私有成员变量的成员函数。
+access level  /ˈækses ˈlevl/   访问级别：在计算机科学和计算机编程中，访问级别表示对数据类型提供的权限或限制。
+accordance  /əˈkɔːrdns/   n. 按照，依据，与……一致（in accordance with）
+account  /əˈkaʊnt/   n. 账户，户头；客户，老主顾；网络账号；描述，报道；账目；账单；赊购账，赊购；理由，解释；重要性；（定期结付的）交易合同；演奏（音乐）；<英>账期交易期
+acknowledgement  /əkˈnɑːlɪdʒmənt/   n. 承认；感谢；（作者的）致谢；回执；（表示注意到了某人或某事的）示意
+acquire  /əˈkwaɪər/   v. 获得，得到；学到，习得；患上（疾病）；逐渐具有，开始学会
+action  /ˈækʃ(ə)n/   n. 行动；行为；战斗；诉讼；<非正式>令人激动的事；动作；情节；惊险刺激的活动（或事件）；作用；开始（电影导演开拍的指令）；赚钱的机会；性交；运转方式
+activate  /ˈæktɪveɪt/   v. 激活，使活化；使参战；（尤指透过加热）加速……的反应
+active  /ˈæktɪv/   adj. 好动的；（动词）表动作的；（电路系统）在运转中的
+actual parameter   实际参数：提供给方法或函数的值，与形式参数相对。
+actuate  /ˈæktʃueɪt/   vt. 开动（机器等）；促使，驱使；激励（人等）
+acyclic  /ˌeɪˈsaɪklɪk/   adj. 非循环的；[物] 非周期的
+adapter  /əˈdæptər/   n. 适配器；改编者；接合器；适应者
+adaptive  /əˈdæptɪv/   adj. 适应的，有适应能力的
+add-in
+  /ˈæd ɪn/   n. 附带物；内插式附件；内装板
+addition  /əˈdɪʃ(ə)n/   n. 增加物，新增人员；增加；加法；（建筑物的）扩建部分
+additive  /ˈædətɪv/   n. 添加剂，添加物
+address
+  /əˈdres/   n. 地址，住址；网址；电子邮箱地址；演讲，演说；（电子表格中某个单元格的）位置；<古>（对他人的）谈吐；<古>谦恭（或脉脉含情）的方式；<旧>机敏，迅速；位置存储编码
+address space  /əˈdres speɪs/   地址空间：计算机内存中用于存储和管理内存地址的一段连续区域。
+adherence  /ədˈhɪrəns/   n. （尤指对规则、信念等的）遵守，坚持
+ADO  /əˈduː/   n. 麻烦，困难；纷扰，忙乱
+adopt  /əˈdɑːpt/   v. 收养；采取，采纳，接受；正式通过；选定（名字），承袭（风俗）；移居，定居；提名（某人）为候选人；保持（姿势）；<英>（地方当局）承担（道路）维修保养责任
+advanced  /ədˈvænst/   adj. 先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的
+affect  /əˈfekt/   v. 影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼；<正式> 假装，佯装
+agent  /ˈeɪdʒənt/   n. 代理人，代理商；（艺术界的）经纪人；间谍，特工；原动力，动因；剂；（语法）施动者；（美国某些政府部门的）官员
+aggregate  /ˈæɡrɪɡət/   n. 总数，合计；骨料，混凝料
+aggregation  /ˌæɡrɪˈɡeɪʃn/   n. 聚集，聚合；（互联网）相关内容项的集合；聚集体，集合体
+agile  /ˈædʒ(ə)l/   adj. （动作）敏捷的，灵活的；（思维）机敏的，机灵的；表示项目管理方法的
+agility  /əˈdʒɪləti/   n. （动作）敏捷，灵活；（思维）机敏
+algorithm  /ˈælɡərɪðəm/   n. （尤指计算机）算法，运算法则
+alias  /ˈeɪliəs/   adv. 又名，化名（尤指演员或罪犯）
+aliasing  /ˈeliəsɪŋ; ˈeljəsɪŋ/   v. 错误识别（信号频率）（alias 的现在分词）
+align  /əˈlaɪn/   v. 公开支持，与……结盟；（使）排成一条直线，使平行；调整，使一致；（使）参加，加入
+alignment  /əˈlaɪnmənt/   n. 排成直线，摆放恰当；结盟；协调，一致；（铁路或道路的）路线；石排
+allocate  /ˈæləkeɪt/   v. 分配，分派，划拨
+allocator  /ˈæləkeɪtər/   n. 分配算符
+allude  /əˈluːd/   v. 暗指，影射；略加提及；（艺术家，艺术品）使人想起（从前的作品或风格）
+alphabetically  /ˌælfəˈbetɪkli/   adv. 照字母顺序排列地
+alphanumeric  /ˌælfənuːˈmerɪk/   adj. [计] 字母数字的
+ambiguous  /æmˈbɪɡjuəs/   adj. 模棱两可的，有歧义的；不明朗的，不确定的
+amenable  /əˈmiːnəb(ə)l/   adj. 有责任的：顺从的，服从的；有义务的；经得起检验的
+amortization  /ˌæmərtəˈzeɪʃn/   n. [会计] 分期偿还
+amortize  /ˈæmərtaɪz/   vt. 摊销（等于 amortise）；分期偿还
+ampersand  /ˈæmpərsænd/   n. &的记号名称（＆等于 and）
+ample  /ˈæmp(ə)l/   adj. 充足的，充裕的；丰满的；宽敞的，巨大的
+analogous  /əˈnæləɡəs/   adj. 相似的，类似的；（器官）同功的
+analogue  /ˈænəlɔːɡ/   n. 相似物，类似事情；相似化合物
+analogy
+  /əˈnælədʒi/   n. 类比，比拟；用类比方法，进行比照；同功
+analyze  /ˈænəlaɪz/   vt. 对……进行分析，分解（等于 analyse）
+anatomy  /əˈnætəmi/   n. 解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼
+angle bracket  /ˈæŋɡl brækɪt/   尖括号：一种标点符号，通常用于表示代码或标记语言中的标签、注释或特定的文本结构。
+angle brackets  /ˈæŋɡl ˈbrækɪts/   尖括号：指标点“<”和“>”，在数学中用于表示不等式，在计算机编程中用于括起代码或表示泛型类型。
+annotation  /ˌænəˈteɪʃ(ə)n/   n. 注释，评注；注释，加注
+annulment  /əˈnʌlmənt/   n. 取消；废除
+anomaly  /əˈnɑːməli/   n. 异常事物，反常现象；近点角，近点距离
+anonymous  /əˈnɑːnɪməs/   adj. 匿名的，不知名的；不记名的，不具名的；无特色的
+antagonist  /ænˈtæɡənɪst/   n. 对手，敌手，对立者；拮抗物；拮抗肌
+API  /ˌeɪ piː ˈaɪ/   应用程序接口（Application Programming Interface）；
+appearance  /əˈpɪrəns/   n. 露面，演出；出庭，到场；
+append  /əˈpend/   v. <正式>附加，增补
+application  /ˌæplɪˈkeɪʃ(ə)n/   n. 正式申请，书面申请；申请书，申请表；敷用，涂抹；应用，实施；指称；应用软件；勤奋，努力
+apply to  /əˈplaɪ tu/   请求某事物，通常是正式的，特别是通过书面或提交表格的方式
+appropriate  /əˈproʊpriət/   adj. 合适的，相称的
+approximate  /əˈprɑːksɪmət/   adj. 大概的，近似的
+arbitrary  /ˈɑːrbɪtreri/   adj. 任意的，随心所欲的；专横的，武断的
+architecture  /ˈɑːrkɪtektʃər/   n. 建筑设计，建筑风格；建筑学；结构；计算机的体系结构，架构
+archive file   存档文件：一种用于存储和组织多个文件或目录的文件格式，通常用于压缩和备份数据。
+argument  /ˈɑːrɡjumənt/   n. 争论，争吵；论据，理由；辩论，讨论；自变数；主词，受词；<古>书的内容提要
+arithmetic  /əˈrɪθmətɪk/   n. 算术；演算，计算；数据统计
+array  /əˈreɪ/   n. 一系列，大量；数组，阵列；盛装
+arrow operator   箭头操作符
+arrow operator arrow   
+articulate  /ɑːrˈtɪkjuleɪt/   v. 明确表达，清楚说明；口齿清楚地说，清晰地发音；用关节连接，连结
+ascent  /əˈsent/   n. 垂直上升；上坡路；攀登；（地位、职务的）提升，（水平的）提高；（某些宗教中的）升天
+ask for   请求见或与某人交谈
+aspect  /ˈæspekt/   n. 方面，特色；朝向，方位；外表，外观；（动词的）体
+assemble  /əˈsemb(ə)l/   v. （使）集合，（使）聚集；装配，组装
+assembly  /əˈsembli/   n. 议会，代表大会；集会，集会者；装配，组装；（计算机）汇编
+assembly language  /əˈsembli læŋɡwɪdʒ/   汇编语言：一种编程语言，由助记符代码组成，对应于相应的机器语言指令。
+assert  /əˈsɜːrt/   v. 坚称，断言；维护，坚持（权利或权威）；坚持自己的主张，表现坚定；生效，起作用
+asset  /ˈæset/   n. 有利条件，有价值的人或物；资产，财产
+assign  /əˈsaɪn/   v. 分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）
+assignment  /əˈsaɪnmənt/   n. 作业，任务；（工作等的）分配，指派；（财产、权利的）转让
+assignment operator   赋值运算符：一种用于将变量名所表示的存储位置中的值设置为特定值的运算符。
+associated  /əˈsoʊsieɪtɪd/   adj. 有关联的，相关的；联合的，联营的
+assume  /əˈsuːm/   v. 假定，假设，认为；装出，做出；承担，就职；呈现，具有；夺取，篡夺
+assured  /əˈʃʊrd/   adj. 自信的，有把握的；必将发生的，确定的；肯定得到（assured of sth.）
+asterisk  /ˈæstərɪsk/   n. 星号；星号键
+astronomy  /əˈstrɑːnəmi/   n. 天文学
+asymmetric  /ˌeɪsɪˈmetrɪk/   adj. 不对称的；不对等的
+asymmetry  /ˌeɪˈsɪmətri/   n. 不对称
+asynchronous  /eɪˈsɪŋkrənəs/   adj. [电] 异步的；不同时的；不同期的
+attribute  /əˈtrɪbjuːt/   v. 把……归因于；认为是……所作；认为……具有某种特质
+audience  /ˈɔːdiəns/   n. 观众，听众；读者；觐见，拜见；拥护者
+audio  /ˈɔːdioʊ/   adj. 声音的，音频的
+authenticate  /ɔːˈθentɪkeɪt/   v. 鉴定；证明……是真实的；（用户，程序）验证身份
+authentication  /ɔːˌθentɪˈkeɪʃn/   n. 证明真实性，鉴定；身份验证，认证
+authorization  /ˌɔːθərəˈzeɪʃ(ə)n/   n. 批准书，授权书；批准，授权
+automate  /ˈɔːtəmeɪt/   v. 使自动化
+automation
+  /ˌɔːtəˈmeɪʃ(ə)n/   n. 自动化
+auxiliary  /ɔːɡˈzɪliəri/   adj. 辅助的；备用的，后备的
+availability  /əˌveɪləˈbɪləti/   n. 可用性，可得性；空闲，闲暇；未婚，单身
+back off   退后、后退或放弃：在面对困难、压力或争论时主动撤退或放弃立场。
+backdoor  /ˈbækˌdɔːr/   adj. 秘密的
+background
+  /ˈbækɡraʊnd/   n. 出身背景，学历，经历；（事件或情况的）背景；背景声音；（画等的）后景；底色
+backslash  /ˈbækslæʃ/   n. 反斜杠，反斜线符号
+backup  /ˈbækʌp/   n. 支援，增援；备用品，后备；备份；伴唱，伴奏；堵塞
+backup device  /ˈbækʌp dɪˈvaɪs/   备份设备；备用设备
+backup file  /ˈbækʌp faɪl/   备份文件：指为了防止数据丢失或损坏而创建的副本文件，通常用于恢复原始文件的内容。
+backward compatible   向后兼容的：与旧设备或先前版本的软件兼容的性质。
+ballot  /ˈbælət/   n. （无记名）投票选举，投票表决；选票；投票总数（the ballot）
+bandwidth  /ˈbændwɪdθˌˈbændwɪtθ/   n. [电子][物] 带宽；[通信] 频带宽度
+base class   基类：其他类可以从中派生，继承其功能或接口的类；子类的潜在超类。
+base type  /beɪs taɪp/   基本类型：在计算机编程中，指的是一种基本的数据类型，如整数、浮点数、字符等。
+basis  /ˈbeɪsɪs/   n. 基础，要素；基准，方式；理由，根据；主要成分（或部分）
+batch  /bætʃ/   n. 一批，一批生产量
+BCL   abbr. 二进制文件；教会法规学士（Bachelor of Canon Law）；民法学士（Bachelor of Civil Law）
+bear  /ber/   v. 手持，携带；（车，船）运输，运送；写有，刻有；以（姓名，头衔）相称；见证，作证；承担，担负（责任）；经得起；承受，容忍；生育（孩子）；（树，植物）结（果实），长出（花）；拐弯
+bearer  /ˈberər/   n. 持票人；[建] 承木；[机] 托架；送信人；搬运工人；不记名（债券，股票等）
+beep  /biːp/   v. （机器）哔哔响，嘟嘟响；（使）（汽车喇叭）鸣响；用传呼机召唤，呼（某人）
+beeper  /ˈbiːpər/   n. 传呼机；能发出哔哔声音的仪器；导弹遥控员
+beforehand  /bɪˈfɔːrhænd/   adv. 事先，预先，提前
+below  /bɪˈloʊ/   prep. （位置）在……下面； （数、量、水平等）在……以下；（职位、官衔等）低于
+benchmark  /ˈbentʃmɑːrk/   n. 基准；（监测计算机性能的）基准（问题）标准检查程序；（测量高度的）水准点，基准点
+Beneath the surface
+   超出显而易见的范围：超越表面之下的事物。
+benign  /bɪˈnaɪn/   adj. 和蔼的，慈祥的；（物）无害的，温和的；（肿瘤）良性的；（疾病）无生命危险的；（条件、环境）良好的，宜人的；认为无关紧要的
+bidder  /ˈbɪdər/   n. 投标人；出价人；命令者
+bilinear  /baɪˈlɪnɪər/   adj. 双线性的
+Bin Packing   装箱问题：一种组合优化问题，目标是将一组物品放入一个或多个容器中，使得容器的利用率最大化。
+binary  /ˈbaɪnəri/   adj. 由两部分组成的，二重的；二进制的（用 0 和 1 记数）
+binary tree  /ˈbaɪnəri triː/   二叉树：一种计算机网络，每个节点最多只有两个下属节点。
+binding  /ˈbaɪndɪŋ/   adj.  (协议，承诺）有约束力的，必须遵守的
+BIOS   abbr. 基本输入/输出系统 Basic Input / Output System）
+bit  /bɪt/   n. 小片，小块；小部分，片段；（一组东西中的）一个；<美>喜剧小品，小笑话；比特；辅币，12.5美分；马嚼子；钻头；<非正式>（与某活动、过程有关的）所有事情；<非正式>女孩，姑娘；<英，非正式>（人的）生殖器
+bitmap  /ˈbɪtmæp/   n. [计] 位图，位映像
+bitwise   adj. （计算机）逐位，按位
+bitwise copy   位元逐一复制
+bitwise operation   [计] 逐位运算
+block  /blɑːk/   n. 大块，一块（木料、石头等）；（四面临街的）街段，街区；大楼，大厦；栋，座，幢；障碍物，阻碍；（短时间的）思维停滞，思维中断；一组，一批，一叠；（连续的）一段时间；阻挡，拦截；积木；（古代斩首用的）垫头木；<美>一大片土地；（物体的）平面，纯色色块；滑轮，滑轮组；区块
+bogus  /ˈboʊɡəs/   adj. 假冒的，伪造的
+bookkeeping  /ˈbʊkkiːpɪŋ/   n. 记帐，簿记
+boolean  /ˈbuːliən/   adj. 布尔数学体系的
+boot  /buːt/   n. 靴子；猛踢；（汽车的）行李箱，后备箱；车轮固定夹；解雇；再者，除此之外（to boot）
+border  /ˈbɔːrdər/   n. 国境，边界；镶边，包边；狭长花坛，花带
+bottleneck  /ˈbɑːtlnek/   n. 瓶颈；障碍物
+bounds checking   边界检查
+boxing  /ˈbɑːksɪŋ/   n. 拳击（运动）
+brace  /breɪs/   v. （使）作好准备；支撑，加固；抵住，顶住；（身体或身体某部分）绷紧
+bracket  /ˈbrækɪt/   n. （固定在墙上的）托架，支架；（收入、年龄等的）等级段，组级；括号；夹叉射击
+breach  /briːtʃ/   n. 违反，破坏；（关系）中断，终止；缺口
+breakpoint  /ˈbreɪkˌpɔɪnt/   n. [计] 断点，断裂点
+broadly  /ˈbrɔːdli/   adv. 广泛地，普遍地；大体上；（笑容）开怀地；多方面的，全面的
+browser applications   浏览器应用程序
+brute  /bruːt/   n. 粗野的人，残忍的人；强壮的男子；大野兽，牲畜；笨重难看的东西，麻烦事
+budget  /ˈbʌdʒɪt/   n. 预算；政府预算案
+bug  /bʌɡ/   n. <美>昆虫，虫子；<非正式>小病，轻微的传染病；（计算机程序中的）漏洞，故障；窃听器；<非正式>热衷，着迷
+build  /bɪld/   v. 建造，修建；发展，建立；逐渐增强
+built in  /ˌbɪlt ˈɪn/   内置的：使成为某物的固有部分。
+burglar  /ˈbɜːrɡlər/   n. 入室行窃者，窃贼
+business  /ˈbɪznəs/   n. 商业，买卖，生意；商务，公事；公司，企业；行业，职业；事务，职责；私事；事情；消费；系列事件
+business Logic   商业逻辑：计算机软件系统中的算法，用于模拟现实生活中的商业对象及其相互作用。
+business rules  /ˈbɪznəs ruːlz/   业务规则：在企业中用于指导业务决策和操作的一组规定或原则，通常涉及到公司的政策、目标和流程。
+buttons  /ˈbʌtnz/   n. [电]按钮（button 的复数形式）；纽扣
+byproduct  /ˈbaɪˌprɑːdʌkt/   n. 副产品
+byte
+  /baɪt/   n. 字节；8位元组
+cache  /kæʃ/   n. 隐藏处，秘窖；贮藏物，隐藏物（尤指武器）；高速缓冲存储器
+calendar  /ˈkælɪndər/   n. 日历；日程表；记事录，大事记；历法
+call  /kɔːl/   v. 给……取名；称呼，把……唤作；把……看作，把……算作；
+call operator   呼叫运算子；呼叫话务员
+call operator call   
+callback  /ˈkɔːlbæk/   n. 回收；回叫信号
+canonical  /kəˈnɑːnɪkl/   adj. 根据教规的，按照宗教法规的；真经的，正经的；标准的，典范的；准确的，权威的；
+cant  /kænt/   n. （尤指道德、宗教等方面的）伪善言辞；流行语；黑话；斜面；楔形木材
+capability  /ˌkeɪpəˈbɪləti/   n. 能力，才能；（国家的）军事力量；计算机性能
+capacity  /kəˈpæsəti/   n. 能力，才能；容积，容纳能力；职位，职责；功率，容积；生产量，生产能力
+capture
+  /ˈkæptʃər/   v. 俘获，捕获；夺取，占领；
+caret  /ˈkærət/   n. 脱字符号；插入符号
+carry  /ˈkæri/   v. 提，扛，背；携带，佩戴；运送，载运；传输（水、电等）；（水流、空气）夹带；送（口信），捎带；传播（疾病）；能记住，能回想起；支撑，承载；对……负责；使有效，使成功；发展，推进到；具有（某种特质）；带来（某种结果或后果）；被判处（某种刑罚）；传得远；扔（或踢）到……距离；以多数同意批准（提议）；赢得……的支持；<美>在（某个州或地区）赢得选举；标有，贴有（标签）；刊登，广播；出售；怀（胎）；使以某种姿势站立（移动）；（加法）进位；扶助，供养；准确地唱；怀着（某种感情）；超重，超载；（把人或物）列入名单，登记在案；干（别人的活儿）
+cascade  /kæˈskeɪd/   n. 小瀑布（尤指大瀑布的一支）；倾泻，流注；瀑布状物；倾泻（或涌出）的东西；（很快发生的）一连串事情；（尤指信息或知识等的）连续传递过程；（一个过程中前一个引发后一个的）连续阶段，一系列装置
+cascading delete   级联删除：在数据库中，当删除一个记录时，与其相关联的其他记录也会被自动删除的操作。
+cascading update   级联更新
+casting  /ˈkæstɪŋ/   n. 角色分配，演员挑选；铸件，铸造物
+catalog  /ˈkætəlɔːɡ/   n. [图情][计]目录；登记
+caveats   n. 警告；说明（caveat 的复数）
+centerpiece  /ˈsentərpiːs/   n. 中心装饰品；放在餐桌中央的摆饰
+chain  /tʃeɪn/   n. 链，链条；一连串，一系列；连锁商店；镣铐；测链；连环式（指一群房主先售后购的置屋方式）；<文>约束，束缚
+chance  /tʃæns/   n. 机会，时机；可能性；危险，冒险；运气，偶然
+character  /ˈkærəktər/   n. 性格，品质；特色，特征；人物，角色；勇气，毅力；某种人，古怪有趣的人；（书写或印刷）符号，文字，字体；名誉，名声
+character format   [计] 字符格式
+character set   字符集：一组由特定字符编码编码的字符，用于表示一种字符编码所能表示的字符集合。
+characteristic  /ˌker.ək.təˈrɪs.tɪk/   n. 特征，特点，特色
+charged  /tʃɑːrdʒd/   adj. 引起强烈感情的，气氛紧张的；充电的，带电的
+check box   选择框：在清单或表格中用于打勾选择、标记任务完成等的小方框。
+check button   检查按钮：一种用于确认或检查信息的按钮，通常出现在电子设备或软件应用程序中。
+checked exception  /tʃekt ɪkˈsepʃn/   受检异常
+checkpoint  /ˈtʃekpɔɪnt/   n. 检查站，关卡
+child class   子类
+CIL   abbr．通用中间语言（Common Intermediate Language）：.NET框架中的一种中间语言，用于在不同编程语言之间实现互操作。
+ciphertext  /ˈsaɪfərˌtekst/   n. 密文
+circumvent  /ˌsɜːrkəmˈvent/   v. <正式>规避，回避；（为避免某物而）改道，绕过；克服（问题，困难）（尤指暗中智取）；<古>欺骗，智胜
+cite  /saɪt/   v. 引用，援引；引证，引以为例；传唤，传讯；嘉奖，表彰
+claim  /kleɪm/   v. 声称，断言；索取，索要（钱）；要求（拥有），认领；使丧生，致命；赢得，获得；值得，需要（花时间或精力）
+class  /klæs/   n. 班级；（一节）课，上课时间；（某一科目的）课程；阶级，阶层；等级划分，等级制度；（货物、服务或人的）等级，类别；（飞机、火车等的）舱位等级，车厢等级；品味；同届毕业生；<英>（英国大学的）学位等级；（生物）（植物或动物分类的）纲；（比赛的）组别
+class body   类别本体
+class declaration   类别定义
+class definition   类别定义
+class factory   类工厂
+class head   类别表头：指在表格或列表中，用于标识每一列的标题行。
+class hierarchy   类层次结构：计算机科学中对象类型的分类，通过继承、扩展、抽象和接口定义等关系相互关联各个类别。
+class library   类库：一种软件开发工具，包含了一组预先编写好的类和接口，用于帮助开发者更快速地构建应用程序。
+class loader   类加载器：在Java编程语言中，类加载器是负责将类文件加载到Java虚拟机中的组件。它负责查找和加载类文件，并将其转换为可执行的Java字节码。
+class template   类模板
+classification  /ˌklæsɪfɪˈkeɪʃ(ə)n/   n. 分类，分级；类别，级别；（动植物等的）分类学，分类法；（图书馆的书、磁带、杂志等的）分类系统，编目
+clause  /klɔːz/   n. 从句，分句；（法律文件的）条款
+cleanup  /ˈklinˌʌp/   n. 清除；暴利；清扫工作；第四防守位置
+CLI   abbr. 命令行界面（Command Line Interface for batch scripting）；生活指数（Cost of Living Index）
+client  /ˈklaɪənt/   n. 客户，委托人；客户机，用户端；（古罗马）贵族庇护下的平民；<古>受赡养者，食客
+client application  /ˈklaɪənt ˌæplɪˈkeɪʃn/   客户端应用程序：一种运行在用户设备上的软件，用于与服务器端应用程序进行通信和交互。
+client area   客户区；工作区
+client cursor   客户端光标：在计算机界面中，表示用户当前操作位置的符号，通常是一个闪烁的竖线或箭头。
+client-server  /ˌklaɪənt ˈsɜːrvər/   adj. 客户（端）服务器的，主从式网络的
+clipboard  /ˈklɪpbɔːrd/   n. 剪贴板；附有纸夹的笔记板
+clone  /kloʊn/   n. （动植物的）无性繁殖，克隆；极为相似的人（或事物），复制品；仿制品，山寨货；复制器，仿制机；<非正式>外表或着装夸大男性气概的男同性恋者
+CLS   abbr. 公共语言规范 Common Language Specification; 控制室监听；屏幕清除的系统命令
+cluster
+  /ˈklʌstər/   n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀；基
+clutter  /ˈklʌtər/   n. 杂乱的东西；杂乱
+coarse-grained   adj. 粗鲁的；木纹粗糙的；粗略的，大概的
+code access security   程式码存取安全性，代码访问安全性
+code page   代码页
+coefficient  /ˌkoʊɪˈfɪʃ(ə)nt/   n. （数）系数；（物理）率，系数
+COFF   abbr. 通用目标文件格式（Common Object File Format）
+cohesive  /koʊˈhiːsɪv/   adj. 团结的，有凝聚力的；使团结的，使凝聚的
+collaborative  /kəˈlæbəreɪtɪv/   adj. 合作的，协作的
+collection  /kəˈlekʃ(ə)n/   n. 收藏品，收集物；募捐；一堆（东西），一群（人）；系列时装；专辑，作品集；领取，收取；收集，采集；收账，收债；<英>（尤指牛津大学的）学院期初（或期末）考试
+collector  /kəˈlektər/   n. 收藏家；[电子] 集电极；收税员；征收者
+collude  /kəˈluːd/   vi. 勾结；串通；共谋
+colon  /ˈkoʊlən/   n. 冒号；
+column  /ˈkɑːləm/   n. 列
+COM  /kɑːm/   abbr. 组件对象模型（Component Object Model）；
+combined  /kəmˈbaɪnd/   adj. 联合的，共同的；总和的，总计的
+combo box   组合框：一个图形用户界面小部件，结合了下拉列表或列表框和单行文本框的功能，允许用户直接输入值或从现有选项列表中选择。
+comma  /ˈkɑːmə/   n.  逗号；
+command line  /kəˈmænd laɪn/   命令行：计算机操作系统中的命令行界面，通常用于与用户交互。
+comment  /ˈkɑːment/   n. （计算机）注解
+commit  /kəˈmɪt/   v. 提交
+commonly  /ˈkɑːmənli/   adv. 通常，大多数人地
+commonsense  /ˌkɑːmənˈsens/   adj. 常识的；具有常识的
+communication  /kəˌmjuːnɪˈkeɪʃn/   n. 表达，交流，交际；信息，书信，电话；通讯，交通联系；传播学
+communicator  /kəˈmjuːnɪkeɪtər/   n. 沟通的人，交流者；发报机；通信员
+compact  /kəmˈpækt/   adj. 小型的，袖珍的；紧凑的；紧密的，坚实的；矮小而健壮的；（演讲，作品）简洁的，简练的
+companion  /kəmˈpænjən/   n. 同伴，伴侣；（受雇照料老人或病人的）陪护；成对的物品之一；同甘共苦的伙伴；（用于书名）指南，手册；伴星；最低级爵士
+comparison  /kəmˈpærɪsn/   n. 比较，对照；相提并论，相比；比喻，比拟；（副词或形容词的）比较（变化）
+compatible  /kəmˈpætəb(ə)l/   adj. 兼容的；可共存的；可和睦相处的；与……一致的
+compensate  /ˈkɑːmpenseɪt/   v. 赔偿，偿付；弥补，补偿；抵消；酬报（某人）
+compile time  /kəmˈpaɪl taɪm/   编译时间：程序从源代码转换为机器代码的时间点，通常用于描述编译的时间。
+compiler  /kəmˈpaɪlər/   n. 编译器；[计] 编译程序；编辑者，汇编者
+complement  /ˈkɑːmplɪment/   v. 补充，补足
+complete  /kəmˈpliːt/   adj. 完全的 v. 使完整
+complexity  /kəmˈpleksəti/   n. 复杂性，错综复杂；复杂之处，费解之处
+compliance  /kəmˈplaɪəns/   n. 服从，遵守；屈从，迁就；可塑性，柔量
+component  /kəmˈpoʊnənt/   n. 组成部分，成分，部件
+compose  /kəmˈpoʊz/   v. 组成，构成；作曲；撰写（信、诗或演讲稿）；使镇静，使平静；为（照片、图像）构图；排版，排稿
+composite  /kəmˈpɑːzət/   adj. 合成的，复合的；（火车车厢）综合的；菊科的；（柱式）混合的
+composite index   同时发生指标的综合指数：由多个经济指标组合而成，用于衡量经济活动的总体趋势。
+composite key   复合键：在数据库中，由两个或多个字段组成的键，用于唯一标识表中的记录。
+composition  /ˌkɑːmpəˈzɪʃ(ə)n/   n. 成分构成，成分；（音乐、艺术、诗歌的）作品；创作，作曲；构图；作文
+comprehend  /ˌkɑːmprɪˈhend/   v. 理解，领悟；包括，包含
+comprehensive  /ˌkɑːmprɪˈhensɪv/   adj. 综合性的，全面的；有理解力的
+comprehensively  /ˌkɑːmprɪˈhensɪvli/   adv. 包括地；包括一切地；完全地；彻底地；全面地
+compress  /kəmˈpres/   v. （使）压紧，压缩；精简，浓缩；压缩（文件）；缩短（时间）
+compression  /kəmˈpreʃ(ə)n/   n. 压紧，压缩
+compromise  /ˈkɑːmprəmaɪz/   n. 折中，妥协；妥协方案，折中办法
+compromising  /ˈkɑːmprəmaɪzɪŋ/   adj. 有失体面的；不宜泄露的；使处于难堪境地的
+computer  /kəmˈpjuːtər/   n. 计算机；电脑；电子计算机
+concatenate  /kənˈkæt(ə)nˌeɪt/   v. 连接，连结，使连锁
+concatenation  /kənˌkætəˈneɪʃn/   n. 一系列相互关联的事，连结
+concept  /ˈkɑːnsept/   n. 概念，观念
+conclude  /kənˈkluːd/   v. 断定，推断出；结束，终止；达成，做成，完成；<美>决定
+concrete
+  /ˈkɑːnkriːt/   adj. 确实的，具体的；实在的，有形的；混凝土的；物质的
+concrete class   具体类：在面向对象编程中，具体类是一种可以实例化的类，它具有完整的实现细节，可以创建对象并执行特定任务。
+concurrency  /kənˈkɜːrənsi/   n. [计] 并发性；同时发生
+concurrent  /kənˈkɜːrənt/   adj. 并存的，同时发生的；同意的，一致的；（两个或两个以上徒刑判决）同时执行的；（三条或三条以上线）共点的，会合的
+condition  /kənˈdɪʃ(ə)n/   n. 状况，状态；条件，环境；疾病；条款；<旧>社会地位
+conditional  /kənˈdɪʃən(ə)l/   adj. 有条件的，有前提的；（从句）条件的
+conduct  /kənˈdʌkt/   v. 实施，进行；指挥；带领，引导；举止，表现；传导
+confidential  /ˌkɑːnfɪˈdenʃ(ə)l/   adj. 机密的，保密的；（言谈举止）神秘的，隐秘的；受信任的，委以机密的
+confidentiality  /ˌkɑːnfɪˌdenʃiˈæləti/   n. 保密性，机密性
+configuration  /kənˌfɪɡjəˈreɪʃ(ə)n/   n. 布局，构造；配置
+conflict  /ˈkɑːnflɪkt/   n. 争执，争论，分歧；战斗，战争；抵触，矛盾
+confound  /kənˈfaʊnd/   vt. 使困惑惊讶，使惊疑；证明……有错，驳倒；打败，挫败（敌人、计划等）；<旧>讨厌，该死；使混淆
+congruent  /ˈkɑːŋɡruənt/   adj. 相合的，一致的；（图形）全等的，叠合的
+conjugate  /ˈkɑːndʒəɡeɪt/   v. 列举（动词的）词形变化；结合；使成对；使共轭
+connection  /kəˈnekʃ(ə)n/   n. 关系，联系；连接，接通；连接物，接头；联运，转车，转机；交通线；人际关系，人脉；亲戚，旁系亲属；<美，非正式>毒品贩子
+connection pooling   连接池
+consecutive  /kənˈsekjətɪv/   adj. 连续的，不间断的
+consensus  /kənˈsensəs/   n. 一致看法，共识
+conservative  /kənˈsɜːrvətɪv/   adj. 保守的；保守派的，保守主义的（认为政府应该实行政治保守主义）；（衣着）守旧的，传统的；低估的；保守党的；不愿冒险的，谨慎的
+consider  /kənˈsɪdər/   v. 考虑，斟酌；认为，视为；体贴，顾及；细看，端详；探讨，讨论
+consistency  /kənˈsɪstənsi/   n. 一致性，连贯性；黏稠度，平滑度
+consistent  /kənˈsɪstənt/   adj. 始终如一的，一贯的；持续的，连续的；固守的，坚持的；一致的，吻合的
+console  /kənˈsoʊl/   v. 安慰，慰藉
+const  /ˈkɒnst/   n. 常量，常数
+constant
+  /ˈkɑːnstənt/   adj. 持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的
+constituent  /kənˈstɪtʃuənt/   n. 选民；成分，构成要素；委托人
+constitute  /ˈkɑːnstɪtuːt/   v. 组成，构成；是，被视为；成立，设立；任命
+constraint  /kənˈstreɪnt/   n. 限制，束缚；克制，拘束
+construct  /kənˈstrʌkt/   v. 建造，修建；组成，创立，构思；绘制，作图
+constructive  /kənˈstrʌktɪv/   adj. 建设性的，有助益的；<法律>推定的；（与）推断（有关）的，以推断为基础的；构造上的
+constructor  /kənˈstrʌktər/   n. 构造函数；构造器；建造者
+consultative  /kənˈsʌltətɪv/   adj. 咨询的，顾问的
+consumption  /kənˈsʌmpʃ(ə)n/   n. 消费，消耗；食用，引用，吸入；专用；<旧>肺痨，肺结核
+contact  /ˈkɑːntækt/   n. 联系，联络；接触，触摸；联络人，熟人，社会关系；会见，往来，接触；传染病接触者；隐形眼镜；接通电，触点，接头；（无线电）通信
+container  /kənˈteɪnər/   n. 容器；集装箱，货柜
+containment  /kənˈteɪnmənt/   n. 控制，抑制；（对他国力量的）遏制
+context  /ˈkɑːntekst/   n. 背景，环境；上下文，语境
+contract  /ˈkɑːntrækt/   n. 合同，契约；<非正式>暗杀协议；（桥牌）定约墩数；婚约，订婚
+contrast  /ˈkɑːntræst/   n. 差异，对比；对照物，明显不同的事物；（摄影或绘画中的）颜色反差，明暗对比；（电视屏幕的）图像明暗对比度，反差
+control  /kənˈtroʊl/   n. （对国家、地区、机构等的）控制权，支配权；控制能力；操纵装置；管理，管制；指挥（或检查、控制）站，指挥（或检查、控制）人员；（键盘上的）控制键
+controversial  /ˌkɑːntrəˈvɜːrʃ(ə)l/   adj. 有争议的，引发争论的
+convenient  /kənˈviːniənt/   adj. 方便的，便利的；附近的，方便到达的；<旧>适当的
+convention  /kənˈvenʃ(ə)n/   n. 习俗，惯例；大会，集会；公约，协定；
+conversely  /ˈkɑːnvɜːrsli/   adv. 相反地，反过来说
+convex  /ˈkɑːnveks/   adj. 凸面的，凸出的；凸多边形的
+convince  /kənˈvɪns/   v. 使确信，使信服；说服，劝服
+cookie  /ˈkʊki/   n. 曲奇饼，小甜饼；……样的人；（浏览网页后存储在计算机的）缓存文件；<苏格兰>淡面包；漂亮的年轻女子
+copy  /ˈkɑːpi/   v. 抄写，誊写；模仿，效法；作弊，抄袭；听见（或明白）无线电收发报机中讲话人的话；复制，拷贝
+CORBA   n. 公共对象请求代理架构（Common Object Request Broker Architecture）：一种用于支持分布式对象系统的中间件技术，由对象管理组织（Object Management Group，OMG）开发。它允许在不同计算机上运行的程序通过网络互相通信和交互。
+correct  /kəˈrekt/   adj. 正确的，无误的；恰当的，合适的；（行为）合乎礼节的，得体的；（行为）被人认可的，赞许的
+correlate  /ˈkɔːrəleɪt; ˈkɔːrələt/   v. 相互关联；显示紧密联系
+correspond  /ˌkɔːrəˈspɑːnd/   v. 类似于，相当于；通信；相一致，符合
+correspondence  /ˌkɔːrəˈspɑːndəns/   n. 信件，信函；通信；相似，关联
+corresponding  /ˌkɔːrəˈspɑːndɪŋ/   adj. 相应的，相关的
+cosine  /ˈkoʊsaɪn/   n. [数] 余弦
+cost-effective  /ˌkɔːst ɪˈfektɪv/   adj. 划算的；成本效益好的（等于 cost-efficient）
+cost-efficient  /ˌkɔːst ɪˈfɪʃnt/   adj. 有成本效益的；合算的
+cottage  /ˈkɑːtɪdʒ/   n. 小屋，村舍，乡间别墅；<非正式>（同性恋者聚集的）公共厕所
+countermeasure  /ˈkaʊntərmeʒər/   n. 对策；反措施；反抗手段
+counterpart  /ˈkaʊntərpɑːrt/   n. 对应的人（或事物）；（法律文件的）副本
+cover  /ˈkʌvər/   v. 覆盖，遮盖；包括，涉及；报道；占（一片面积）；行走（一段路程）；掩护；翻唱；给……保险；足够支付；守住，封锁；顶替，代替（cover for）；找借口，包庇（cover for）；采取行动（保护自己）（cover oneself）；防守，（棒球）守（垒）；（以更大点数的牌）盖打
+covert  /ˈkʌvərt/   adj. 隐蔽的，秘密的；在丈夫保护下的
+craft  /krɑːft/   n. 工艺，手艺；船，艇，飞行器；诡计，骗术；行业，职业；手工艺品
+create  /kriˈeɪt/   v. 创造，创建；设计，创作；造成，引起；授予，册封；<英，非正式>大惊小怪，抱怨
+creation  /kriˈeɪʃ(ə)n/   n. 创造，创建；作品，创作；（上帝）创造天地；宇宙，世界，天地万物；授予，册封
+crisp  /krɪsp/   adj. 爽口的，脆生的；脆的，易碎的；洁净的，挺括的；（图片或声音）清晰的，清脆悦耳的；清新的，凉爽的；（言行）干脆利落的；轻快的，利索的
+criterion  /kraɪˈtɪriən/   n. 尺度，标准，准则
+critical  /ˈkrɪtɪk(ə)l/   adj. 批判的，爱挑剔的；极其重要的，关键的；严重的，危急的；病重的，重伤的；评论性的，评论家的；临界的
+crosstab query   交叉表查询
+crucial  /ˈkruːʃ(ə)l/   adj. 至关重要的，决定性的；<非正式>极好的
+cryptographic  /ˌkrɪptəˈɡræfɪk/   adj. 关于暗号的，用密码写的
+Cryptography  /krɪpˈtɑːɡrəfi/   n. 密码学；密码使用法
+CTS   abbr. 原油储存基地（Crude oil Transshipment Station）；中心石油储存和运输系统（Central Terminal System）
+cube  /kjuːb/   n. 立方体；立方，三次幂；<美，非正式>小室，小房间
+cumbersome  /ˈkʌmbərsəm/   adj. 笨重的；繁琐的，复杂的；（话语或措词）冗长的
+curly  /ˈkɜːrli/   adj. （头发）卷曲的，鬈曲的；弧形的，螺旋形的；（木材）有皱状纹理的
+curly brackets   花括号：一种用于表示集合、数组、代码块等的符号，通常由左右两个弯曲的大括号组成。
+cursor  /ˈkɜːrsər/   n. 光标；（计算尺的）[计] 游标，指针
+curve  /kɜːrv/   n. 曲线，弧线；转弯，弯道；图表曲线；曲线球；（女子身体的）曲线
+custom  /ˈkʌstəm/   n. 风俗，习俗；习惯；光顾，惠顾；<法律>惯例，习惯法；（经常性的）顾客
+customized  /ˈkʌstəmaɪzd/   adj. 定制的；用户化的
+daemon  /ˈdiːmən/   n. 魔鬼，恶魔（同 demon）；守护进程；后台程序；虚拟光驱软件
+dash  /dæʃ/   v. 猛冲，急奔；猛撞，撞击；使（希望或期望）破灭；迅速写或画
+data  /ˈdeɪtə/   n. 数据，资料；（储存在计算机中的）数据资料
+data connection  /ˈdeɪtə kəˈnekʃn; ˈdætə kəˈnekʃn/   数据连接：指设备之间通过网络传输数据的过程，通常用于互联网、手机等设备之间的信息交换。
+data dictionary   数据字典：描述系统中数据和元数据的文件或存储库，用于记录和定义系统中使用的数据和元数据的属性、结构和关系等信息。
+data dictionary view   数据字典视图
+data file  /ˈdeɪtə faɪl; ˈdætə faɪl/   数据文件：用于存储和组织数据的数字文件。
+data integrity  /ˈdætə ɪnˈteɡrəti; ˈdeɪtə ɪnˈteɡrəti/   数据完整性：指数据在存储、传输和处理过程中保持完整、准确和可靠的特性。确保数据没有被意外或恶意篡改、损坏或丢失。
+data mart   数据集市：数据仓库环境中的访问层，用于将数据的子集分发给用户。
+data member   数据成员
+data pump  /ˈdeɪtə pʌmp; ˈdætə pʌmp/   数据泵
+data scrubbing  /ˈdeɪtə ˈskrʌbɪŋ; ˈdætə ˈskrʌbɪŋ/   数据清理
+data source   数据源：提供数据的来源或渠道，可以是数据库、文件、网络等。
+data sovereignty   数据主权：指一个国家或组织对其所产生、收集、存储、处理的数据拥有完全的控制权和所有权。
+data structure   数据结构：在计算机中组织数据的各种方法或格式，例如数组、文件或记录等。
+Data Structures   数据结构；资料结构
+data table  /ˈdeɪtə ˈteɪbl; ˈdætə ˈteɪbl/   数据表：以表格形式显示信息的任何形式，包含有行和/或列的名称。
+data warehouse   数据仓库：从各种来源收集的数据的集合，经过组织和整理，为组织的决策者提供有用的指导。
+data-aware control   
+database  /ˈdeɪtəbeɪs/   n. （计算机）数据库，资料库
+database catalog   数据库目录：一个存储数据库对象（如表、视图、索引等）信息的系统表集合，用于管理和组织数据库结构。
+database diagram   数据关系图；数据库图表
+database file  /ˈdeɪtəbeɪs faɪl/   [计] 数据库文件
+database object   资料库物件
+database owner   数据库的所有者，建表户
+database project   数据库项目
+database role   资料库角色，数据库角色
+database schema  /ˈdeɪtəbeɪs ˈskiːmə/   数据库模式：数据库模式是指数据库中表、字段、关系和约束等元数据的结构和组织方式。它定义了数据库中数据的逻辑结构和关系，以及数据的约束和完整性规则。
+database script   数据库脚本：一种用于管理和操作数据库的编程代码，通常用于创建、修改或删除数据库对象，以及查询和更新数据。
+data-bound   adj．数据绑定的：指与数据源相连接的软件组件或控件，用于显示和操作数据。
+datagram  /ˈdetəˌɡræm/   n. 数据电报
+dataset  /ˈdeɪtəset/   n. 资料组
+DBMS  /ˌdiː biː em ˈes/   abbr. 数据库管理系统（Data Base Management System）
+DCOM   abbr. 分布式组件对象模型（Distributed Component Object Model）
+dead letter queue   死信队列
+dead lock   死锁：一种门锁的类型，具有内部未锁定的扭转机制，通常用于防火出口。
+deallocate  /dɪˈæləkeɪt/   解除分配
+debug  /ˌdiːˈbʌɡ/   vt. 调试；除错，改正有毛病部分；[军] 除去窃听器
+debugger  /ˌdiːˈbʌɡər/   n. 调试器；[计] 调试程序
+debunk  /diːˈbʌŋk/   v. 揭穿……的真相，证明……是错误的；（尤指借奚落、嘲弄来）消减（某人）名过其实的声誉
+decay  /dɪˈkeɪ/   v. （建筑、地方等）破败，衰落；（观念、影响力等）衰败；（使）腐朽，腐烂
+decision  /dɪˈsɪʒ(ə)n/   n. 决定，抉择；判决，裁定；果断，决断力；作决定，决策
+decision support   决策支持：一种计算机程序，能够整理和排序大量的数据，并用于帮助公司和组织中的人员基于这些数据做出重要决策的系统。
+declaration  /ˌdekləˈreɪʃn/   n. 声明，表白；申报（单）；（板球）对一赛局结束的宣布；公告，宣告
+declarative  /dɪˈklærətɪv/   adj. 公告的，宣言的；陈述的，叙述的
+declare  /dɪˈkler/   v. 宣布，声明；断言，宣称；申报；放弃击球，宣布结束赛局
+decouple  /diːˈkʌpl/   vt. 减弱震波；使分离
+dedicate  /ˈdedɪkeɪt/   v. 致力于，献身于；把（书、戏剧、音乐作品等）献给；为（建筑物或教堂）举行奉献（或落成）典礼
+dedicated  /ˈdedɪkeɪtɪd/   adj. 专心致志的，献身的；专用的，专门用途的
+deduction  /dɪˈdʌkʃ(ə)n/   n. 演绎，推论；扣除，扣除额
+default  /dɪˈfɔːltˌˈdiːfɔːlt/   n. 不履行，违约；默认，系统设定值；缺席，弃权
+DEFAULT constraint   默认约束；缺省约束
+default database   默认数据库；预设资料库
+default instance  /dɪˈfɔːlt ˈɪnstəns; ˈdiːfɔːlt ˈɪnstəns/   默认实例
+defer  /dɪˈfɜːr/   v. 延期，推迟；听从，遵从（defer to）
+define  /dɪˈfaɪn/   v. 给……下定义，解释；阐明，使清楚；标明……界限，明确显出……轮廓；是……的特征，为……的特色
+defy  /dɪˈfaɪ/   v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
+degradation  /ˌdeɡrəˈdeɪʃ(ə)n/   n. 丢脸，落魄，侮辱；损害，恶化，衰退；降解；陵夷，剥蚀
+delay  /dɪˈleɪ/   v. 推迟，延期；延误，耽搁；（故意）拖延，磨蹭
+delegate  /ˈdelɪɡət/   n. 代表；委员会成员
+delegation  /ˌdelɪˈɡeɪʃn/   n. 代表团；授权，委派
+delineate  /dɪˈlɪnieɪt/   v. （详细地）描述，解释；标明，标示（边界）
+delivery  /dɪˈlɪvəri/   n. 递送，投递；递送物；演讲风格，演说方式；分娩，生产；投球方式
+demarshal mechanism   
+demonstrate  /ˈdemənstreɪt/   v. 证明；示范，演示；表露；游行，示威
+denote  /dɪˈnoʊt/   v. 标志，预示；表示，意指
+dependent name   
+depict  /dɪˈpɪkt/   v. 描述，描绘
+deploy  /dɪˈplɔɪ/   v. 部署，调度；利用
+deployment  /dɪˈplɔɪmənt/   n. 有效运用；部署，调动
+deprecated  /ˈdeprəkeɪtɪd/   vt. 强烈反对，抨击；对……表示不赞成；贬低（deprecate 的过去式和过去分词）
+depreciation  /dɪˌpriːʃiˈeɪʃ(ə)n/   n. 贬值，跌价；贬低，轻视
+dereference  /ˌdiːˈrefrəns/   n. 废弃；解除参照
+dereference operator   解参考运算子
+derived  /dɪˈraɪvd/   adj. 导出的；衍生的，派生的
+derived class   派生类：面向对象编程中从另一个类派生出来的类，继承了基类的属性和方法，并可以添加自己的属性和方法。
+descent  /dɪˈsent/   n. 下降，降落；斜坡，斜面；出身，血统；堕落，沦落；突然到访，突袭
+describe  /dɪˈskraɪb/   v. 描述，形容；做……运动，形成……形状
+description  /dɪˈskrɪpʃn/   n. 描述，形容，说明；类型
+design by contract   契约式设计：一种设计计算机软件的方法，要求软件设计者为软件组件定义正式、精确、可验证的接口，增加先验条件、后验条件和不变式。
+design pattern   设计模式：一种形式化的方式，用于记录在特定专业领域中解决设计问题的通用可重用解决方案。
+designate  /ˈdezɪɡneɪt/   v. 把……定名为，把……描述为；任命，指定；标明，标示
+desire  /dɪˈzaɪər/   n. 愿望，欲望，渴望；情欲，性欲
+destroy  /dɪˈstrɔɪ/   v. 破坏，毁灭；杀死，人道毁灭（受伤、生病或危险的动物）；彻底打败，击溃；毁掉……的生活，使垮掉
+destruction  /dɪˈstrʌkʃn/   n. 破坏，摧毁
+destructor  /dɪˈstrʌktər/   n. 垃圾焚毁炉；爆炸装置
+determine  /dɪˈtɜːrmɪn/   v. 决定，控制；查明，确定；下定决心；判决，裁定；求出，解出；限定；<古>终止
+deterministic  /dɪˌtɜːrmɪˈnɪstɪk/   adj. 确定性的；命运注定论的
+detrimental  /ˌdetrɪˈment(ə)l/   adj. 有害的，不利的
+deviate  /ˈdiːvieɪt/   v. 偏离，脱离；违背
+device  /dɪˈvaɪs/   n. 装置，设备；手段，方法；花招，诡计；炸弹，爆炸装置；图画，设计；<古>（某物的）样式，外表
+devise  /dɪˈvaɪz/   v. 设计，发明；<法律>（通过遗嘱）遗赠（不动产）；<古>图谋
+DHTML   abbr. 动态超文本标记语言（Dynamic Hyper Text Markup Language）
+dialog  /ˈdaɪəlɔːɡ/   n. 对话；会话
+Dictionaries  /ˈdɪkʃənˌeri/   n. 字典；辞典（dictionary 的复数）
+differentiate  /ˌdɪfəˈrenʃieɪt/   v. 使不同；求……的微分；区别
+digest  /daɪˈdʒest/   v. 理解，领悟；消化
+digital  /ˈdɪdʒɪt(ə)l/   adj. 数字的，数码的；数字显示的；指头的，手指的
+DIME  /daɪm/   n. （美国、加拿大的）十分硬币；<非正式>小钱，少量的钱；<非正式>（就尺寸、面积或程度而言的）小东西
+dimensional  /daɪˈmenʃən(ə)l/   adj. 维度的
+directive  /dəˈrektɪvˌdaɪˈrektɪv/   n. 指示；指令
+directory  /dəˈrektəri/   n. 名址录，电话号码簿；（计算机的）目录，文件夹；<史>（尤指长老会和罗马天主教会的）礼拜规则书
+dirty pages   脏页
+dirty read   脏读
+disable  /dɪsˈeɪb(ə)l/   v. 使丧失能力，使伤残；使无效，使不能运转；使无资格
+disassemble  /ˌdɪsəˈsembl/   v.  反汇编
+disassembler  /ˌdɪsəˈsemblər/   n. [计] 反汇编程序
+discard  /dɪˈskɑːrd/   v. 扔掉
+discipline  /ˈdɪsəplɪn/   n. 纪律，风纪；惩罚，处分；训导，管教；训练，锻炼；自制力，自律能力；（尤指大学的）科目，学科
+disclaimer  /dɪsˈkleɪmər/   n. 不承诺，免责声明；放弃，拒绝
+disclose  /dɪsˈkloʊz/   v. 透露，公开；揭开，使显露
+disclosure  /dɪsˈkloʊʒər/   n. 披露，泄密；透露的秘闻，公开的事情
+discourteous  /dɪsˈkɜːrtiəs/   adj. 失礼的，无礼貌的；粗鲁的
+discrete  /dɪˈskriːt/   adj. 分离的，各别的
+discretely  /dɪˈskriːtli/   adv. 离散地，分离地
+discriminative  /dɪsˈkrɪməˌneɪtɪv/   adj. 区别的，歧视的；有识别力的
+disguise  /dɪsˈɡaɪz/   v. 假扮，伪装；掩饰，隐瞒
+disk  /dɪsk/   n. （计算机的）磁盘，磁碟；（计算机的）磁盘，磁碟（=disc）
+dispatch  /dɪˈspætʃ/   v. 派遣；发送；迅速处理，迅速办妥；杀死，处决
+disseminate  /dɪˈsemɪneɪt/   v. <正式>散布，传播（信息、知识等）
+dissuade  /dɪˈsweɪd/   vt. 劝阻，劝止
+distilled  /dɪˈstɪld/   adj. 由蒸馏得来的；净化的
+distinct  /dɪˈstɪŋkt/   adj. 不同的，有区别的；清楚的，明显的；确切的
+distinction  /dɪˈstɪŋkʃn/   n. 差别，区分；杰出，卓越；特点；荣誉
+distinguish  /dɪˈstɪŋɡwɪʃ/   v. 使有别于；看清，认出；区别，分清
+distributed query   分布式查询，分散式查询
+diverse  /daɪˈvɜːrs/   adj. 不同的，各式各样的
+diversified  /dɪˈvɜːrsɪfaɪd/   adj. 多样化的；各种的
+divisor  /dɪˈvaɪzər/   n. 除数；因子
+document  /ˈdɑːkjumənt/   n. 文件，公文，文献；证件，单据；（计算机）文件，文档
+dollar sign   美元符号：放在数字前面表示代表美元的符号。
+DOM  /dɑːm/   abbr. 溶解有机物（Dissolved Organic Matter）；数字欧姆（Digital Ohmmeter）
+dot operator   点操作符
+downside  /ˈdaʊnsaɪd/   n. 缺点，不利方面
+downwards arrow   向下箭头
+driver  /ˈdraɪvər/   n. 司机，驾驶员；驱动程序；推动力；驱赶某种动物的人；传动装置，主动轮；（电子）激励器；高尔夫球棒
+DTD   abbr. 文件类型定义（document type definition）
+dual  /ˈduːəl/   adj. 双的，双重的；双数的；（飞机）双重控制的，复式操纵的；（定理、表达式等）对偶的
+dump  /dʌmp/   v. 丢弃，扔掉；乱堆，乱放；丢下，抛弃；分手，甩掉；倾销，抛售；转储，转存（计算机数据）；（尤指系统发生故障后内存的）打印输出，卸出
+dump file  /dʌmp faɪl/   转储文件：指计算机系统或程序在发生错误或异常时将内存中的数据保存到磁盘上的文件。
+duplicate  /ˈduːplɪkeɪt/   v. 复制，复印；（无必要地）重复（某事）；使成倍增加
+durability  /ˌdʊrəˈbɪləti/   n. 持久性，耐用性
+dynamic assembly   动态组装；动态装配
+dynamic binding  /daɪˈnæmɪk ˈbaɪndɪŋ/   动态绑定：在计算机编程中，一种在运行时确定对象类型并调用相应方法的技术，而不是在编译时确定。
+dynamic cursor   动态游标
+dynamic filter   动态滤波器，动态筛选：指根据动态变化的条件或规则对数据进行筛选或过滤的过程。
+dynamic locking   动态锁定
+dynamic recovery   动态回复
+dynamic snapshot   动态快照
+eavesdrop  /ˈiːvzdrɑːp/   v. 偷听，窃听
+e-business  /ˈiː bɪznɪs; ˈiː bɪznəs/   n. 电子商务
+effectiveness  /ɪˈfektɪvnəs/   n. 有效性，效力
+efficiency  /ɪˈfɪʃ(ə)nsi/   n. 效率，效能；（机器的）功率
+efficient  /ɪˈfɪʃ(ə)nt/   adj. 生效的，效率高的；（人）有能力的，能胜任的
+elaborate  /ɪˈlæbərət/   adj. 复杂的，详尽的；精心制作的
+elapse  /ɪˈlæps/   v. 消逝
+elastic  /ɪˈlæstɪk/   adj. 有弹性的；灵活的
+elasticity  /ˌiːlæˈstɪsəti/   n. 弹性，弹力；灵活性
+elect  /ɪˈlekt/   v. 选举；选择（做）；（上帝）挑选（某人）（而使其灵魂永远得救）
+elegant  /ˈelɪɡənt/   adj. （人）高雅的，举止优雅的；精美的，雅致的；简练的，巧妙的
+element  /ˈelɪmənt/   n. 基本部分，要素；元素；有点，少量；一群人；恶劣天气（the elements）；基本原理；适宜的环境；电热元件，电热丝；（基督教圣餐中的）面包和酒
+eliminate  /ɪˈlɪmɪneɪt/   v. 剔除，根除；对……不予考虑，把……排除在外；（比赛中）淘汰；铲除，杀害；（生理）排除，排泄；消去
+ellipsis  /ɪˈlɪpsɪs/   n. （词在句子中的）省略；省略号
+elliptic  /ɪˈlɪptɪk/   adj. 椭圆形的；省略的
+embark  /ɪmˈbɑːrk/   v. 上船，上飞机；着手，开始（新的或艰难的事情）
+embedded  /ɪmˈbedɪd/   adj. 嵌入（或插入、埋入）……之中的；（感情、态度等）深切的；被士兵保护的
+embrace  /ɪmˈbreɪs/   v. 拥抱；欣然接受，乐意采纳；包括，涉及；围绕，环绕
+emerge  /ɪˈmɜːrdʒ/   v. 浮现，出现；显露，知悉；恢复过来，幸存下来；形成，兴起
+empirical  /ɪmˈpɪrɪk(ə)l/   adj. 经验主义的，以经验为依据的
+encapsulate  /ɪnˈkæpsjuleɪt/   vt. 简要描述，概括；用胶囊（或囊状物）装，封装；封装（信息，信号）；为（软件，硬件）提供接口（或界面）
+encapsulation  /ɪnˌkæpsjuˈleɪʃ(ə)n/   n. 封装；包装
+enclose  /ɪnˈkloʊz/   v. 包围，围住；随信附上，随信装入
+enclosing class   封闭类；内附类
+encryption  /ɪnˈkrɪpʃn/   n. 加密；加密术
+end up  /end ʌp/   最终到达/陷入：到达或陷入一个没有计划或预期的地方、状态或情况。
+end user   最终用户：购买和使用最终产品的人。
+endpoint  /ˈendˌpɔɪnt/   n. 端点；末端，终结点
+enforce  /ɪnˈfɔːrs/   v. 实施，执行（法律、规章）；强迫，迫使；<旧>竭力使人接受（要求，论点）
+engage  /ɪnˈɡeɪdʒ/   v. 雇用，聘请；参加，从事；吸引，引起；与……交战，开战；（使）（机器）啮合，接合；<旧>预定（膳食，地方等）；适应，与……有密切关系；允诺，签约保证；（运动员或击剑手）使（兵器）交结在一起；占用
+engine  /ˈendʒɪn/   n. 发动机，引擎；机车，火车头；专用装备，器械；工具，手段；驱动力，推动力
+enhancement  /ɪnˈhænsmənt/   n. 增加，增强，改善
+ensemble  /ɑːnˈsɑːmb(ə)l/   n. （经常在一起演出的小型）乐团，剧团，舞剧团；全体，整体；全套服装；合奏（曲），合唱（曲）；成套的东西；演出者之间的配合；（主物理）系综
+enthusiast  /ɪnˈθuːziæst/   n. 热衷者，爱好者；热烈支持者，热情赞成者；<古>基督教狂热分子
+entirety  /ɪnˈtaɪərəti/   n. 全部，整体
+entity  /ˈentəti/   n. 实体，独立存在体
+enum  /ˈenəm/   n. 枚举，列举型别；电话号码映射
+enumerators   n. 枚举器；枚举成员；计数器（enumerator 的复数形式）
+envision  /ɪnˈvɪʒ(ə)n/   v. 想象，预想
+ephemeral  /ɪˈfemərəl/   adj. 短暂的；（主指植物）短生的，短命的
+equal  /ˈiːkwəl/   adj. （在数量、大小、程度、价值方面）相等的，相同的；平等的，同等的；胜任的，合适的；势均力敌的
+equality  /iˈkwɑːləti/   n. 均等，平等；等式
+equality operator   [计] 相同运算符
+equation  /ɪˈkweɪʒ(ə)n/   n. 等式，方程（式）；等同（看待）；（必须考虑多种因素的）复杂局面（或问题）
+equivalence  /ɪˈkwɪvələns/   n. 相等，对等
+equivalent  /ɪˈkwɪvələnt/   adj. 等同的，等效的
+error log   错误日志：记录软件或系统中发生的错误、异常或警告的文件或记录。
+escalate  /ˈeskəleɪt/   v. （使）变得严重，（使）升级；迅速增加，迅速增长；逐步增强，逐步升高
+escape character   转义字符：计算机和电信领域中的一个术语，指的是一个特殊的元字符，通常是一个控制码，用于表示其后的字符具有另一种解释。
+escape code   转义码
+essential  /ɪˈsenʃ(ə)l/   adj. 必不可少的，非常重要的；基本的，精髓的；（氨基酸、脂肪酸）必需的；（疾病）自发的，原发的
+estimate  /ˈestɪmət; ˈestɪmeɪt/   v. 估计；判断，评价
+eternity  /ɪˈtɜːrnəti/   n. 无穷无尽的时间；永恒，永久；永生；未来，来世；死
+evade  /ɪˈveɪd/   v. 规避，逃避；难倒，使困惑；未能（被某人）获得；（尤指违法犯罪后）逃脱，躲开（追捕）
+evaluate  /ɪˈvæljueɪt/   v. 评价，评估，估值；求（方程式，公式，函数）的数值
+evaluation  /ɪˌvæljuˈeɪʃ(ə)n/   n. 评价，评估
+evaluator  /ɪˈvæljʊeɪtə
+/   n. 评估员；[电子] 鉴别器；求值程序
+event  /ɪˈvent/   n. 事件，大事；社交场合，既定活动；赛事，比赛项目；<古>结果
+event driven  /ɪˈvent ˈdrɪvn/   事件驱动：一种编程范式，其中程序的执行是由事件的发生和处理驱动的。事件可以是用户的输入、系统的状态变化或者其他外部触发的动作。
+event handler   事件处理程序：在计算机编程中，处理事件的方法或子程序。
+ever  /ˈevər/   adv. 曾经，从来，在任何时候；一直，始终；越来越，愈发；究竟，到底；非常，确实
+evidence  /ˈevɪdəns/   n. 根据，证明；（呈上法庭的）证据，证词；迹象，痕迹
+evolution  /ˌevəˈluːʃ(ə)n/   n. 进化（论）；演变，发展；（气体的）释放，（热量的）散发；队形变换，位置变换；<旧>开方
+evolutionary  /ˌevəˈluːʃəneri/   adj. 进化论的，进化的；演变的，逐步发展的
+evolve  /ɪˈvɑːlv/   v. 进化，演化；逐步发展，逐渐演变
+exact  /ɪɡˈzækt/   adj. 确切的，精确的；严谨的，一丝不苟的；精密的，严密的
+exception  /ɪkˈsepʃn/   n. 例外，除外
+exception handling  /ɪkˈsepʃn ˈhændlɪŋ/   异常处理：在计算机编程中，指程序在运行过程中遇到错误或异常情况时，采取的相应处理措施。
+exceptionally  /ɪkˈsepʃənəli/   adv. 极其，非常；只有在特殊情况下，例外地
+exception-safe   adj．异常安全：在计算机编程中，指代码在遇到异常时能够保持程序的正确性和稳定性。
+excerpt  /ekˈsɜːrpt/   n. 摘录，节选
+excessive  /ɪkˈsesɪv/   adj. 过度的，过多的
+exclamation mark   感叹号：一种标点符号，用于在感叹词或感叹句之后表示强烈的表达或强烈的情感。
+exclusive  /ɪkˈskluːsɪv/   adj. 独有的，专用的；高档的，昂贵的；不含……的；排外的；排斥的；全部的；唯一关心的；（新闻或报道）独家的；（条款）除外责任的；高级的，昂贵的
+execution  /ˌeksɪˈkjuːʃ(ə)n/   n. 执行，实施，完成；处决，死刑；表演，制作；政治谋杀；没收债务人财产，扣押债务人；（法律文书或命令的）执行
+exercise  /ˈeksərsaɪz/   n. 运动，锻炼；（一套）动作，体操；练习，演练；运用；活动，任务；典礼；宗教仪式，礼拜
+exhibit  /ɪɡˈzɪbɪt/   v. 表现出；卖弄，炫耀；提出（证据等）；展览，展出
+exit  /ˈeksɪt/   n. 出口，通道，太平门；（车辆驶出公路的）出路；离去；退出；<文>去世，死亡
+expedient  /ɪkˈspiːdiənt/   adj. 权宜的；方便的；有利的
+expel  /ɪkˈspel/   v. 把……开除（或除名）；驱逐；排出（空气、水、气体等）
+expenditure  /ɪkˈspendɪtʃər/   n. 经费，支出额；（时间、金钱、精力等的）消耗，花费
+experimental  /ɪkˌsperɪˈment(ə)l/   adj. 实验性的，试验性的；<古>根据经验的，经验上的
+explanatory  /ɪkˈsplænətɔːri/   adj. 解释的，说明的
+explicit  /ɪkˈsplɪsɪt/   adj. 清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的
+explicit transaction   显式事务
+exploit  /ɪkˈsplɔɪt/   v. 剥削，压榨；利用（……为自己谋利）；运用，发挥；开发，开拓
+exponent  /ɪkˈspoʊnənt/   n. 拥护者，倡导者；代表人物；指数，幂；大师，行家；成分；说明者，说明物
+exponentiation  /ˌekspoʊˌnenʃɪˈeɪʃn/   n. [数] 取幂，求幂；乘方
+export  /ɪkˈspɔːrt; ˈekspɔːrt/   v. 出口；传播，输出；（在计算机中）导出，输出
+expose  /ɪkˈspoʊz/   v. 暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；使（胶卷）曝光；当众暴露自己的性器官，露阴（expose oneself）；弃（婴孩）于户外让其死去
+exposition  /ˌekspəˈzɪʃ(ə)n/   n. 解释，阐述；展览会，博览会；（奏鸣曲等的）呈示部；暴露，揭露
+expound  /ɪkˈspaʊnd/   v. 详解，阐述；解释（文学作品，教义作品）的意思
+express  /ɪkˈspres/   v. 表达，表露；表现，体现；（用数学方法）表示；压榨，挤压出（空气或液体）；特快发运
+expression  /ɪkˈspreʃ(ə)n/   n. 表达，表示；表情，神情；（表演、歌唱或演奏时的）情感表现；词语，措词；式，表达式；挤压
+extend  /ɪkˈstend/   v. 延伸；扩大，延长；持续；包括，波及；提供，表示；伸出；使竭尽全力；对……估价；继承（面向对象语言中的一种概念）
+extensibility  /ɪkˌstensəˈbɪlətɪ/   n. 展开性；可延长性
+extension  /ɪkˈstenʃ(ə)n/   n. 延伸，扩展；展期，延长期；扩建部分，延伸部分；（电话）分机；扩展名；（为非全日制学生开设的）进修部；牵伸（术）；外延；广延（性）
+extensive  /ɪkˈstensɪv/   adj. 广阔的；广泛的；巨大的，大量的；（农业）粗放（经营）的
+external  /ɪkˈstɜːrn(ə)l/   adj. 外部的，外面的；对外的，与外国有关的；外来的，外聘的；（药品等类似物质）外用的
+extract  /ˈekstrækt; ɪkˈstrækt/   n. 选段，引文；提取物，汁
+faceted search   多维搜索：一种允许用户通过多个筛选条件对搜索结果进行筛选的搜索技术，以便更快速地找到所需信息。
+facilitate  /fəˈsɪlɪteɪt/   v. 使更容易，使便利；促进，推动
+factor  /ˈfæktər/   n. 因素，要素；等级，系数；因数，因子；遗传因子，基因；（血液中的）凝血因子；代理公司，代理商；<苏格兰>地产管理人，管家；测量水平
+fail  /feɪl/   v. 失败；未能做到，未能做；辜负，使失望；不及格，未能通过；出故障，失灵；衰弱，衰退；破产，倒闭；歉收；不下雨，下雨少；忘记
+failback   出故障时自动恢复
+failover   n. （计算机）故障切换；失效备援（为系统备援能力的一种，当系统中其中一项设备失效而无法运作时，另一项设备即可自动接手原失效系统所执行的工作）
+fair  /fer/   adj. 公平的；合理的，公正的；相当好的；（数量、大小）相当大的；浅色的，（肤色）白皙的，（头发）金色的；晴朗的；顺风的；普通的；美丽的；界内的；<旧>（手段，方法）温和的，非暴力的；<旧>（言语，谈话，许诺）花言巧语的
+faith  /feɪθ/   n. 信任，信心，信念；宗教；宗教信仰；忠诚
+false positive   假阳性：在检测或诊断过程中，错误地将不存在的问题或病状判断为存在的现象。
+fascinate  /ˈfæsɪneɪt/   v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+fat client   胖型客户机
+fault tolerance   容错性：与计算机或程序相关的具有自包含备份系统的设备或程序，当主要组件发生故障时，可以继续运行的能力。
+feature  /ˈfiːtʃər/   n. 特点，特征；五官，面貌（特征）；地貌；特写，专题节目；正片； 特点，特征
+federation  /ˌfedəˈreɪʃ(ə)n/   n. 联邦政府，联邦；联合会；结成联邦（或联盟）
+fetch  /fetʃ/   v. （去）拿来，（去）找来；售得，卖得；推导出，演绎出；吸引，迷住；抵达，到达；<非正式>给（某人）以（重重的一击或一巴掌）
+fiction  /ˈfɪkʃ(ə)n/   n. 小说；虚构的事，谎言；杜撰，编造
+field  /fiːld/   n. 田地，田野；专业，领域；（尤指为比赛或体育运动划出的）场地；战场；现场，实地；信息栏，字段；视野；场；全体参赛运动员（或动物）；矿田（尤指油田或气田）；语义场；外场员，防守队；盾面，底；单色旗底；<古>战斗，战役
+field length  /fiːld leŋkθ/   场长度；段长度；组长度；[计] 字段长度
+file  /faɪl/   n. 文件夹（或箱、柜等）；（计算机的）文档；档案；纵列；锉刀；（与某政策领域相关的）议题，职责
+filter  /ˈfɪltər/   n. 过滤器；滤光器，滤声器，滤波器；过滤程序，过滤软件；（指示车辆转弯的）分流指示灯
+finalization  /ˌfaɪnələˈzeɪʃn/   n. 终结，结束；终止化
+finalizer   n. 终结器；定稿人；终止化器
+finely  /ˈfaɪnli/   adv. 微小地，细微地；精致地，精确地；精美地，优雅地；（形势或比赛等）不明朗地，难分伯仲地
+finite  /ˈfaɪnaɪt/   adj. 有限的，有限制的；限定的
+firewall  /ˈfaɪərwɔːl/   n. 防火墙
+fix  /fɪks/   v. 修理，维修；确定（时间、地点、价格等）；安排，组织；处理，解决（问题等）；固定，安装；盯住，凝视；（注意力）集中在，专心考虑；牢记，铭记；把（枪、相机、雷达）对准（或瞄准、指向）；在（比赛、竞选等活动中）作弊，操纵；梳洗，整理；<非正式>提供，准备（尤指食物）；<非正式>惩罚，收拾；固着（颜色），定（影）；<非正式>阉割（动物）；<俚>注射毒品；<非正式>为（某人）介绍（男友或女友）
+flag  /flæɡ/   n. 旗帜；国旗；信号旗，标志旗；菖蒲，鸢尾；铺路用的厚石板（多为矩形或正方形）；（在街上慈善捐赠后获得的）小纸徽；（用作标志的）旗状装置（或符号、图画）；出租车空车显示器；特征位；旗舰
+flash memory  /ˈflæʃ meməri/   闪存：一种可重写的存储芯片，它可以在没有电源供应的情况下保留数据。
+flavor  /ˈfleɪvər/   n. 情味，风味；香料；滋味
+flesh  /fleʃ/   n. （人或动物的）肉；（人体的）皮肤；果肉；肉体
+flow  /floʊ/   v. 流动，流淌；（人，物）涌向，涌进；顺畅地移动；持续抵达，持续供应（或生产）；（信息）传播，（资金）流通；飘垂，飘拂；强烈感到；（说话或思想）流畅；引发，来自；充满，满是；大量喝，畅饮；涨潮；永久性变形；<非正式>来月经
+flush  /flʌʃ/   v. （人的皮肤或脸）发红（尤指因病或激动）；冲洗（抽水马桶），（抽水马桶）被冲洗；（用水或其他液体）冲洗；（用液体）冲走；把（猎鸟，动物）赶出隐藏地，使暴露；（使）发光；使（液体）流过；（植物）绽出新芽；嵌平（接合处）
+folding  /ˈfoʊldɪŋ/   adj. 可折叠的
+follow  /ˈfɑːloʊ/   v. 跟着，跟随；尾随，跟踪；（时间、空间或顺序）排在……后；遵循，听从；仿效，追随；循着，沿着（道路、标志等）；沿着……伸延，与……平行；理解，明白；可以推断出，由此得出；有浓厚兴趣，密切关注；信奉，信仰；以……为原型，讲述……的故事；沿袭，继承；跟唱，跟读；从事（行业、职业）；（欣赏节目的同时）对照看（脚本或乐谱）
+font  /fɑːnt/   n. （教堂中的）洗礼盆，圣水盆；（油灯的）盛油罐；根源，来源；（用于印刷书籍、报纸等或显示于计算机屏幕上的）字体，字型（=fount）
+footprint  /ˈfʊtprɪnt/   n. 脚印，足迹；占用空间；覆盖区
+for instance   例如：用于引出一个具体的例子来支持或解释前面所说的内容。
+foreign key   外键：关系型数据库中的一个概念，指一个表中的一个或多个字段，它们的值必须在另一个表中的主键中存在，以确保数据的完整性和一致性。
+forger  /ˈfɔːrdʒər/   n. 铁匠；伪造者
+form  /fɔːrm/   v. （使）出现；（使）（关系、习惯或想法）形成；构成，是……的组成部分；陶冶，培养；组织，建立
+formal  /ˈfɔːrm(ə)l/   adj. 庄重的，合乎礼仪的；（语言）正式的，规范的；合法的；整齐的，布置井然的；正统的，拘谨的；（教育或培训）正规的；形式上的，表面的；官方的，公开的
+formal parameter   形式参数：编程中期望传递给方法或函数的参数的抽象表示，通常包括名称和类型。
+formality  /fɔːrˈmæləti/   n. （性质）正式，正式性；遵守礼节；例行公事；礼节，正式手续
+formalize  /ˈfɔːrməlaɪz/   vt. 使形式化；使正式；拘泥礼仪
+formulation  /ˌfɔːrmjuˈleɪʃ(ə)n/   n. （政策、计划等的）制定，构想；（想法的）阐述方式，表达方法；（药品或化妆品的）配方，配方产品
+forward  /ˈfɔːrwərd/   adv. 向前；在船头，朝飞机头部；按顺序地；有进展地，前进地；向将来，往后；提前；（钟表）往前（拨）；从……起，自……以来
+forward declaration   前向声明：在编程中，一种声明变量或函数的方法，但不定义它们的具体实现。这样做的目的是让编译器知道这些变量或函数的存在，以便在其他地方使用它们。
+forward-only   只向前的
+forward-only cursor   只向前游标，只进游标
+foster  /ˈfɑːstər/   v. 促进，培养；领养，收养
+framework  /ˈfreɪmwɜːrk/   n. (建筑物或物体的）构架，结构；参照标准，准则；(社会、法律、政治等）框架
+free from  /friː frəm/   摆脱某些不愉快的事物，帮助或改善某人的生活
+full specialization   完全特化
+function  /ˈfʌŋkʃ(ə)n/   n. 功能，职责；宴会，典礼；函数，应变量；由其他事情造成的结果；子例行程序，子例程；官能团，功能团
+function object   函数对象
+function template   函数模板，函数样板
+functionality  /ˌfʌŋkʃəˈnæləti/   n. 功能；[数] 泛函性，函数性
+functor  /ˈfʌŋktər/   n. [数] 函子（起作用的东西）；功能词；[自] 功能元件
+furthermore  /ˌfɜːrðərˈmɔːr/   adv. 此外，而且
+fuzz  /fʌz/   n. 绒毛；模糊；细毛；警员
+GAC   abbr. 加拿大地质协会（Geological Association of Canada）；全局程序集缓存（Global Assembly Cache）；中华人民共和国海关总署（The Ministry of Foreign Trade and Economic Cooperation（MOFTEC）and the General Administration of Customs）
+game  /ɡeɪm/   n. 游戏，比赛；一局，一场；运动会；体育课，体育活动；儿戏；诡计，花招；猎物，野味；行当，行业；玩耍，消遣；比赛技巧
+garbled  /ˈɡɑːrb(ə)ld/   adj. 篡改的；混乱的；引起误解的
+gaussian  /ˈgaʊsiən/   adj. 高斯的
+gene  /dʒiːn/   n. 基因，遗传因子
+generate  /ˈdʒenəreɪt/   v. 产生，引起
+generation  /ˌdʒenəˈreɪʃ(ə)n/   n. 一代（人）；一代人的时间；（产品发展的）代；产生
+generic  /dʒəˈnerɪk/   adj. 一般的，通用的；（货物，尤指药品）没有牌子的，无商标的；属的，类的；（生）属的，类的
+generic algorithm  /dʒəˈnerɪk ˈælɡərɪðəm/   n. 泛型算法；通用算法
+genericity   泛型
+get rid of   摆脱：采取某种行动，以便不再拥有或受到（不需要的人或事物）的影响或困扰。
+getter  /ˈɡetər/   n. 吸气剂；获得者；毒饵
+global  /ˈɡloʊb(ə)l/   adj. 全球的，全世界的；全面的，整体的；（计算机）全局的；球形的
+global object   全局对象
+glossary  /ˈɡlɑːsəri/   n. 词汇表，术语表；专门词典
+grained  /ɡreɪnd/   adj. 有木纹的；除去毛的；漆成木纹的
+grant  /ɡrænt/   v. 授予，给予；承认
+granular  /ˈɡrænjələr/   adj. 颗粒的；粒状的
+granularity  /ˈɡrænjʊˈlerəti/   n. 间隔尺寸，[岩] 粒度
+graph  /ɡræf/   n. 图表，曲线图；坐标图；代表声音单位（或其他言语特征）的书写符号
+greater than   大于：表示一个数值或数量比另一个数值或数量大。
+greedy  /ˈɡriːdi/   adj. 贪婪的，贪心的；贪吃的，嘴馋的；渴望的
+group  /ɡruːp/   n. 集体，团体；组，群；集团；乐团，乐队；空军大队（通常由两个或两个以上的基地组成）；（元素周期表中的）族；（系统语法中的）词组；原子团
+group box   分组框：一个矩形控件，可以包含其他控件，用于在视觉上对相似项目进行分组。
+GUI  /ˈɡuːiˌˌdʒiː juː ˈaɪ/   abbr. 图形用户界面（Graphical User Interface）
+GUID   abbr. 全局唯一标识符（Globally Unique Identifier）
+guideline  /ˈɡaɪdlaɪn/   n. 指导方针，准则；参考
+halt  /hɔːlt/   v. （使）停止行进；阻止，中断；（口令）立定；跛行；（尤指逻辑或诗韵）有缺陷；踌躇，犹豫
+hand shaking  /hænd ˈʃeɪkɪŋ/   握手：一种短暂的礼节，通常在会议、离开、祝贺或达成一致时进行，用于表达信任、协调和平等。
+handle  /ˈhænd(ə)l/   v. 拿；处理，应付；操纵；触（球）；经营，管理
+handler  /ˈhændlər/   n. 处理者；管理者；拳击教练；（犬马等的）训练者
+hard disk   硬盘：一种刚性金属盘，上面涂有磁性材料，可以用来存储计算机的数据，也称为硬盘驱动器。
+hard-coded   硬编码
+hard-copy  /ˌhɑːrd ˈkɑːpi/   adj. 硬拷贝的
+hardness  /ˈhɑːrdnəs/   n. [物] 硬度；坚硬；困难；冷酷
+hardware  /ˈhɑːrdwer/   n. （计算机）硬件；五金制品；装备，设备
+harness  /ˈhɑːrnɪs/   v. 控制并利用；（把动物）拴在一起（或拴到某物上）；给（马）套上挽具；连接，串联
+hash table  /hæʃ ˈteɪbl/   哈希表：一种以向量形式实现的关联数组，其中索引是通过将哈希函数应用于键得到的结果。
+header file   头文件：在编程中通常以源代码形式存在的文件，由编译器自动包含在另一个源文件中的文件。它包含声明但不包含实现。
+heap  /hiːp/   n. （凌乱的）一堆；许多，大量；<非正式>破旧的汽车，老爷车
+hefty  /ˈhefti/   adj. 高大健壮的，笨重的；（数目，数量）相当大的；有力的，用力的
+hence  /hens/   adv. 因此；之后
+henceforth  /ˌhensˈfɔːrθ/   adv. 从此之后
+heterogeneous  /ˌhetərəˈdʒiːniəs/   adj. 有很多种类组成的；（化）不均一的，多相的；（数）不纯一的，参差的
+hexadecimal  /ˌheksəˈdesɪml/   adj. 十六进制的
+hierarchical  /ˌhaɪəˈrɑːrkɪkl/   adj. 分等级的，等级制度的
+hierarchical data   层次数据
+hierarchy  /ˈhaɪərɑːrki/   n. 等级制度；统治集团；等级体系
+high level  /ˌhaɪ ˈlevl/   高层次的：如果讨论是高层次的，那么会有非常重要的人参与其中。
+highlight  /ˈhaɪlaɪt/   v. 突出，强调；用亮色突出；挑染
+hijack  /ˈhaɪdʒæk/   v. 抢劫，劫持；强行控制，操纵
+hint  /hɪnt/   n. 暗示，提示；征兆，迹象；少许，少量；秘诀，窍门
+homebrew  /ˈhoʊmbruː/   n. 一个免费的开源软件包管理系统
+homomorphic  /ˌhoʊməˈmɔːrfɪk; ˌhɑːməˈmɔːrfɪk/   adj. 同态的；同形的
+hook  /hʊk/   n. 钩，挂钩；勾拳；曲线球；吸引人的东西；使（投手）下场；（尤指用于收割、剪羊毛）弧形切割工具；弯曲的笔画；弧形岬（或沙嘴）
+host  /hoʊst/   n. 主机名
+hot key   n. 快捷键
+hyperlink  /ˈhaɪpərlɪŋk/   n. 超链接
+hypervisor  /ˈhaɪpərvaɪzər/   n. 超级监督者；管理程序
+hyphen  /ˈhaɪfn/   n. 连字符，连字号
+hypotheses  /haɪˈpɑːθəsiːz/   n. 假定；臆测（hypothesis 的复数）
+hypothesis  /haɪˈpɑːθəsɪs/   n. 假说，假设；（凭空的）猜想，猜测；前提
+icon  /ˈaɪkɑːn/   n. 图标；偶像，代表；画像，雕像；圣像（如基督、圣母玛利亚等）；类象符号
+IDE  /aɪd/   abbr. 集成开发环境（integrated development environment）
+ideal  /aɪˈdiːəl/   adj. 理想的，最佳的；想象的，不切实际的
+identifier  /aɪˈdentɪfaɪər/   n. 标识符，认同者；检验人，鉴定人
+identify  /aɪˈdentɪfaɪ/   v. 认出，识别；查明，确认；发现；证明（身份），表明；认同，理解；认为……和……一致；和（某人）打成一片
+IDL   接口定义语言（Interface Define Language）
+idle time  /ˈaɪdl taɪm/   闲置时间：计算机或其他机器虽然可用，但未被使用的时间段。
+illustrate  /ˈɪləstreɪt/   v. 加插图于；说明，阐明；证明，证实
+image  /ˈɪmɪdʒ/   n. 图像
+IME   abbr. 机械工程师学会（Institute of Mechanical Engineers）；输入法编辑器（Input Method Editor）
+immediate base   直接上层基类
+immediate derived   直接衍生
+immediate updating   即时更新
+s  /ɪˈmjuːtəb(ə)l/   adj. 永恒的，不可改变的
+immutable
+  /ɪˈmjuːtəb(ə)l/   adj. 永恒的，不可改变的
+impact  /ˈɪmpækt/   n. 撞击，冲击力；巨大影响，强大作用
+imperative  /ɪmˈperətɪv/   adj. 极重要的，必要的；命令的，强制的；祈使的
+impersonate  /ɪmˈpɜːrsəneɪt/   vt. 扮演；模仿；拟人，人格化
+implement  /ˈɪmplɪment/   v. 执行，贯彻；为……提供工具
+implementation  /ˌɪmplɪmenˈteɪʃ(ə)n/   n. 实施，执行
+implicit  /ɪmˈplɪsɪt/   adj. 含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的
+implicit transaction   隐性事务
+implied  /ɪmˈplaɪd/   v. 暗示；意味着……为必然结果；必然包含（imply 的过去式及过去分词）
+imply  /ɪmˈplaɪ/   v. 暗示，暗指；意味着；必然包含
+import  /ˈɪmpɔːrt/   n. 进口，进口商品；输入，引进；重要性；意思，含意
+impose  /ɪmˈpoʊz/   v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦；把（活字页）拼版；欺骗
+impractical  /ɪmˈpræktɪk(ə)l/   adj. 不明智的，不切实际的；（人）无动手能力的，手不灵巧的
+impression  /ɪmˈpreʃ(ə)n/   n. 印象，感想；影响，作用；印象画；（对名人的）滑稽模仿；（通常有悖事实的）感觉，假象；压印，印记；印次；（网络广告）印象数
+in a nutshell  /ɪn ə ˈnʌtʃel/   简而言之，概括地说
+In computer science   
+in order   有序地；整齐地：以适当或令人满意的方式。
+in terms of   就……而言；从……角度来看；就……方面而言
+in the sense of   在……意义上；就……而言；从……角度来看
+incentive  /ɪnˈsentɪv/   n. 激励，刺激
+inception  /ɪnˈsepʃ(ə)n/   n. （机构、组织等的）开端，创始
+incident  /ˈɪnsɪdənt/   n. 事件，事故；（两国间的）冲突，严重摩擦；<法律>（职务、财产等所有物的）附属特权
+inclusion  /ɪnˈkluːʒ(ə)n/   n. 包含，包括；包含物，包括的人；认同感，归属感
+incomplete  /ˌɪnkəmˈpliːt/   adj. 不完整的，不完全的；不完善的，未完成的；（向前）传球不成功的
+incorporate  /ɪnˈkɔːrpəreɪt/   v. 包含，合并；组成公司；掺和，混合（成分）；使具体化，体现
+incorporated  /ɪnˈkɔːrpəreɪtɪd/   adj. 组成公司的，股份有限的；合并的
+incredibly  /ɪnˈkredəbli/   adv. 难以置信地；非常地
+increment  /ˈɪŋkrəmənt/   n. <正式>（尤指连续、定量的）增长；<正式>工资定量增长，定量加薪；（变量、函数的）正（或负）增量
+incremental update   增量更新
+indecisive  /ˌɪndɪˈsaɪsɪv/   adj. 犹豫不决的；非决定性的
+indeed  /ɪnˈdiːd/   adv. 确实，的确；实际上；真正地；<非正式> 真的吗（表示惊讶或觉得某事物荒谬）
+Independent Set  /ˌɪndɪˈpendənt set/   [数] 独立集
+index  /ˈɪndeks/   n. 索引；（物价和工资等）指数；指标，量度；幂，根指数；指针
+indifferent  /ɪnˈdɪfrənt/   adj. 冷淡的，不关心的；中等的，平庸的；一般的，相当差的；中立的；不分化的
+indistinguishable  /ˌɪndɪˈstɪŋɡwɪʃəb(ə)l/   adj. 难以区别的，难以分辨的；不清楚的，无法识别的
+induce  /ɪnˈduːs/   v. 引诱，诱使；引起，导致；给（孕妇）引产，（用药物）催生；归纳出
+induction  /ɪnˈdʌkʃ(ə)n/   n. 就职，就职仪式；<美>征召入伍；导致，引导；引产，催生；归纳，归纳法；电磁感应；（内燃机）进气，吸气
+inevitable  /ɪnˈevɪtəb(ə)l/   adj. 必然发生的，不可避免的；总会发生的，惯常的
+infeasible  /ɪnˈfizəbəl/   adj. 不可实行的
+infection  /ɪnˈfekʃ(ə)n/   n. 传染病；感染；玷污，污染
+infer  /ɪnˈfɜːr/   v. 推断，推论；暗示，暗指
+infinite loop  /ˈɪnfɪnət luːp/   无限循环：在编程中指无限期继续的循环。
+infinite recursive   无限递归
+infix  /ˈɪnfɪks/   n. 中缀
+inflate  /ɪnˈfleɪt/   v. （使）充气，（使）膨胀；使（价格、成本等）上涨；夸大，吹嘘
+information  /ˌɪnfərˈmeɪʃ(ə)n/   n. 消息，资料，情报；（计算机程序储存和使用的）数据，信息；问讯处，信息台；（向治安法院提起的）控告，起诉；知识
+infrastructure  /ˈɪnfrəstrʌktʃər/   n. 下面结构；永久性军事设施；基础设施，基础建设
+ingredient  /ɪnˈɡriːdiənt/   n. （食品的）成分，原料；要素，因素
+inherently  /ɪnˈherəntli/   adv. 内在地，固有地
+inherit  /ɪnˈherɪt/   v. 继承（遗产）；经遗传获得（品质、身体特征等）；接手，承担；接收（前所有者的事物）；
+inheritance  /ɪnˈherɪtəns/   n. 继承物，遗产；遗传特征
+initialization  /ɪˌnɪʃələˈzeɪʃn/   n. [计] 初始化；赋初值
+initialization list   初始化列表；初始值列表
+initialize  /ɪˈnɪʃəlaɪz/   vt. 初始化
+initiative  /ɪˈnɪʃətɪv/   n. 措施，倡议；主动性，积极性；主动权；（美国某些州的）公民立法提案程序
+inline  /ˈɪnlaɪn/   adj. 内联的；直排轮滑的；正文中的，行内的；排成一条线的
+inline expansion   内联展开
+inner join   内连接：一种连接方式，从多个表中仅返回匹配的记录集合。
+insofar  /ˌɪnsəˈfɑːr/   adv. 在这个范围，到这个程度
+inspect  /ɪnˈspekt/   v. 检查，审视；检阅，视察；进行检查，进行视察
+instance  /ˈɪnstəns/   n. 例子，实例
+instantiated   v. 实例化，具现化，实体化；举例说明（instantiate 的过去式和过去分词）
+instantiation  /ɪnstænʃɪˈeɪʃən/   n. 实例化；[计] 例示
+instruct  /ɪnˈstrʌkt/   v. 指示，吩咐；教授，指导；聘请（律师），托办；通知；（法官向陪审团）建议，作说明
+integrate  /ˈɪntɪɡreɪt/   v. （使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值
+integration  /ˌɪntɪˈɡreɪʃ(ə)n/   n. 结合，融合；取消种族隔离；（数）积分法，求积分；（心理分析）整合
+integrity  /ɪnˈteɡrəti/   n. 正直，诚实；完整，完全；职业操守；（电子数据的）集成度
+integrity constraint  /ɪnˈteɡrəti kənˈstreɪnt/   完整性约束：在数据库中，用于确保数据的完整性和一致性的规则或条件。它限制了对数据库中数据的修改和删除操作，以保证数据的准确性和有效性。
+intensive  /ɪnˈtensɪv/   adj. 加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的
+intent  /ɪnˈtent/   adj. 专注的，专心致志的；坚决的；急切的
+intentional  /ɪnˈtenʃən(ə)l/   adj. 故意的，蓄意的
+interact  /ˌɪntərˈækt/   v. 相互交流，互动；相互作用，相互影响
+interact with  /ˌɪntərˈækt wɪð/   与……互动：与人或事物进行交流、合作或影响。
+interaction  /ˌɪntərˈækʃ(ə)n/   n. 互动，交流；相互影响，相互作用
+interactive  /ˌɪntərˈæktɪv/   adj. 交互式的，人机对话的；相互交流的，互动的
+interacts  /ˌɪntərˈækts/   vi. 互动；相互作用（interact 的三单形式）；交互
+intercept  /ˌɪntərˈsept/   v. 拦截，阻截；抄截（对方的传球）；截断，中止（光等电磁辐射）；（线，面）截取，截断（部分面积、线、面）
+interconnect  /ˌɪntərkəˈnekt/   vt. 使互相连接
+interface  /ˈɪntərfeɪs/   n. （人机）界面（尤指屏幕布局和菜单）；（计算机设备之间的）连接，接口；（物理）界面；（学科或系统间相互影响或衔接的）边缘区域，接合部位
+interior  /ɪnˈtɪriər/   adj. 内部的，里面的；国内的，内政的；内心的，本质的；内陆的，腹地的
+intermediate  /ˌɪntərˈmiːdiət/   adj. 居中的，中间的；中等程度的，中级的
+intermittent  /ˌɪntərˈmɪtənt/   adj. 间歇的，断断续续的
+internal  /ɪnˈtɜːrn(ə)l/   adj. 内部的，体内的；内政的，国内的；本身的，本质的；内心的；<英>（大学生）本校生的
+interoperability  /ˌɪntərˌɑːpərəˈbɪləti/   n. [计] 互操作性；互用性
+interpreter  /ɪnˈtɜːrprətər/   n. 口译者，译员；演奏者，表演者；解释程序
+intervention  /ˌɪntərˈvenʃ(ə)n/   n. 干预，介入；调停，斡旋；（为改善情况尤指病痛采取的）措施，做法
+intrinsic  /ɪnˈtrɪnzɪk/   adj. 内在的，固有的
+introspect  /ˌɪntrəˈspekt/   vi. 反省；内省
+introspection  /ˌɪntrəˈspekʃ(ə)n/   n. 内省；反省
+intrusive  /ɪnˈtruːsɪv/   adj. 侵入的；打扰的
+intuitive  /ɪnˈtuːɪtɪv/   adj. 直觉的；有直觉力的；易懂的，使用简便的
+invariants  /ɪnˈveriənts/   n. [数]不变量（invariant 的复数）；不变性
+inverse  /ˌɪnˈvɜːrs/   adj. 相反的，倒转的；颠倒的，逆的
+invert  /ɪnˈvɜːrt/   v. 使倒置，使反转；使（位置、顺序或关系）颠倒，使互换；（通过改变音高变化方向）修改（乐句），转回；转位；求逆，求反
+inverted  /ɪnˈvɜːrtɪd/   adj. 倒转的，反向的
+invocation  /ˌɪnvəˈkeɪʃn/   n. （向神或权威人士的）求助，祈祷；咒语；（仪式或集会开始时的）发言，祷文；（法院对另案的）文件调取；（计算机）调用，启用；（法权的）行使
+invoke  /ɪnˈvoʊk/   v. 行使，实施（法权）；援用，援引（法律）；提及，援引（某人、某理论、实例等作为支持）；提及（某著名人物）；唤起，引起（感情或想象）；（尤指向神灵）祈祷，祈求；用法术召唤（魔鬼）；（计算机）调用，激活
+ion  /ˈaɪənˌˈaɪɑːn/   n. 离子
+isolation level  /ˌaɪsəˈleɪʃn ˈlevl/   隔离级别
+item  /ˈaɪtəm/   n. 项目，条款；一件商品（或物品）；一则，一条（新闻）；
+iterate  /ˈɪtəreɪt/   vt. 迭代；重复；反复说；重做
+iteration  /ˌɪtəˈreɪʃn/   n. 迭代；（计算机）新版软件；重申，复述；反复演算
+iterative  /ˈɪtəreɪtɪvˌˈɪtərətɪv/   adj. [数] 迭代的；重复的，反复的
+iterator  /ɪtəˈreɪtər/   n. 迭代器；迭代程序
+JIT compilation JIT   编译即时编译
+Job Scheduling   [计] 排作业时间表
+jointly  /ˈdʒɔɪntli/   adv. 共同地；连带地
+justify  /ˈdʒʌstɪfaɪ/   v. 是……的正当理由；对……作出解释，为……辩解；使（文本）对齐；（在上帝的眼中）称义，使有义；证明合法；整理版面
+key  /kiː/   n. 钥匙；（电脑、打字机或乐器的）键；关键，要诀；答案；音调，声调；图例，符号说明；低岛，礁；扳手；销子，楔；（文章、形势等）主调，基调；（梣树、枫树或无花果树的）翼果；板条间首层灰泥；（有助于石膏等黏附的）粗糙表面；罚球区
+key column   关键列
+laser  /ˈleɪzər/   n. 激光（器）
+latency  /ˈleɪtənsi/   n. 潜伏；潜在因素
+lattice  /ˈlætɪs/   n. [晶体] 晶格；格子；格架
+leakage  /ˈliːkɪdʒ/   n. （机密或秘密的）泄露，透露；（液体或气体的）渗漏，泄漏；（液体或气体的）漏出量
+lecture  /ˈlektʃər/   n. 讲座，讲课，演讲；训斥，告诫
+left arrow   左箭头：表示向左的箭头符号，通常用于指示方向或表示返回。
+left outer join   左外连接：数据库中的一种连接操作，用于将两个表中的数据按照指定的条件进行合并，结果集包含左表的所有记录，如果右表中没有匹配的记录，则显示为空值。
+legislature  /ˈledʒɪsleɪtʃər/   n. 立法机关；立法机构
+less than  /les ðæn/   少于；不到；不足
+level  /ˈlev(ə)l/   n. 数量，程度；标准，水平；层次，级别；看待（或应对、理解）事物的方式；水平高度，相对高度；楼层；平地；水平仪
+leverage  /ˈlevərɪdʒ/   n. 影响力，手段；杠杆力，杠杆作用；<美>杠杆比率
+lexicographical  /leksɪkəˈɡræfɪkl/   adj. 辞典编纂的
+library  /ˈlaɪbreri/   n. 图书馆，藏书楼；（书、激光唱片等的）私人收藏；书房，书斋；文库，系列丛书（激光唱片集，成套录像等）；软件库
+lifetime  /ˈlaɪftaɪm/   n. 一生，终生；寿命，有效期，使用期；很长一段时间
+Linear Programming   线性规划：一种数学方法，通过使用线性函数来解决实际问题（如资源分配），其中涉及的变量受到约束条件的限制。
+link  /lɪŋk/   v. 连接；与……有关联；挽住，钩住
+linkage  /ˈlɪŋkɪdʒ/   n. 联系；（国与国之间达成的）互换约定；连接，接合；链条，连接环节；基因连锁（同一染色体上的基因组一起被遗传的特性）
+linker  /ˈlɪŋkər/   n. 链接器；连结器
+list  /lɪst/   n. 列表，清单；（船）倾侧；围栏；（织物的）镶边；<旧>渴望，喜好；（尤指按重要程度排列的）事物清单；赛场，战场
+list box   列表框
+literal constant   字面常量：在计算机编程中，字面常量是一种表示固定值的表达式，它的值在编译时就已经确定，而不是在运行时计算得出。
+livelock   n. [计] 活锁
+load  /loʊd/   n. 负载，重荷；一批待洗的衣物；工作量；发电量，电荷；承载量；大量，许多；负担，压力；胡说八道，废话
+load balancing   负载均衡：一种将工作负载分配到多个计算机资源上的技术，以提高系统的可靠性、效率和可扩展性。
+loader  /ˈloʊdər/   n. 装载机，铲车；装卸工；装弹手；载入程序
+local  /ˈloʊk(ə)l/   adj. 当地的，地方的；局部的；（汽车或火车）每站都停的，慢的；（计算机）局域的；（食品或饮料）低热量的
+local object   局域天体
+lock  /lɑːk/   v. 锁住，把……锁起来；固定，卡住；陷入，卷入（困境、争论、争执等）；被紧紧抓住（或抱住）；给（计算机资料）加密；过船闸；<文>对视
+log  /lɔːɡ/   n. 日志
+login  /ˈlɔːɡɪn/   n. [计]进入系统
+login security mode   登录安全模式
+lookup table   查找表：一种数据结构，用于将键转换为值的目的。
+loop  /luːp/   n. 环形，环状物；循环胶片，循环磁带；（程序中）一套重复的指令；
+loose coupling  /luːs ˈkʌplɪŋ/   松耦合。
+lvalue   n. 左值
+machine code   机器码：
+macro  /ˈmækroʊ/   n. （计算机）宏，宏命令（=macro instruction）；（
+magic number   魔法数字：
+magnetic storage  /mæɡˈnetɪk ˈstɔːrɪdʒ/   [计] 磁存储器
+magnitude  /ˈmæɡnɪtuːd/   n. 巨大，重要性；震级；规模，大小；数量，数值；（恒星的）亮度，星等
+mailing  /ˈmeɪlɪŋ/   n. 邮寄；邮件；（苏格兰）农场租金
+maintain  /meɪnˈteɪn/   v. 保持，维持；维修，保养；断言，主张；赡养，抚养；<旧>支持，维护
+malicious  /məˈlɪʃəs/   adj. 恶意的，恶毒的，怀恨的
+malware  /ˈmælwer/   n. 恶意软件
+managed code   托管代码
+Managed Extensions   
+managed object   管理目标
+manifest  /ˈmænɪfest/   v. 显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单
+manipulate  /məˈnɪpjuleɪt/   v. 操纵，摆布；操作，使用；校正，转移（储存在计算机上的信息）
+manipulator  /məˈnɪpjuleɪtər/   n. 操纵器，调制器；操作者；善于操控者；善于摆布（欺骗）他人者
+manner  /ˈmænər/   n. 态度，举止；礼貌；方式；（文学或艺术的）风格；习俗；<正式>种类；（语法）方式状语，方式副词
+manually  /ˈmænjuəli/   adv. 手动地；用手
+manuscript  /ˈmænjuskrɪpt/   n. 手稿，原稿；手抄本，手写本
+mapping  /ˈmæpɪŋ/   n. （数学、语言学）映射，映现
+marry  /ˈmæri/   v. 结婚，嫁，娶；为……主持婚礼；把……嫁给，为……娶亲；使结合在一起；拼接缆绳
+marshal  /ˈmɑːrʃ(ə)l/   n. （英国）陆军元帅，空军元帅；司仪，典礼官；（尤指体育赛事的）总指挥；（美国法院的）执行官；一些美国城市的）警察局长，消防局长；（英国）巡回法官随员
+mask  /mæsk/   n. 面罩，口罩；防毒面具，呼吸面罩；遮蔽；
+Matching  /ˈmætʃɪŋ/   adj. 相配的
+mathematical  /ˌmæθəˈmætɪk(ə)l/   adj. 有关数学的；具有数学头脑的；精确的，完整的；可能性极小的
+matrix  /ˈmeɪtrɪks/   n. 矩阵；模型；
+mature  /məˈtʃʊr/   adj. 成熟的，理智的；成年的，发育完全的；发酵成熟的，酿成的；
+measurement  /ˈmeʒərmənt/   n. （通常以数字形式呈现的）测量结果；三围，（身材）尺寸；测量，计量；测量单位，度量制
+mechanism  /ˈmekənɪzəm/   n. 机械装置，机件；途径，方法；（生物体内的）机制，构造；机械论；（产生自然现象等的）物理过程
+mediocre  /ˌmiːdiˈoʊkər/   adj. 平庸的，中等（质量）的
+member  /ˈmembər/   n. 成员，一分子；会员；<英>议员；用于表示荣誉的头衔（尤指最低级）勋章获得者；（建筑或桥的）构件；（句子）成分；（方程式）端边；（一组数字）项；（数学集合）元；<旧>身体的一部分（如胳膊或腿）；阴茎
+member function   成员函数：在类中定义的函数，用于操作类的对象和访问类的数据成员。
+memberwise   adj. 成员逐个的：指对数据结构中的每个成员分别进行操作。
+memberwise copy   成员逐一复制
+memory  /ˈmeməri/   n. 记忆力，记性；记忆，回忆；（计算机存储器的）存储量；（计算机的）存储器；对死者的记忆；记忆所及的时间（或范围）
+memory leak  /ˈmeməri liːk/   内存泄漏：计算机或程序内存分配逻辑中的故障之一，导致部分内存变得无法使用或隐藏。
+menu  /ˈmenjuː/   n. 菜单；饭菜，菜肴；（电脑屏幕上的）菜单，功能选择单
+message  /ˈmesɪdʒ/   n. 口信，消息；（书籍、演讲等的）要旨，主题思想；（
+message based   消息基
+message loop   消息循环：计算机程序中用于处理用户输入和系统事件的一种循环结构。
+message queuing   消息队列
+meta  /ˈmetə/   pref. 表示“变化”“变换”之义
+metadata  /ˈmetədeɪtəˌˈmetədætə/   n. 元数据，诠释数据
+metaphorical  /ˌmetəˈfɔːrɪk(ə)l/   adj. 隐喻的，象征的
+metaprogramming   元程序设计的
+method  /ˈmeθəd/   n. 方法，办法；条理；体验派表演方法
+methodology  /ˌmeθəˈdɑːlədʒi/   n. 方法论，一套方法
+metrics  /ˈmetrɪks/   n. 度量；作诗法；韵律学
+micro  /ˈmaɪkroʊ/   adj. 极小的，微小的；微观的
+microchip  /ˈmaɪkroʊtʃɪp/   n. 微型集成电路片，微芯片
+middle tier   中层：在组织结构或系统中的中间层次，通常指管理层或中间产品。
+middleware  /ˈmɪdlwer/   n. 中间件；中间设备
+mimic  /ˈmɪmɪk/   v. 模仿（人的言行举止）；模拟（外观或效果）；模拟（另一种植物或动物）；（药）模拟（另一物质）的生理作用；（疾病）表现出（另一疾病）的症状
+minus  /ˈmaɪnəs/   prep. 减，减去；<非正式>没有，缺少；零下
+miscellaneous  /ˌmɪsəˈleɪniəs/   adj. （人，物）混杂的，各种各样的；多方面的，多才多艺的
+miscreant  /ˈmɪskriənt/   adj. 异端的；邪道的；极恶的
+mitigate  /ˈmɪtɪɡeɪt/   v. <正式>减轻，缓和
+mitigation  /ˌmɪtɪˈɡeɪʃn/   n. 减轻，缓和；<法律>减轻罪行的辩护
+model  /ˈmɑːd(ə)l/   n. 模型；模式；（机器等的）型号；模范，典型；模特儿；样本，范例；（小说中人物或地点的）原型；（著名设计师设计的）款式
+modeling  /ˈmɑːd(ə)lɪŋ/   n. [自] 建模，造型；立体感
+modeling language   模型化语言
+modem  /ˈmoʊdəm/   n. 调制解调器（等于 modulator-demodulator）
+modification  /ˌmɑːdɪfɪˈkeɪʃ(ə)n/   n. 修改的行为（过程）；修改，更改；修饰
+modifier  /ˈmɑːdɪfaɪər/   n. 修饰语，修饰成分；更改者，改型者；（遗传）修饰基因
+modular  /ˈmɑːdʒələr/   adj. （尤指英国大学里的课程 ）分单元的（由独立单元组成，学生可选修）；组合式的；模块化的；模数的；有标准组件的
+modularize   v. （使）模块化
+module
+  /ˈmɑːdʒuːl/   n. （机器、建筑物等的）组件，模件；（课程的）单元，模块；（计算机）模件，功能块；（航天器的）舱
+modulo  /ˈmɑːdjəˌloʊ/   prep. 以……为模
+monetize  /ˈmɑːnɪtaɪz/   v. 把……定为货币，使成为合法货币；铸造成货币；（通过网站访客）赚钱
+most derived class   最末衍生类别
+motion  /ˈmoʊʃ(ə)n/   n. 运动，移动；手势，动作；提议，议案；<英>排便，大便；转动的机械装置；（当庭提出裁决或命令的）请求，申请
+mouse  /maʊs/   n. 老鼠；鼠标；安静害羞的人；浅棕灰色，鼠皮色；<非正式>（尤指眼部或其附近的）青肿
+move around  /muːv əˈraʊnd/   v. 走来走去；绕着……来回转
+multi  /ˈmʌlti/   pref. 多
+multicast delegate   组播委托，多点委托
+multiple  /ˈmʌltɪp(ə)l/   adj. 多个的，多种的；多人共有的；影响身体许多部位的
+multiplexer  /ˈmʌltɪˌpleksər/   n. [计][通信] 多工器；多路器；[通信] 多路转接器
+multiplicative  /ˌmʌltɪˈplɪkətɪv/   adj. [数] 乘法的；增加的
+multiplier  /ˈmʌltɪplaɪər/   n. [数] 乘数；[电子] 倍增器；增加者；繁殖者
+multiply  /ˈmʌltɪplaɪ/   v. 大大增加，倍增；乘，乘以；繁殖，滋生
+multi-tasking   n. 多重任务处理
+multi-thread   多线
+multiuser  /ˈmʌltiˌjuːzər/   n. 多用户
+mutable  /ˈmjuːtəb(ə)l/   adj. 可变的，易变的；反复无常的，用情不专的
+mutation  /mjuːˈteɪʃ(ə)n/   n. （动物或植物的）突变，变异；（基因结构突变产生的）突变体，突变型；（形式的）转变，改变；语流音变，变音
+mutex   n. 互斥；互斥元，互斥体；互斥量
+myth  /mɪθ/   n. 错误的观点，荒诞的说法；神话，神话故事；虚构的人（或事），想象中的人（或事）
+named parameter   命名参数：在编程中，一种通过名称而非位置来指定参数值的方法。
+named pipe  /neɪmd paɪp/   命名管道
+namely  /ˈneɪmli/   adv. 即，也就是
+namespace   n. 命名空间
+native  /ˈneɪtɪv/   adj. 本地出生的，出生地的；天生的，天赋的；
+native code   本地代码：
+nature  /ˈneɪtʃər/   n. 大自然，自然界；性格，秉性；本质，特点；类型，种类；
+necessity  /nəˈsesəti/   n. 必需品，必需的事物；必要，需要；必然性，不可避免的情况
+neighbor  /ˈneɪbər/   n. 邻居
+neighboring  /ˈneɪbərɪŋ/   adj. 邻近的；附近的（等于 neighbouring）
+nested class   嵌套类；巢状类别
+nested query   嵌套查询
+nested table  /ˈnestɪd ˈteɪbl/   嵌套表
+network  /ˈnetwɜːrk/   n. 网络，网状系统；人际关系网，联络网；计算机网络，互联网；广播网，电视网
+network card   网络卡：一种允许计算机连接到网络的卡片。
+Network Flow   网络流：指在网络中从源节点到目标节点的流动，可以是数据、信息、能量等。
+neutralize  /ˈnuːtrəlaɪz/   v. 使失效，抵消；中和，使成为中性；使中立；击毁，摧毁（炸弹或军事目标）
+nonsense  /ˈnɑːnsens/   n. 荒谬的想法（看法），胡说；愚蠢的行为，胡闹；无意义的话（字句）
+normative  /ˈnɔːrmətɪv/   adj. 规范的，标准的
+notation  /noʊˈteɪʃn/   n. （音乐、数学等的）标记系统，成套符号，标记法；注释，评注
+notion  /ˈnoʊʃ(ə)n/   n. 概念，想法；缝纫用品；一时的念头，突发的奇想
+object  /ˈɑːbdʒekt/   n. 物体，实物；目的，目标；宾语；（引发某种情感或行为的）对象；客体；（计算机）对象
+object based   基于对象
+object file   目标文件：一种计算机文件，包含汇编器或编译器的机器代码输出，即目标代码。
+object model   对象模型：一种对现实世界中的对象及其关系进行抽象表示的方法，通常用于计算机编程和软件设计中。
+object oriented   面向对象的：指的是基于信息组和它们相互影响的方式，而不是基于一系列指令的方式。
+objective  /əbˈdʒektɪv/   n. 目的，目标；
+obscene  /əbˈsiːn/   adj. 淫秽的，暴力的；道德败坏的，令人厌恶的；（数量等）大得惊人的，骇人听闻的
+obscure  /əbˈskjʊr/   adj. 难以说清楚的，模糊的；鲜为人知的，默默无闻的；未被查实的，不确定的；费解的，晦涩的
+obscurity  /əbˈskjʊrəti/   n. 无名，默默无闻；费解，晦涩；<文>昏暗，黑暗
+occasion  /əˈkeɪʒn/   n. （某事发生的）时刻，时候；<正式>时机，适当的机会；特殊（或重大）场合，特殊（或重大）事件；<正式>理由，原因
+occupancy  /ˈɑːkjəpənsi/   n. 居住，占用；占用人数，容纳人数；（尤指酒店的）入住率，居住率
+occupy  /ˈɑːkjupaɪ/   v. 使用（房屋、建筑），居住；占据（空间，时间）；使忙于（做某事）；使一直在想；（军事）占领，占据；（尤指为表示抗议而）非法强占（建筑物）；任职，位居
+occurrence  /əˈkɜːrəns/   n. 发生的事，事件；发生，出现（尤指意外且令人不快的事）
+ODBC driver ODBC   
+off-the-shelf  /ˌɔːf ðə ˈʃelf/   adj. 现成的；常备的；成品的
+omit  /əˈmɪt/   v. 省去，遗漏；不做，未能做
+online  /ˌɑːnˈlaɪn/   adj. （产品、服务或信息）在线的，网上的；（计算机）联机的
+on-premise   adj. 预置的
+opaque  /oʊˈpeɪk/   adj. （玻璃、液体等）不透明的，不透光的；难懂的，隐晦的；迟钝的
+operand  /ˈɑːpərænd/   n. [计] 操作数；[计] 运算对象
+operating system   操作系统：
+operation  /ˌɑːpəˈreɪʃ(ə)n/   n. 运作，实施；运转，操作；手术；（有组织的）活动，行动；军事行动；企业，公司；业务，经营 ；（数学）运算
+operator  /ˈɑːpəreɪtər/   n. （设备、机器的）操作员；经营者；精明圆滑的人，善于取巧的人；电话员，接线员；运算符号
+optimization  /ˌɑːptɪməˈzeɪʃn/   n. 最佳化，最优化
+optimize  /ˈɑːptɪmaɪz/   v. 优化，充分利用（形势，机会，资源）；使（数据、软件等）优化；持乐观态度（=optimise）
+option  /ˈɑːpʃ(ə)n/   n. 可选择的事物；选择，选择权；
+order  /ˈɔːrdər/   n. 命令，指示；顺序，次序；井然有序，整齐；正常工作状况，良好使用状况；秩序，治安；（社会的）制度，结构；社会阶级；<正式>种类，类别；点餐，订购；点的餐，订购的货物；（饮食）分量；法院决议，法官指令；汇票，书面指令；（会议、议会、辩论或法院的）程序，规程；（宗教）仪式，祭礼；宗教团体，（尤指）修道会；兄弟会，会社；（尤指主教、牧师、执事的）品级，神品；圣职，牧师职（orders）；（神学）（九级天使的）级；<史>骑士团；勋位，勋爵士团；勋章；（动植物）目；柱型，装饰样式（多利斯、爱奥尼亚、科林斯、托斯卡那和混合型等五种古典建筑风格之一）；建筑类型，样式；（军）专用装备，专用服装；立正持枪姿势（the order）；（数）阶；方程的阶；群阶；矩阵的阶；<美>（计算机的）任务排序，等待队列
+ordinary  /ˈɔːrd(ə)neri/   adj. 普通的，平常的；平淡无奇的，平庸的；（尤指法官、主教）常任的，本身有权的
+orthogonal  /ɔːrˈθɑːgənəl/   adj. [数] 正交的；直角的
+orthonormal   adj. [数] 标准正交的；正规化的；[数] 规格化正交的
+other than   除了……之外
+outcome  /ˈaʊtkʌm/   n. 结果，效果
+outer join   外连接：一种连接操作，返回一个包含来自一组表的每个记录的集合。
+outgoing  /ˈaʊtɡoʊɪŋ/   adj. 爱交际的，外向的；即将离职的；往外去的，离去的
+outlet  /ˈaʊtlet/   n. （情绪或精力的）发泄方式，发泄途径；排出口；商店，分销点；廉价经销店；从事大众媒体行业的公司；<美>电源插座
+outperform  /ˌaʊtpərˈfɔːrm/   v. 胜过，做得比……好
+outsource  /ˈaʊtsɔːrs/   vt. 把……外包
+oven  /ˈʌv(ə)n/   n. 烤炉，烤箱；小熔炉，小窑；（纳粹集中营的）火化室
+overall  /ˌoʊvərˈɔːl/   adj. 总的，全面的；所有的，包括一切的
+overflow  /ˌoʊvərˈfloʊ/   v. 漫出，泛滥 ；充满，挤满；装满，完全盖住；扩展出界，过度延伸；洋溢着（情感）
+overhead  /ˌoʊvərˈhed/   adv. 在头顶上方，在空中
+overhear  /ˌoʊvərˈhɪr/   v. 无意中听到，偷听到
+overlap  /ˌoʊvərˈlæp/   v. （与……）互搭，（与……）复叠；（在关注的问题、承担的责任等方面）部分地重叠，部分相同；（与……）同时发生
+overlay  /ˌoʊvərˈleɪ/   v. 覆在……上面（overlie 的过去式）；覆盖，铺；（尤指以感情或品质）撒满；（声音）盖过
+overload  /ˌoʊvərˈloʊd/   v. （使）过载，超载；（使）负担过重；（使）电力系统超负荷
+overloaded function   函数重载：某些编程语言具有的一项特性，允许创建多个具有不同实现的同名函数。
+overloaded operator   重载运算符
+overloaded set   重载集合
+override  /ˌoʊvərˈraɪd/   v. 伸展在……上面，重叠；从……上走过，从……上面驶过；函数中的重写
+oversight  /ˈoʊvərsaɪt/   n. 监督；失察，疏忽
+package  /ˈpækɪdʒ/   n. 包
+packaging  /ˈpækɪdʒɪŋ/   n. 包装材料，外包装；包装工作；包装，美化
+pad  /pæd/   n. （吸收液体、保洁或保护用的）软垫，垫状物；（动物的）肉掌，（人的）手指肚；便笺本，拍纸簿；发射台，停机坪；（睡莲的）浮叶；低沉的脚步声；（电子）焊接区，焊接点；<非正式，旧>住处，寓所
+padlock  /ˈpædlɑːk/   n. 挂锁；关闭；禁止进入
+palette  /ˈpælət/   n. 调色板；（画家或一幅画所用的）一组颜色；（计算机程序中的）选项板；（乐曲的）一组音调，音色
+paradigm  /ˈpærədaɪm/   n. 典范，范例；样板，范式；词形变化表；纵聚合关系语言项
+paragraph  /ˈpærəɡræf/   n. （文章的）段，段落；段落符号；短评
+parallel  /ˈpærəlel/   adj. 平行的；相似的，同时发生的；（计算机）并行的；并联的
+parameter  /pəˈræmɪtər/   n. 界限，范围；参数，变量；（统计）人口参数
+parameter list   参数列表：在计算机编程中，指函数或过程中所需的参数的列表。
+parameterize  /pəˈræmɪtəˌraɪz/   vt. 用参数表示；确定……的参数
+paramount  /ˈpærəmaʊnt/   adj. 至为重要的，首要的；至高无上的，权力最大的
+parent class   父类：在面向对象编程中，指一个类被其他类继承的类。
+parentheses  /pəˈrenθəsiːz/   n. 圆括号；插入成分（parenthesis 的复数）
+parenthesis  /pəˈrenθəsɪs/   n. 圆括号；插入成分，插入语；插曲，间歇
+parity  /ˈpærəti/   n. （尤指薪金或地位）平等，相同；（两个不同国家的货币单位的）平价，等价；（数字）奇偶性；（物理）宇称；（物理）宇称性；（计算机）奇偶校验；（医）经产（状况）；已产子女数
+parse  /pɑːrs/   v. 对（句子）作语法分析；仔细研究，分析
+parser  /ˈpɑːrsər/   n. [计] 分析程序；语法剖析程式
+part  /pɑːrt/   n. 部分；某物的部分（局部）；
+partial  /ˈpɑːrʃ(ə)l/   adj. 部分的，不完全的；偏袒的，不公平的；偏爱的
+particular  /pərˈtɪkjələr/   adj. 特定的，某一的；格外的，特别的；讲究的，挑剔的；特殊的，独特的；详细的，详尽的
+party  /ˈpɑːrti/   n. 聚会，派对；政党，党派；<正式>（契约或争论的）当事人，一方；队，组，群；<正式>参加者；<非正式>人
+pass by reference   按引用传递：一种计算机编程中的参数传递方式，允许函数或方法修改调用者提供的变量的值。
+pass by value   按值传递：一种编程语言中的参数传递方式，将参数的值复制一份，然后将这份复制的值传递给函数或方法。
+patch  /pætʃ/   n. 补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片；（尤指园艺用的）一小块地；熟悉的地方，家乡；<非正式> 属地，管辖地；一段时间；<史>（尤指17、18世纪妇女装饰用的）饰颜片，美人斑；（软件的）补丁程序；（电气或电话的）临时连接（线）；（电子乐器，尤指合成乐器中的）预设配置（或声音）数据文件，配音
+pattern  /ˈpætərn/   n. 模式，方式；图案，花样；模范，典范；模型，底样；（布或墙纸的）样品；样式；（声音或词汇有规则排列的）模式
+payload  /ˈpeɪloʊd/   n. （导弹、火箭等的）有效载荷，有效负荷；收费载重，酬载；（工厂、企业等）工资负担
+percent  /pərˈsent/   n. 百分之……；部分
+perform  /pərˈfɔːrm/   v. 演出，表演；执行，履行（尤指复杂的任务或行动）；运行，表现；起…...作用，有…...功能
+period  /ˈpɪriəd/   n. 一段时间，时期；（人生或国家历史的）阶段，时代；（地质年代划分的）纪；课时，节；（练习、训练或学习的）时段；（妇女的）月经，经期；（体育比赛的）局；<美>句号，句点；（物理）（振动或循环的）周期；（天文）自转（或公转）周期；（数学）（周期函数的）周期；（化学）周期元素；（修辞）完整句；（乐）乐段，乐节
+periodically  /ˌpɪriˈɑːdɪkli/   adv. 定期地，周期性地；偶尔，间歇
+permanent  /ˈpɜːrmənənt/   adj. 永久的，永恒的；（尤指问题或困难）不断出现的，一直存在的；（员工）终生的，长期的；（家庭住址）固定的
+permissible  /pərˈmɪsəb(ə)l/   adj. 允许的，许可的
+permission  /pərˈmɪʃ(ə)n/   n. 同意，许可；许可证，书面许可
+permissive  /pərˈmɪsɪv/   adj. 放任的，纵容的；<法律>允许而非强制的，可选择的；（生）允许的，许可的；（道路）公众获准可使用的
+permutation  /ˌpɜːrmjuˈteɪʃ(ə)n/   n. [数] 排列；[数] 置换
+permute  /pərˈmjʊt/   v. 改变……的次序，重新排列
+persist  /pərˈsɪst/   v. 继续存在，持续；坚持，执意；坚持说，反复说
+persistence  /pərˈsɪstəns/   n. 继续存在，维持；坚持不懈，执意
+persistent  /pərˈsɪstənt/   adj. 执意的，坚持不懈的；持续的，反复出现的；（化学品，放射性）作用持久的，挥发慢的；（动植物某部位，如角、叶等）宿存的，不落的
+perspective  /pərˈspektɪv/   n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景；角度；（声音）立体效果
+pertain  /pərˈteɪn/   v. 适合，关于，适用；<法律>从属，归属；<正式>（在特定的时间或地点）生效，存在
+phase  /feɪz/   n. （发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相；（动）（由遗传或季节引起的）动物颜色变化（期）；（物理）相位，相角；（线圈的）匝，（多相电机或电路的）连接；（语言学）（系统语法用语）相（指链接动词与后续动词的关系）；相结构（含有链接动词和后续动词的结构）
+pipeline  /ˈpaɪplaɪn/   n. （常指地下的）输送管道；（供应货物、信息等的）渠道，途径；研发生产系统（the pipeline）；（计算机）流水线；（冲浪用语）大浪的空心部分
+pixel  /ˈpɪksl/   n. 像素
+placeholder  /ˈpleɪshoʊldər/   n. 占位符
+placement  /ˈpleɪsmənt/   n. 布置，摆放；（某人的）安置，安顿；实习工作；收容所，安置所；定位球
+plaintext  /pleɪnˈtekst/   n. 明文；纯文本档案
+platform  /ˈplætfɔːrm/   n. 平台；讲台，舞台；讲台上的人（the platform）；（火车站的）月台；<英>（公共汽车上供乘客上下车的）踏脚台；发言机会，论坛；契机；（政党的）纲领；厚底鞋；计算机平台；（海上）钻井平台；（供人上下小船的）水上平台；（火箭或导弹的）卫星发射平台
+plus  /plʌs/   prep. 加；外加，而且；（温度）零上
+Point Location   点位定位：一种用于确定地理位置的方法，通常通过经纬度坐标来表示。
+pointer  /ˈpɔɪntər/   n. 指针；指示器；教鞭；暗示
+polyfill   n. 一种用于衣物、床具等的聚酯填充材料，使这些物品更加温暖舒适
+polymorphism  /ˌpɑːlɪˈmɔːrˌfɪzəm/   n. 多态性；多形性；同质多晶
+polynomial  /ˌpɑːliˈnoʊmiəl/   adj. 多项的，多词的；多项式的
+pooling  /ˈpuːlɪŋ/   n. 联营，合并；池化
+pop up   突然出现：指某物在没有预警的情况下突然出现。
+populate  /ˈpɑːpjuleɪt/   v. （大批人或动物）居住于，生活于；充满，出现于（某地方，领域）；迁移，殖民于；（给文件）增添数据，输入数据
+port  /pɔːrt/   n. 港口，避风港；口岸，港口城市；（计算机）端口，接口；波尔图葡萄酒（产自葡萄牙）（=port wine）；（船、飞机等的）舷门，舷窗；射击孔，枪眼（=gun port）；通道，排气口；<苏格兰>城门，城门洞；（计算机）移植（软件）；<文>姿势，姿态；（军）斜持枪位置；<澳大利亚，非正式>旅行箱，旅行包
+portable  /ˈpɔːrtəb(ə)l/   adj. 便携式的，轻便的；可移植的，可在不同计算机上使用的；（变更工作或情景时）可转移的，可随带的
+portion  /ˈpɔːrʃ(ə)n/   n. （某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产；<古> 命运，天数
+pose  /poʊz/   v. 造成，引起（威胁、危险、问题等）；提出（问题）；（为照相、画像等）摆好姿势；假扮，冒充（pose as）；（举止或穿戴）装腔作势，招摇过市；<古>把……难住，使为难
+possibility  /ˌpɑːsəˈbɪləti/   n. 可能，可能性；可能的选项，可能的途径；发展前景，潜能；可能发生的事；机会，契机
+postfix  /poʊstˈfɪks/   n. [语] 后缀；词尾
+post-mortem  /ˌpoʊst ˈmɔːrtəm/   n. 验尸，尸体解剖；事后反思（或剖析）
+practical  /ˈpræktɪk(ə)l/   adj. 真实的，实际的；（计划、方法等）切实有效的，切实可行的；（人）明智的，务实的；合适的，适用的；心灵手巧的，善于制作（或修补）的；几乎完全的，实际上的
+precedence  /ˈpresɪdəns/   n. （重要性或地位的）领先，优先权；地位先后，级别高低
+precise  /prɪˈsaɪs/   adj. 精确的，准确的；恰好的，确切的；（人）严格的，一丝不苟的
+preclude  /prɪˈkluːd/   v. <正式>阻止，妨碍（preclude sb. from）
+preference  /ˈprefrəns/   n. 偏爱，偏好；更喜欢的人（或物）；优待，优先（权）；<法律>（尤指债务偿付）优先偿还权
+prefix  /ˈpriːfɪks/   n. 前缀；前置代号（置于前面的单词或字母、数字）； <旧>（人名前的）称谓
+preliminary  /prɪˈlɪmɪneri/   adj. 初步的，预备的
+premise  /ˈpremɪs/   n. 前提，假设；（企业或机构使用的）房屋及土地（premises）；上述各项
+preprocessor   n. 预处理器；[计] 预处理程序
+presence  /ˈprez(ə)ns/   n. 出席，存在；<正式>（某人的）所在地方；<文>感觉中的存在物（如鬼魂）；驻扎部队，驻扎的警力；风度，气质；（公司在某地的）工人（或产品），势力
+present  /ˈprez(ə)nt/   adj. （人）在场的，出席的；（事物）存在的；现在的，目前的；正在考虑的，正在讨论的；（语法）现在时（态）的；强烈感觉到的， 历历在目的
+preserve  /prɪˈzɜːrv/   v. 保护，维护；保持，维持；腌制，保存（食物）；禁止他人捕猎
+prevalence  /ˈprevələns/   n. 流行，盛行
+previous  /ˈpriːviəs/   adj. 以前的，先前的；（时间或顺序上）稍前的；<非正式>过早的，过急的
+previously  /ˈpriːviəsli/   adv. 以前地，先前地
+primary key   主键：数据库表设计中的一个概念，是在非空候选键集合中选择的一个键。
+primary table   原始表
+prime  /praɪm/   adj. 主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的
+primitive  /ˈprɪmətɪv/   adj. 原始的，远古的；（器物等）粗糙的，简陋的；（人、动物或植物发展）早期的；（行为，思想，情感）本能的，自然的；（艺术风格）朴实无华的；原来的，原有的；（语言学）根词的，非派生的；（数）（代数或几何表达式）本原的；（生）原生的
+primitive type  /ˈprɪmətɪv taɪp/   原始类型：计算机科学中的一个术语，指编程语言提供的基本数据类型，如整数、字符或布尔值等。
+print  /prɪnt/   v. 打印；印刷，出版；（在报纸或杂志上）刊登，刊载；用印刷体书写；冲印（照片）；印花样于（尤指织物或衣服上）；印上（印痕）；（用模子）印；铭记，铭刻
+printer  /ˈprɪntər/   n. 打印机；印刷商，印刷工人，印刷公司
+priori  /priˈɔːri/   n. （Priori）（意、巴、美）普廖里（人名）
+priority  /praɪˈɔːrəti/   n. 优先事项，最重要的事；优先，优先权，重点；<英>优先通行权
+privilege  /ˈprɪvəlɪdʒ/   n. 特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）；<史>（授予个人，公司，某地的）特许经营权；（生活）优越
+probabilistic  /ˌprɑːbəbəˈlɪstɪk/   adj. 概率性的；或然说的，盖然论的
+probability  /ˌprɑːbəˈbɪləti/   n. 可能性，或然性；可能发生的事，可能真实的事；（数）概率，几率
+probable  /ˈprɑːbəb(ə)l/   adj. 很可能发生（或存在等）的，大概的
+procedure  /prəˈsiːdʒər/   n. 手续，步骤；（商业、法律或政治上的）程序；外科手术；（电脑的）应用程式
+proceed  /proʊˈsiːd/   v. 开始行动，开展；<正式>继续做（或从事、进行）；（完成其他事后）继续做某事；<正式>行进，前往；起诉某人；来自，出自
+process  /ˈprɑːses/   n. 步骤，程序；（自然或偶然的）变化过程；（为达到某目标的）过程，进程；制作方法，加工方法；<法律>传票；（生，剖）端突，突起
+profile  /ˈproʊfaɪl/   n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案
+profound  /prəˈfaʊnd/   adj. （影响）深刻的，极大的；（感情）强烈的，深切的；（思想）深邃的，（见解）深刻的；<文>深的，深处的；完全的；艰深的，玄奥的；（疾病，残疾）严重的
+program  /ˈproʊɡræm/   n. （计算机）程序（=programme）；计划，规划；（音乐会、戏剧等演出的）节目单，（体育运动、比赛等的）项目介绍；（电视或广播）节目；<美>课程，大纲
+programmer  /ˈproʊɡræmər/   n. （计）程序设计员；编程器
+programming  /ˈproʊɡræmɪŋ/   n. 设计，规划；编制程序，[计] 程序编制
+progress bar   进度条：一种图形用户界面中的元素，通过逐渐填充其空白空间来指示任务的进展。
+progressive  /prəˈɡresɪv/   adj. 进步的，先进的；逐步发生的，逐步发展的；向前移动的；（音乐）现代的，新潮的；（税制，税种）累进的；（动词）进行式的；（纸牌游戏，舞蹈）搭档轮换的
+prohibitive  /prəˈhɪbətɪv/   adj. （费用或价格）高得令人望而却步的；限制性的，禁止的；（情况、局势等）阻止某人做某事的，令人望而却步的；<美>几乎可以肯定的
+project  /ˈprɑːdʒekt; prəˈdʒekt/   n. 项目，计划；（学校的）课题，研究项目；<美>廉租房区，公共房屋区
+proliferate  /prəˈlɪfəreɪt/   v. <正式>（在数或量上）激增，猛增；使（细胞、组织、结构等）增生，速生
+promise  /ˈprɑːmɪs/   v. 承诺，保证；使很可能，预示；指望，期待（promoise oneself）；<古>把（某人，尤指女人）许配给；有指望，有前途
+prompt  /prɑːmpt/   v. 促使，导致；鼓励，提示（说话者）；（计算机上）提示；（给演员）提词，提白
+propagate  /ˈprɑːpəɡeɪt/   v. 散播，宣传（观点、信仰等）；传播（运动、光线、声音等）；（动植物等）繁殖，使繁殖
+property  /ˈprɑːpərti/   n. 所有物，财产；地产，房地产；房地产股票（或投资）（properties）；<法律> 所有权，处置权；特性，性质
+proportional  /prəˈpɔːrʃən(ə)l/   adj. 成比例的；相称的，协调的；（数）成常比的
+proposal  /prəˈpoʊz(ə)l/   n. 提议，建议；提案；（计划、建议等的）提出；求婚
+propose  /prəˈpoʊz/   v. 提议，建议；提出（理论或解释）；提名，推荐；计划，打算；求婚；（向立法机构或委员会）提交（动议）；提议祝（酒）
+proposed  /prəˈpoʊzd/   adj. 被提议的，建议的
+proprietary  /prəˈpraɪəteri/   adj. 所有的，所有权的；专卖的，专利的；所有者的；私有的，私密的
+protect  /prəˈtekt/   v. 保护，防护；（制订法律）保护；投保，为……买保险；对……实行贸易保护；（计算机）保护（数据或储存库）；防守
+protocol  /ˈproʊtəkɑːl/   n. 礼仪，礼节；国际议定书，协议；条约草案，（协议或条约的）附件；（协定，公约）修正案（或增补）；（数据传递的）协议，规约；科学实验计划，医疗方案；（科学实验结果的）官方记录
+prototype  /ˈproʊtətaɪp/   n. （新型汽车、机器等的）原型，雏形；典型，范例；蓝本，最初形态；（电子）原型滤波网络；（生物、天体等的）原始型；（建筑、汽车等的）全真模型
+prove  /pruːv/   v. 证实，证明；证明是，结果是；显示（自己的）才干（或勇气）（prove oneself）；<法律> 检验，认证（遗嘱）；（用数学或科学原理）证明，验算；试（枪），查验；（面团）发酵
+provenance  /ˈprɑːvənəns/   n. 出处，起源
+provide  /prəˈvaɪd/   v. 提供，供给；配备，准备好；（法律或规章）规定；供养，提供生计；为（可能事件）作充分准备；<史>任命（牧师）担任有俸神职
+provision  /prəˈvɪʒ(ə)n/   n. 提供，供应；准备，预备；（尤指为旅行准备的）食物，必需品（provisions）；条款，规定；赡养，供养；（机构账户上为已知负债，尤指坏账或资产价值缩减，从利润中留出的）准备金；<史>神职委任（尤指教皇对尚未缺额神职的预先委任）
+pseudo  /ˈsuːdoʊ/   adj. 假的，伪装的
+pseudo code   伪代码：一种类似于编程语言的描述方法，用于描述算法或程序的逻辑结构，而不关注具体的语法细节。
+pseudorandom  /ˌsuːdoʊˈrændəm/   n. 伪随机；假散乱
+punch  /pʌntʃ/   n. 一拳，一击；<非正式>（出拳打击时所需要的）力量；感染力，活力；穿孔
+purpose  /ˈpɜːrpəs/   n. 目的，意图；目标，计划；（达到生活中目标的）决心，毅力；（情势等的）需要，用意（purposes）；重要意义，有价值的意义
+pursuit  /pərˈsuːt/   n. 追求，寻找；继续；追逐，追捕；实行，贯彻；消遣，业余爱好；（自行车赛和滑冰竞赛中的）追逐赛；（生理学）追视
+qualified  /ˈkwɑːlɪfaɪd/   adj. 具备……的学历（资历）的；（尤指做某项工作）有资格的，胜任的；（支持、赞同）有限度的，有保留的
+qualifier  /ˈkwɑːlɪfaɪər/   n. [语] 修饰语
+quality  /ˈkwɑːləti/   n. 质量，品质；优质，上乘；素质，品德；特征，特质；（语音）音质，音色；<英>（供有品位者阅读的）高质量报纸（=quality newspaper）；（占星）黄道宫运动三大特征之一
+quantity  /ˈkwɑːntəti/   n. 量，数目；大量，大批；（尤指和质量相对的）数量；（语音）音量；值，参量；代表数量（或参量）的数（或符号）
+question mark   问号：用于在句子结尾表示直接疑问的标点符号。
+queue  /kjuː/   n. <英>（人、汽车等的）队，行列；<英>（为得到某机会而等待的）长列，长队；（计算机）队列；呼叫队列；<古>辫子
+quote  /kwoʊt/   v. 引用，引述；举例说明；将......描述为；开价，报价；为（股票、黄金或外汇）报价；为......打出（某投注赔率）； 为（企业的股份）上市，挂牌
+radar  /ˈreɪdɑːr/   n. 雷达，无线电探测系统；（人的）直觉感知能力，（对因素或潮流等的）敏感性
+radian  /ˈreɪdiən/   n. [数]弧度
+radio button   单选按钮：图形用户界面中的一组小部件，用于从一组选项中选择一个；选择其中任何一个选项会取消选择其他选项。
+ragged  /ˈræɡɪd/   adj. （衣服）破旧的；（人）衣衫褴褛的；高低不平的，参差不齐的；不流畅的，不规则的；精疲力竭的；不熟练的，蹩脚的；（尤指右边距）未对齐的
+raise  /reɪz/   v. 提升，举起；（使）直立，站立；建造，树立（纪念碑等）；增加，提高（数量、水平等）；筹集，筹募；召集，征募（尤指士兵）；提及（某事）；引起，使出现；饲养，种植；抚养，养育； 使积方，使自乘……次；比（对手）多下赌注； 打捞（船只）；使（面包）发酵；使复活；（暂时）终止，解除；（通过无线电或电话）与……取得联系；开具（发货单或其他单据）；把（动物）从窝里赶出；（海上人员）驶近能看见（陆地或其他船只）的地方；（免疫）刺激（抗血清、抗体等的）生成
+random number   随机数：通过适当的生成器随机分配的数字。
+range  /reɪndʒ/   n. （变动或浮动的）范围，界限；视觉（或听觉）范围；射程，射击距离；一系列；成套产品，系列商品；山脉；牧场，牧区；靶场，射击场，炸弹试验场；（尤指旧时的）炉灶；一排建筑物；<古>方向，走向；（飞机等交通工具的）续航距离
+range from  /reɪndʒ frəm/   范围从……到……：表示一个连续的范围，包括起始值和结束值。
+rank  /ræŋk/   n. 军衔，军阶；（社会、团体中的）地位，等级；（尤指较高的）地位；（警察、士兵等的）队列，行列；排，列；横排，棋盘横格；组织（或机构等）中的全体人员（ranks）；普通士兵（the ranks）；<英>出租车候车站（=taxi rank）；（数）秩；（统计）次序排列；（系统语法用语）（一个或一组语言单位的）阶，级
+rapid  /ˈræpɪd/   adj. 快的，迅速的；（移动，活动）快速的
+ratify  /ˈrætɪfaɪ/   v. 批准，正式签署
+rationale  /ˌræʃəˈnæl/   n. <正式>根本原因，逻辑依据
+raw  /rɔː/   adj. 生的，未煮过的；天然的，未经加工的；（信息）未经处理的，原始的；（感情，品质）强烈的，不掩饰的；（皮肤）刺痛的；（人）生疏无知的，未经训练的；（天气）阴冷的；（音乐、艺术、语言等）质朴的，未经琢磨的；<美，非正式>（语言）粗俗的；（布料边缘）无褶边的；（文字）不加掩饰的，如实坦陈的；<南非>（非洲黑人）源自传统部落（或乡村）文化的；强大的，真实的；（污水）未经处理的
+readability  /ˌriːdəˈbɪləti/   n. 可读性；易读
+readOnly  /ˌriːdˈoʊnli/   adj. 只读的
+realization  /ˌriːələˈzeɪʃ(ə)n/   n. 认识，领悟；（目标等的）实现；变现，变卖；兑谱，改编；（语言特征的）体现；货物销售；发声，(戏剧)演出，设计成果
+rebellion  /rɪˈbeljən/   n. 叛乱，反抗； （对权威的）反抗，不服从；叛逆，不顺从
+recognition  /ˌrekəɡˈnɪʃ(ə)n/   n. 承认，接受；表彰，赞誉；认出，识别；（政府对他国的）外交认可
+recognize  /ˈrekəɡnaɪz/   v. 认识，辨别出；承认，意识到；（正式或在法律上）认可，承认；赞赏，公认；表扬，表彰；（会议或辩论主席）邀请……发言；（计算机等）自动识别（声音、印刷字体等）
+recomputation   n. 重新计算；重新估计
+reconcile  /ˈrekənsaɪl/   v. 调和，使协调一致；（使）和解，（使）恢复友好关系；调停，调解（争吵）；使顺从于，使接受；核对，查核（账目）
+reconstruction  /ˌriːkənˈstrʌkʃ(ə)n/   n. 再建，重建；改造；复兴
+record  /ˈrekərd/   n. 记录，记载；（某人或某物过去的）记录，经历；（尤指体育运动中的）最佳纪录，最好成绩；唱片；前科，犯罪记录；唱片乐曲；（计算机）记录（指作为一个单位处理的一批相关信息）
+recordset  /ˈrekɑːdset/   n. 记录集；记录集对象；资料录集
+recover  /rɪˈkʌvər/   v. 恢复（健康，精神，体力）；康复，复原（be recovered）；（从不愉快的经历中）恢复；（从弱势或困境中）好转，扭转；重新获得，寻回；收回（开支、投资等）；恢复（意识、神志或身体状态）；挽回（地位），弥补（时间损失）；提取（能源或化工品等），回收利用； 给……换上新面
+recruit  /rɪˈkruːt/   v. 招聘，招收（新成员）；招募（新兵）；说服，动员；（通过招募）组成，组建；<旧> 恢复（数量、力气等）
+rectify  /ˈrektɪfaɪ/   v. <正式>纠正，矫正；整流，把（交流电）转变成直流电；蒸馏；求曲线的直线等长
+recursion  /rɪˈkɜːrʒn/   n. [数] 递归，循环；递归式
+recursive  /rɪˈkɜːrsɪv/   adj. [数] 递归的；循环的
+redact  /rɪˈdækt/   vt. 编辑；编写
+redacted   adj. 经过编辑的；有修改的
+re-direction  /ˌriː dəˈrekʃn; ˌriː daɪˈrekʃn/   重定向
+redistribute  /ˌriːdɪˈstrɪbjuːt; ˌriːˈdɪstrɪbjuːt/   vt. 重新分配；再区分
+reduction  /rɪˈdʌkʃ(ə)n/   n. 减小，降低；减价，折扣；（照片、地图、图片等的）缩图，缩版；归纳，简化；（数学）归约，约化；染色体减半；简编曲（管弦乐改编的钢琴曲或小乐队演奏曲）；浓汤，浓汁；脱臼（或断骨）复位；（化学）还原，被还原；（语音）弱化
+redundancy  /rɪˈdʌndənsi/   n. <英> （因劳动力过剩而造成的）裁员，解雇；多余，累赘；复置装置，冗余（机器、系统等某部件发生故障后的替代装置）
+refactoring   n. 重构；重整
+refer  /rɪˈfɜːr/   v. 提到，谈及（refer to）；描述，涉及（refer to）；查阅，参考（refer to）；将……送交给（以求获得帮助等）；让（某人）注意；<古>把……归因于；（考试中）淘汰（应试者）
+refer to   参考，查阅；
+reference  /ˈrefrəns/   n. 提及，谈到；参考，查阅；（引自书或诗歌的）引言，引文；引文的作者，参考书目；（帮助或意见的）征求，征询； (为方便查询所用的）标记，编号；推荐信，介绍信；介绍人，推荐人
+reflection  /rɪˈflekʃ(ə)n/   n. （光、热或声音的）反射；反射光，反射热，回声；（反射出来的）影像，倒影；深思，反省；（尤指见诸语言的）想法，意见；表现，反映；坏的印象；（数）镜射，反射
+refresh data  /rɪˈfreʃ ˈdeɪtə; rɪˈfreʃ ˈdætə/   刷新数据：更新或重新加载计算机或其他设备上的数据以获取最新的信息。
+regardless  /rɪˈɡɑːrdləs/   adv. 不顾，不加理会；不管怎样，无论如何
+register  /ˈredʒɪstər/   n. 登记表，注册簿；注册员；（人或乐器的）声区，音区；（适合特定场合使用的）语体风格，语域；（印刷，摄影）套准，叠合；<美>现金出纳机；（电子设备的）寄存器；<美>（供暖或制冷设备的）调风口，节气门；（设计图案组成的）条，局部
+regression  /rɪˈɡreʃn/   n. 后退，倒退；（思想或行为的）退化，退行；（疾病或症状的）消退；（统计）回归
+regular expression   正则表达式：计算机理论中对正则形式语言的简洁描述，用于文本匹配或搜索的模式。
+relational database  /rɪˌleɪʃənl ˈdætəbeɪs; rɪˌleɪʃənl ˈdeɪtəbeɪs/   关系型数据库
+relevant  /ˈreləvənt/   adj. 有关的，切题的；正确的，适宜的；有价值的，有意义的
+reliability  /rɪˌlaɪəˈbɪləti/   n. 可靠性；可信度
+remarkably  /rɪˈmɑːrkəbli/   adv. 不寻常地，惊人地；不平常地，奇怪地
+remediation  /rɪˌmiːdiˈeɪʃn/   n. 补救；矫正；补习
+reminiscent  /ˌremɪˈnɪs(ə)nt/   adj. 使人联想的；怀旧的，缅怀往事的；与……相像的
+remote  /rɪˈmoʊt/   adj. 边远的，偏僻的；（距离或空间上）遥远的；（时间上）久远的；（机会或可能性）渺茫的；差别很大的，很不相同的；不友好的，冷漠的；远亲关系的；（电子设备）遥控的；（计算机）远程的，远程连接的
+remote request   远程请求；远程要求
+replay  /ˈriːpleɪ/   v. 重放（录音带、录像带或电影）；重现，重演；（由于未决出胜负而进行的）重新举行（比赛），重赛；反复回想
+replica  /ˈreplɪkə/   n. 复制品，仿制品
+represent  /ˌreprɪˈzent/   v. 代表；为……代言（辩护）；代表（选区、政党、群体）任国会议员（或其他立法机构议员）；代表（国家、学校、城镇等参加比赛）；作为某人的代表（尤指在正式场合或仪式中）；等于，相当于；（符号或象征）代表，表示；象征，体现；展示，描绘；（尤指不真实地）描述，描写；扮演；<正式>明确讲述，清楚说明；声称；正式提出（意见、抗议等）
+representative  /ˌreprɪˈzentətɪv/   adj. 典型的，有代表性的；代表各类人（或事物）的；由代表组成的，代议制的；表现的，体现的；（艺术）具象派的；（哲） （与）表象（有关）的
+repurpose  /ˌriːˈpɜːrpəs/   vt. 改换意图；重新目的化
+reputation  /ˌrepjuˈteɪʃ(ə)n/   n. 名誉，名声
+research  /ˈriːsɜːrtʃ/   n. （尤指大学或科研机构进行的）研究，探讨；研究工作，调查工作
+residual  /rɪˈzɪdʒuəl/   adj. 残留的；（数量）剩余的；（物质状态在成因消失后）剩余的；（实验误差）舍去的；（土壤）残余的
+resilience  /rɪˈzɪliəns/   n. 恢复力，复原力；（橡胶等的）弹性
+resilient  /rɪˈzɪliənt/   adj. （人或动物）对困境有承受力的，有复原力的；（物质或物体）有弹性的，有回弹力的
+resolution  /ˌrezəˈluːʃ(ə)n/   n. 决议，正式决定；（冲突、问题等的）解决，解决办法；决心，决定；坚决，果断；（电视、照相机、显微镜等的）清晰度，分辨率；（故事中主要矛盾的）冲突解开；（乐）解决（指和声中不协和音向协和音的进行）；（医）（炎症或其他症状的）消散，消退；（化）分解；（物理）（力或其他矢量的）分解
+resolve  /rɪˈzɑːlv/   v. 解决（问题或困难）；决定，下定决心；作出决议，表决；分解，转化；（使）（症状、病情）消散，消退；解析，解离；分析；（不协和音）转向协和；（当远处物体看得更清楚时）变成；（光学仪器等）分辨；辨析（图表或光谱峰值）
+respective  /rɪˈspektɪv/   adj. 分别的，各自的
+respectively  /rɪˈspektɪvli/   adv. 分别地，依次地
+responsibility  /rɪˌspɑːnsəˈbɪləti/   n. 责任，负责；（对不良事件所负的）责任；（道义上或法律规定的）责任（responsibility to/towards）；职责，任务；重任，职权
+restriction  /rɪˈstrɪkʃ(ə)n/   n. 限制规定，限制法规；（受）限制（状态），（受）约束（状态）；制约因素
+result set  /rɪˈzʌlt set/   结果集：数据库查询返回的结果集合。
+retain  /rɪˈteɪn/   v. 保持，保留；保存，储存；记住；付定金聘定（尤指律师）；留用（员工）
+retrieve  /rɪˈtriːv/   v. 找回，收回；检索（储存于计算机的信息）；（狗等）衔回（物品、猎物）；挽救，挽回；回忆，追忆；收绕钓鱼线
+retrieve data  /rɪˈtriːv ˈdeɪtə; rɪˈtriːv ˈdætə/   检索数据：从数据库、文件或其他存储系统中查找和提取所需的信息。
+retrospect  /ˈretrəspekt/   n. 回顾，回想
+retrospective  /ˌretrəˈspektɪv/   adj.  回顾的，回想的；有追溯效力的，溯及既往的
+return  /rɪˈtɜːrn/   v. 回来，回去；归还，退还；回报，回应；（感觉或情况）重新出现，恢复；重新开始，继续（某项活动）；带来，产生（利润或损失）；回击，击回； 宣告（裁决）；选举，选出；（建筑）（尤指成直角）转延（墙壁）；（高尔夫）打后九穴；（美橄）截获（对方传、踢或漏球）反攻；（桥牌）（尤指同伴所攻出的同花色牌赢墩后）跟着打出，回出；把（空瓶或空罐头盒）送到回收站
+return type   返回类型：在计算机编程中指的是子程序或方法返回的值的数据类型。
+return value   返回值：在计算机编程中，函数或方法执行后返回的结果。
+reveal  /rɪˈviːl/   v. 揭示，透露；表明，证明；展示，显示；（通过神或超自然手段）启示
+reverse  /rɪˈvɜːrs/   v. 逆转，彻底改变（决定、政策、趋势等）；撤销，推翻（法庭判决）；颠倒，反转；交换，互换（位置、功能）；<美>承认错误，放弃（立场）；倒（车）；（发动机）反向运转；<英>打对方付费的电话；使（铅字，图案）印成白或浅色
+revise  /rɪˈvaɪz/   v. 改变，修正；修改，修订（书刊、估算等）；<英>温习，复习
+revisit  /ˌriːˈvɪzɪt/   vt. 重游；再访；重临
+revoke  /rɪˈvoʊk/   v. 撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟
+right  /raɪt/   adj. 符合道德的，正当的；正确的，真实的；（人、物）合适的，般配的；（意见，判断）对的；右边的，右侧的；（状态或情况）健康的，正常的；<英，非正式> 十足的，真正的（用于强调某人或某物多么糟糕）；正面的，外面的；时尚的，上流社会的；（人或政党）支持保守观点的，右翼的
+right arrow  /raɪt ˈæroʊ/   右箭头：一个指向右边的箭头符号，通常用于指示向右的方向或操作。
+right outer join   右外连接
+rigorous  /ˈrɪɡərəs/   adj. （测试、系统或程序）严密的，缜密的；（规则，制度等）严格的，苛刻的；一丝不苟的；严酷的，恶劣的
+ripple  /ˈrɪp(ə)l/   n. 涟漪；（外观或运动）如波纹的东西；（声音的）传播起伏，（感情的）逐渐扩散；连锁反应；彩条冰淇淋；表面张力波；脉动
+robust  /roʊˈbʌst/   adj. 强健的，强壮的；（系统或组织）稳固的，健全的；（物体）结实的，坚固的；（观点等）强烈的，坚定的；（食物或饮料）味浓的，醇厚的；特大的；粗野的，粗鲁的
+robustness  /roʊˈbʌstnəs/   n. 鲁棒性；稳健性，健壮性；耐用性
+roll back   击退；把……压低到标准水平
+roll forward   向前滚动：向前滚动某物或某人，通常指车辆或计划。
+roll off   转降，辗轧；印出，复印出；从…复印出
+roll out  /ˈrəʊl aʊt/   推出、推广或展开：描述新产品、服务、计划等的推出过程。
+root  /ruːt/   n. （植物的）根，根茎；根用作物；（头发、牙齿、指甲等的）根部；底部，基部；根源，起因；起源，背景；（某人的）祖籍（roots）；与……的特殊关联（roots in）；（圣经）根苗，苗裔；（语言学）词根；（乐）根音（=root note）；（数学）方根；（神经的）根；<澳新，俚>性交；<澳新，俚>（有明确性能的）性交伙伴
+rotate  /ˈroʊteɪt/   v. （使）旋转，（使）转动；（人员）轮换，轮值；轮种，轮作；定期调换地点（或位置）
+round  /raʊnd/   adj. 圆形的，球形的；圆弧的；（人）圆肩的；（人的身体）丰满的；（声音）圆润的；整数的；（数字）完整精确的，完全的；<古>（钱）大量的，可观的；<古>（人或其说话方式）率直的，耿直的；（表面）无棱角的，弯曲的
+route  /ruːt/   n. 路线，航线；道路，路途；常规路线，固定路线；<美>（尤指作为送货工作的）例行拜访，递送路线；途径，方法；（用于美国城市间干线公路编号前）公路（Route）
+routine  /ruːˈtiːn/   n. 常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序
+row  /roʊ/   n. 一排，一行；（剧院、体育场等的）一排座位；街（用于某些道路名称）；（表格的）横线，横栏；（编织中的）针行；划船（时间）；<英> 严重分歧，纠纷；<英> 吵架，争吵；<英> （持续时间长的）喧闹声，吵嚷声；<英> 严厉斥责
+rowset   行集
+RPC   abbr. 远程过程调用（Remote Procedure Call）;位置遥控（Remote Position Control）
+runtime  /ˈrʌntaɪm/   n. 执行时间，运行时间
+rvalue   n. 右值
+sailor  /ˈseɪlər/   n. 水手，船员；驾船人，帆船驾驶者；喜好航海的人（尤指富有经验者）
+sampling  /ˈsæmplɪŋ/   n. 取样；抽样
+Satisfiability  /sætɪsfaɪəˈbɪləti/   n. [数] 可满足性
+satisfy  /ˈsætɪsfaɪ/   v. 使满意，使满足；满足（要求、需要等）；符合（规定、条件或标准）；使确信，使信服；清偿，偿付；解，符合（方程式）；令人满意，令人满足
+satisfying  /ˈsætɪsfaɪɪŋ/   adj. 令人满意的；令人满足的
+save  /seɪv/   v. 救助，搭救；避免，减少；积攒，储蓄；节省（钱、时间或其他资源）；保存，保留；收集；（为某人）保留；（计算机）保存（数据）；使健康长寿，护佑；（足球等）救球，防止对方进球；（棒球）（替补投手） 保持（其他投手取得的领先地位）；（基督教）拯救（某人），使摆脱罪孽
+savepoint   保存点
+SAX  /sæks/   n. 萨克斯管（等于 saxophone）；石板斧
+scalability  /ˌskeɪləˈbɪləti/   n. 可扩展性；可伸缩性；可量测性
+scalable  /ˈskeɪləbl/   adj. （计算机） 可扩展的；可改变大小的，可缩放的；可攀登的；可称量的；可去鳞的
+scarce  /skers/   adj. 缺乏的，不足的；稀有的，少见的
+scenario  /səˈnærioʊ/   n. 设想，可能发生的情况 ；（电影、戏剧等的）剧情梗概；（艺术或文学作品中的）场景
+schedule  /ˈskedʒuːl/   n. 计划（表），进度表；<美>（公共汽车、火车等的）时间表；（价目、费用等的）清单，一览表；（电视或电台的）节目表；<美>（学校的）课程表；<法律> 附件（尤指表格、单据等）；（英国所得税制的）报税单
+scheduler  /ˈskedʒuːlər/   n. 计划员；时间调度员；程序机，调度机；调度程序；制表人
+schema  /ˈskiːmə/   n. （计划或理论的）纲要，图解；（逻）（三段论法的）格；（康德哲学的）先验图式
+scheme  /skiːm/   n. <英>（政府或其他组织的）计划，方案；（用于组织或整理信息的）系统，体系；组合，布局；阴谋，诡计；<苏格兰，非正式>社会住宅区
+scope  /skoʊp/   n. 范围，领域；（发挥能力的）机会，施展余地；视野，眼界；观测仪器（如望远镜、显微镜等）；（船抛锚时的）缆绳长度；特定论点的数量
+scope operator   范围运算符，范围运算子
+screen  /skriːn/   n. 屏幕，荧光屏；计算机屏幕显示的数据（或图像）；（电影院）银幕；电影（总称）；（摄）聚焦屏；屏风，隔板；掩蔽物，屏障；掩饰，幌子；（医疗）化验，检查；（拦在圣坛或唱诗班四周的木质或石砌）围屏；（隔离用的）植物丛；纱窗，纱门；（纱门或纱窗的）金属丝，塑料线；（机动车的）挡风玻璃；（篮球、冰球等运动的）掩护；（印刷）网屏，网版；屏蔽器；（电子）帘栅极，屏栅极（=screen grid）；掩护部队，护航舰队；大筛子，滤网
+scroll bar   滚动条：计算机窗口底部或侧边的一条窄条，用鼠标点击以查看隐藏的窗口部分。
+scrutinize  /ˈskruːtənaɪz/   v. 仔细查看，细致审查
+SDK   abbr. 软件开发工具包（Software Development Kit）
+sealed class   密封类
+seamless  /ˈsiːmləs/   adj. 无缝的；无缝合线的；无伤痕的
+search  /sɜːrtʃ/   v. 搜查，搜寻；搜查（地方，车辆），搜……的身；思索，细想（问题答案等）；细察，细查；（用计算机）搜索，检索
+Searching  /ˈsɜːrtʃɪŋ/   adj. 搜索的，彻查的；透彻的；探寻性的（问题等）
+secondary  /ˈsekənderi/   adj. （教育）中等的，中学的；次要的， 第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的；<旧>（地质）中生代的（Secondary）
+section  /ˈsekʃ(ə)n/   n. 段，部分；散件，部件；（书、报等的）节，栏；一部分人；（乐队的）组；断面图，剖面图；（数学中的）截面；（手术中的）开刀，切开；（供研究用的动物或植物的）切片；<美> 一平方英里的土地；<美>（柑橘类水果的）一瓣；（法律文件的）款，项；路段；区域；部门，科；<新西兰> 建房用地；（军队的）特定单位；分排，小队；（生物）组（尤指亚属）
+secure  /sɪˈkjʊr/   adj. 稳固的，可靠的；严密把守的，牢固的；安全的，稳妥的；（对自己和自己的能力）有自信的；感到有保障的，没有顾虑的；固定住的，系牢的；秘密的
+see pointer register   
+seed  /siːd/   n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）；<古，文>（古时用语，原用于《圣经》中）子嗣，子孙；（感情、过程的）起源，开端；（网球、羽毛球等体育项目中的）种子选手， 种子队；晶粒，晶种；辐射管，镭管
+semantic  /sɪˈmæntɪk/   adj. 语义的；语义学的
+semantics  /sɪˈmæntɪks/   n. [语] 语义学；语义论
+semaphore  /ˈseməfɔːr/   n. 信号标，旗语；臂板信号装置
+semicolon  /ˈsemikoʊlən/   n. 分号
+sensor  /ˈsensər/   n. （探测光、热、压力等的）传感器，敏感元件，探测设备
+separate  /ˈseprət/   adj. 单独的，分开的；不同的，不相关的
+sequential  /sɪˈkwenʃ(ə)l/   adj. 连续的，按顺序的；依次发生的，相继发生的；（主计算机）顺序的
+sequential container   顺序容器：一种数据结构，用于存储具有顺序关系的元素，例如数组、链表和向量等。
+serial  /ˈsɪriəl/   adj. 顺序排列的，一连串（系列）的；（重罪案犯或重案）连环的，连续的；连续播放的，连载的；串行的，单行的；（语言学）（动词）序列的；（乐）序列的；（计算机）（处理器）单任务的
+serialization  /ˌsɪriələˈzeɪʃn/   n. 序列化；串行化；连载长篇
+server  /ˈsɜːrvər/   n. 服务器；<美>服务生，服务员；上餐用具；发球者；（基督教牧师做礼拜时的）助祭
+server cursor   服务器游标
+session  /ˈseʃ(ə)n/   n. （某项活动的）一段时间，一场；（议会等的）会议，（法庭的）开庭；学年，上课时间；（酒吧中）演奏会（尤指演奏爱尔兰音乐）；（尤指录音师的）灌录音乐时间；<非正式>酗酒期；基督教长老会的管理机构
+Set Cover   集合覆盖
+Set Data Structures   
+Set Packing  /set ˈpækɪŋ/   集合配置
+setter  /ˈsetər/   n. 蹲伏猎狗，塞特种猎犬；制订者，安排者；决定者；决定因素；排字工人；安装员
+severity  /sɪˈverəti/   n. 严重，严重性；严肃，严厉（的态度）；严厉（的程度）；简朴，朴素，普通
+shared lock   共享锁；共用锁定
+shave  /ʃeɪv/   v. 剃（须），刮去（毛发）；削去，刮掉（薄层）；（少量地）减去，削减；掠过，擦过
+shift  /ʃɪft/   v. （使）移动，（使）转移；（使）转换到（另一个人或另一事物）；（使）改变意见（或信仰等）；<英，非正式>赶快；<美>换（挡）；（计算机）移位；按（计算机键盘上的）Shift 键；<英，非正式>摆脱，消除；<英，非正式>（尤指大量）销售，出售；<英，非正式>狼吞虎咽地吃；<古>含糊其辞，拐弯抹角
+shortcut  /ˈʃɔːrtkʌt/   n. 近路；捷径，快捷方法；（电脑操作中的）快捷方式；（计算机）快捷键
+shuffle  /ˈʃʌf(ə)l/   v. 拖着脚走；（因不适、紧张或尴尬而）坐立不安，把脚动来动去；将（纸张等）变换位置，打乱顺序；洗（牌）；匆忙地整理（或浏览）；笨拙地穿上；随机播放；逃避责任（或义务）；<古>躲闪，支吾，搪塞
+shy  /ʃaɪ/   adj. 害羞的，腼腆的；显得腼腆的，看着羞怯的；（动物）易受惊的，胆小的；犹豫的，有所顾忌的；躲避（或不喜欢）……的；不足的，缺乏的；在……之前（shy of）；（植物）开花不多的，结果很少的
+sibling  /ˈsɪblɪŋ/   n. <正式>兄弟姐妹
+side effect  /saɪd ɪˈfekt/   副作用：药物等的次要且通常不良的影响，也被称为“副反应”。
+signature  /ˈsɪɡnətʃər/   n. 签名，署名；签字，签署；鲜明特色，明显特征；（印刷）折标；书贴；<美>标记，用法签（处方上说明药的用法的部分）；（音乐的）拍号；（音乐的）调号
+significant  /sɪɡˈnɪfɪkənt/   adj. 显著的，相当数量的；重要的，意义重大的； 别有含义的，意味深长的
+simulation  /ˌsɪmjuˈleɪʃ(ə)n/   n. 模拟，仿造物；假装，冒充
+simulator  /ˈsɪmjuleɪtər/   n. 模拟器；假装者，模拟者
+simultaneous  /ˌsaɪm(ə)lˈteɪniəs/   adj. 同时发生的，同步的
+simultaneously  /ˌsaɪm(ə)lˈteɪniəsli/   adv. 同时地
+single-threaded   单一执行绪
+siren  /ˈsaɪrən/   n. 汽笛，警报器；塞壬（古希腊神话中的海妖）（Siren）；妖艳迷人而又危险的女人；危险的诱惑；鳗螈；歌声动人的女歌手
+SIT  /sɪt/   v. 坐；坐下，就座；使就座，使坐下；闲（坐）着；能容纳，可坐（……人）；坐着让人画像（照相）；<美>（比赛）不用（某选手），让（某运动员）坐冷板凳；蹲坐，栖息；骑马；处于（某种情况中）；坐落在，处于（某位置）； 担任职务，当委员；（议会）开会，（法院）开庭；<英> 参加（考试）；照看小孩
+sketch  /sketʃ/   n. 素描，速写，草图；（任何作品的）粗样，初稿；简述，概述；幽默短剧，滑稽小品；<非正式，旧>滑稽的人（或物）
+slash  /slæʃ/   v. （用利器）砍，劈；大幅度削减，大大降低；严厉批评，抨击；猛力移动，袭击
+slave  /sleɪv/   n. 奴隶，苦工；完全受（某事物）控制的人；从动装置
+slider  /ˈslaɪdər/   n. 管龟，彩龟；滑动器，滑杆；浮动块，滑动块；滑行曲线球；滑雪者；小三明治
+slogan  /ˈsloʊɡən/   n. 口号，标语；广告语；<史>苏格兰高地的战斗呐喊
+slot  /slɑːt/   n. （可投入东西的）狭长孔，狭槽；（在一系列事件中为某事安排的）时间，空档；（组织、团体等中的）位置，职位
+smart pointer   智能指针
+SMTP   abbr. 简单邮件传输协议（Simple Mail Transfer Protocol）
+snapshot  /ˈsnæpʃɑːt/   n. 快照；简要说明，大致印象；（计算机）抽点打印；（足球、曲棍球中的）急射，快射；（足球、曲棍球中的）急射，快射
+snoop  /snuːp/   v. 窥探，调查，打探
+SOAP  /soʊp/   n. 肥皂；<非正式>肥皂剧
+software  /ˈsɔːftwer/   n. 软件
+somehow  /ˈsʌmhaʊ/   adv. 以某种方式，用某种方法；由于某种不明原因，不知为什么
+sophisticated  /səˈfɪstɪkeɪtɪd/   adj. 见多识广的，老练的，见过世面的；复杂巧妙的，先进的，精密的；水平高的，在行的；时尚的，精致的
+Sorting  /ˈsɔːrtɪŋ/   n. [计] 排序；整理；分类拣选
+source code   源代码：计算机程序的原始编程语言代码，例如FORTRAN或C，在被编译器翻译成目标代码之前。
+sparse  /spɑːrs/   adj. 稀少的，稀疏的；简朴的
+sparsity  /ˈspɑːrsəti/   n. 稀疏，稀少；贫乏
+spatial  /ˈspeɪʃ(ə)l/   adj. 空间的，与空间有关的；空间理解能力的
+specialization  /ˌspeʃələˈzeɪʃ(ə)n/   n. 专业；专业化，专门化；（生物）特化作用
+specifically  /spəˈsɪfɪkli/   adv. 特意，专门地；明确地，具体地；具体来说，确切地说；局限性地；专门；（生）种的
+specification  /ˌspesɪfɪˈkeɪʃ(ə)n/   n. 规格，规范，明细单，说明书；明确说明，详述；（申请专利用的）发明物说明书
+spectrum  /ˈspektrəm/   n. 范围，幅度；光谱；波谱，频谱；余象
+spinning  /ˈspɪnɪŋ/   n. 动感单车运动，健身车运动； 纺线（手艺），纺纱（手艺）
+split  /splɪt/   v. 分裂，使分裂（成不同的派别）；分开，使分开（成为几个部份）；（使）撕裂；分担，分享；划破，割破；结束婚姻（或感情、工作）关系；<旧，非正式>迅速离开；使（原子）产生核裂变；<英，非正式>泄露（某人的）秘密，告发某人；<非正式>（头）剧痛
+splitter  /ˈsplɪtər/   n. 劈（或切、割）的人；分类学家；（非正式）剧烈的头痛；快速指叉球
+splitting  /ˈsplɪtɪŋ/   adj. （头痛）欲裂的；极快的；滑稽的
+spoof  /spuːf/   n. 滑稽模仿；行骗；戏弄；讽刺性文章或节目
+spy  /spaɪ/   n. 间谍，密探；暗中监视者
+SQL   abbr. 结构化查询语言（Structured Query Language）
+square  /skwer/   adj. 正方形的，四方形的；成直角的；（表示面积单位）平方的；两清的，互不欠账的；诚实公正的；<非正式>古板守旧的，不谙时尚的；平行的，水平的；宽阔结实的；打平的，平局的；一致的，可共存的；（用于长度面积后表示四方形物的边长）长宽为…...的；整齐的；（占星）方照的，90°角的；（板球，英足）与击球手成直角地，以横传方式；（韵律）简单易懂的，简单直接的；直线的，笔直的
+square brackets   方括号：一种用于标示文本、代码或注释中的特定内容的标点符号，通常用于表示可选项、变量或注释。
+stack  /stæk/   n. （整齐的）一堆；<英> 垛，堆；大量，许多；（尤指工厂的）大烟囱；（图书馆的）藏书架，双面书架（the stacks）；定高分层盘旋（等待降落）的机群；（计算机）（存储）栈；竖着置放的高保真音响（或吉他扩音）设备；（数支步枪支起的锥形）枪架；<英>（浪蚀）岩柱
+stack unwinding  /stæk ˌʌnˈwaɪndɪŋ/   [计] 堆栈解退
+stage  /steɪdʒ/   n. 阶段，时期；旅程（或赛跑中）的一段；舞台；戏剧，戏剧表演；（尤指政治）舞台，活动领域；（火箭的）级；层，楼层，塔层；演员职业；<非正式>马车；（显微镜的）镜台；（电子）（电路的）级；（地质）（年代地质学用语）与某时代对应的一段地层，层
+stake  /steɪk/   n. 股本，股份；桩，标桩，篱笆桩；赌注；赛马奖金（stakes）；比赛，竞赛（stakes）；利害关系；火刑柱；（制作篮子的）纵向基杆，经条；（铁匠用的）小铁砧；摩门主教管辖区
+standalone  /ˈstændəˌloʊn/   adj. （计算机）独立运行的；（公司）独立的
+standard library   标准库：编程语言中预先编写好的一组功能或程序，供程序员在编写代码时调用，以简化开发过程。
+stateless  /ˈsteɪtləs/   adj. 无国籍的
+statement  /ˈsteɪtmənt/   n. 声明，报告；说明，说法，表态；结算单，报表；（某观点的） 表达；（嫌犯或证人向警方提供的） 陈述，证词；（文字）陈述，表述；评估报告（英国地方教育主管部门针对儿童的特殊需要而提出意见）；（乐）（作品主题或旋律的）呈现；（计算机程序中的）语句
+static cursor   静态游标
+statistics  /stəˈtɪstɪks/   n. 统计学；统计数字（statistic 的复数形式）
+status bar   状态栏：计算机图形用户界面中的一个窄的水平信息区域，通常位于窗口底部，用于显示文本和图标。
+steal  /stiːl/   v. 偷窃，盗窃；剽窃，窃取（观点）；悄悄地移动；（在棒球比赛中）偷（垒）；（在篮球或冰球比赛中）断（球），截（球）；偷偷做；偷拿，私自拿；抢（镜头、戏等）；（体育运动中）意外赢得；骗走
+steep  /stiːp/   adj. （路、山等）陡峭的；（价格，需求）难以接受的，过高的；（增加或减少）急剧的，大幅度的
+stem  /stem/   n. （植物、灌木的）茎，干；（高脚酒杯的）柄脚；（语法中的）词干；烟斗柄；主干；船头，艏柱；（机械装置的）阀杆，导杆，棒；<古，文>血统；<美>（手表的）发条转柄；（文字的）干线，（音符的）符干；<美，非正式>鸦片烟枪
+stipulation  /ˌstɪpjuˈleɪʃn/   n. 条款，约定（规定）的条件
+stored procedure   存储过程：存储在数据库中的命名程序或例程。
+strangler pattern   
+stream  /striːm/   n. 小河，小溪；一连串，源源不断（的事情）；（烟、气、液体的）流，股；（同龄学生按能力划分的）班，组；音像流；数据流，指令流
+streamline  /ˈstriːmlaɪn/   v. 精简（工商企业、组织、流程等）使效率更高；使……成为流线型
+strength  /streŋθ/   n. 体力，力量；实力，影响力；长处，优势；意志力，毅力；（情感或意见的）强烈程度；（物体或物质的）强度；（食物、药等的）浓度，（酒的）烈度；（风等的）速度，力度；人数，人力；（货币的）价值，坚挺程度；球队的板凳深度，替补队员的水平；<文>力量源泉；（手中所持好牌数目和花色的）牌力
+string  /strɪŋ/   n. 线，细绳；一连串，一系列（事件）；一系列（类似的事物）；字符串，信息串；一串；弦；弦乐器，弦乐组；（网拍的）羊肠线，网线；（球队中按技术水平分编的）小队；特定条件（或限制）；（类似细绳的）细长物；（同一训马场训练的）一群赛马；（按先后顺序排列的）后备队，候补队员；（墙网球等）处于特定排位的队员；（蔬菜、肉等食物的）纤维，（豆荚等的）筋，络；一种假设的亚原子粒子；G弦；宇宙弦；楼梯侧基板（stringboard 的简称）
+String Matching  /strɪŋ ˈmætʃɪŋ/   字符串匹配
+strive  /straɪv/   v. 努力，力争；斗争，反抗
+stroke  /stroʊk/   n. 中风；（使用武器的）击，打；击球，一击，一抽；（划船用语）划桨，划法，划桨法；泳式，游泳姿势；（指挥船上其他桨手的）尾桨手；轻抚，抚摸；一笔，一划；（灵感的）突发，（天才的）一举；（突发或突然想到的）好事；斜线（号）；（雷电的）闪光；来回动作，上下动作；（一系列重复运动的）节奏，律动；（鸟翼的）一次扑打；准时，准点；（时钟报时的）鸣响，钟声
+stub  /stʌb/   n. 存根；烟蒂；树桩；断株
+stunt  /stʌnt/   n. （尤指电影中的）特技表演；噱头，作秀；逞英雄，做愚蠢（有点危险）的事
+stylus  /ˈstaɪləs/   n. 铁笔；唱针；尖笔；药笔剂
+sublimation  /ˌsʌblɪˈmeɪʃn/   n. [物] 升华，[心理] 升华作用；高尚化；升华物
+subobject   n. [数] 子对象
+subquery   n. 子查询
+subroutine  /ˈsʌbruːtiːn/   n. [计] 子程序
+subscript operator   [计] 下标运算符
+subsequent  /ˈsʌbsɪkwənt/   adj. 随后的，接着的；（河，谷）后成的
+subset  /ˈsʌbset/   n. [数] 子集；子设备；小团体
+subsidiary  /səbˈsɪdieri/   n. 子公司，附属公司；辅助者
+substantial  /səbˈstænʃ(ə)l/   adj. 大量的，价值巨大的；牢固的，结实的；基本的，实质性的；（饭菜）丰盛的；重要的，真实的；有地位的，富有的
+substitute  /ˈsʌbstɪtuːt/   n. 替代品，代替物；（体育比赛中的）替补队员；令人满意的替代物，与之媲美的事物；<苏格兰，法律>副职
+substitution  /ˌsʌbstɪˈtuːʃn/   n. 代替，替换；代替物；（数） 置换
+substrate  /ˈsʌbstreɪt/   n. 培养基，基质，基层；底物，酶作用物；（供放置或刻的）底面
+subtle  /ˈsʌt(ə)l/   adj. 不易察觉的，微妙的；敏锐的，有洞察力的；灵活的，巧妙的；含蓄的，隐晦的；<古>狡猾的
+subtype  /ˈsʌbˌtaɪp/   n. 子类型，亚类，下级类
+sufficiently  /səˈfɪʃntli/   adv. 充分地，足够地
+suited  /ˈsuːtɪd/   adj. 合适的
+superscript  /ˈsuːpərskrɪpt/   adj. 标在上方的
+support  /səˈpɔːrt/   v. 支持，拥护，鼓励；帮助，援助；支撑，承受（人或建筑物等的重量）；供养，赡养；资助，赞助；追随（或支持）（某个运动队）；证实，确认；（计算机，操作系统）支持（程序，语言，装置的）运行 ；支持……的生存；忍受，容忍；（在流行音乐会上）当助演，担任演出嘉宾；支付……费用，（尤指）用钱维持（不良嗜好，如毒品）；胜任
+suppose  /səˈpoʊz/   v. 推断，料想，猜想；假设，假定，设想；预期，需要，以……为条件；相信，认为（某事物是可能的）；（婉转表达）我看，要我说，要不；（因处于某种境地或因约定）必须做（be supposed to do sth.）；我看（用于生气地表示预料某事属实）
+surveillance  /sɜːrˈveɪləns/   n. 监视，监察
+survey  /ˈsɜːrveɪ/   n. 民意调查，民意测验；考察，调查；（对课题或情况的）全面考察，概述；测量，勘测；测绘图，勘测记录；测量部门；<英> （尤指为欲购房者所做的）房屋鉴定；查勘报告
+susceptible  /səˈseptəb(ə)l/   adj. 易得病的，易受影响的；（人）易受感动的，易动感情的；可能有······的，容许······的；<正式>（尤指想法或陈述）能被理解（或证明、解释）的
+suspend  /səˈspend/   v. 暂停，中止；使暂停使用（或生效）；使暂时停职（或停学等）；延缓，推迟；悬，挂；悬浮，漂浮；<法律> （法官或法庭作出的）暂缓执行（判决）；延留（和弦），延长（和音）
+sustainable  /səˈsteɪnəb(ə)l/   adj. （计划、方法、体制）可持续的，持续性的；（自然资源）可持续的，不破坏环境的 ；站得住脚的
+sweetheart  /ˈswiːthɑːrt/   n. （称呼语）亲爱的；爱人；特别可爱的人；（非正式）私下达成的协议
+symbol  /ˈsɪmb(ə)l/   n. 象征，标志；符号；代表性的人（物）
+symbolic  /sɪmˈbɑːlɪk/   adj. 用作象征的，被认为是象征的；有象征意义的；（行为举动）象征性的，没有甚么实际影响的；符号的，使用象征的
+symmetric  /sɪˈmetrɪk/   adj. 对称的
+synchronize  /ˈsɪŋkrənaɪz/   vt. （使）同步；对准（钟，表）；相符；（电脑）同步化
+synchronous  /ˈsɪŋkrənəs/   adj. 同步的；同时的
+syntax  /ˈsɪntæks/   n. 句法，句法规则；（计算机语言的）句法，语构；句子结构分析法；句法学
+synthesis  /ˈsɪnθəsɪs/   n. 综合，综合体；（化学物质的）合成；音响合成；（黑格尔哲学中的）合题；（语法）合成；（语言学）综合
+synthesize  /ˈsɪnθəsaɪz/   v. （通过化学或生物反应）合成；综合，结合；（用音响合成器）合成（声音）
+system databases   系统数据库
+system tables   系统表：数据库中用于存储系统信息的表，包括数据库结构、权限等元数据。
+table  /ˈteɪbl/   n. 桌子，枱子；谈判桌；（就餐或玩牌等的）一桌人；一桌酒席，饭菜；（饭后）清理餐桌，整理餐桌；（饭前）摆放餐具；列表，一览表，表格；（竞赛等的）名次表，排名榜，积分表；乘法表；（计算机）表；（桥牌）明手，明家；（建筑）檐板；木匾，石碑；（宝石的）切平面；有双切平面的宝石；（巴加门15子棋可折叠的半面或四分之一的）棋盘；水平模制（尤指檐口）
+table lock   表锁：数据库中一种锁定机制，用于在对表进行操作时防止其他用户同时访问或修改该表的数据。
+tag  /tæɡ/   n. 标签；称呼，诨名；（电子）追踪器；（在墙壁、汽车等上面）违法涂写的名字；（计算机）标识符；（儿童玩的）捉人游戏； 附加疑问句；（主体上的）一小部分；多余的部分，剩余物；（棒球）触杀；（引用自书籍、讲演、文章的）短语，说法；<美>（机动车的）牌照；<美>（允许车辆上路的）车牌标贴；（羊身上）一簇纠结的羊毛；（动物颜色鲜艳的）尾尖；（鞋带上的金属或塑料）包头；（戏剧的）终场词；叠歌，副歌
+take over   接管，控制
+takeaway  /ˈteɪkəweɪ/   n. 外卖食品；外卖餐馆；要点
+tamper  /ˈtæmpər/   v. 做手脚，破坏
+tangible  /ˈtændʒəb(ə)l/   adj. 明确的，真实的；可触摸的，可感知的
+tape backup   磁带备份
+target  /ˈtɑːrɡɪt/   n. 目标，指标；（攻击的）目标；（批评、嘲笑等的）对象；靶子；目标受众，受影响的人（或群体）；<史> 圆形小盾；（语音）目标
+task switch   任务转换
+taxonomy  /tækˈsɑːnəmi/   n. 分类学；分类法
+TBD  /ˌtiː biː ˈdiː/   abbr. 待定（to be decided 或 to be determined）；旅游商务区（tourism business district）
+TCP   abbr. 传输控制协议（Transmission Control Protocol）；终端控制协议（Terminal Control Protocol）；技术合作计划（Technical Cooperation Programme）
+technique  /tekˈniːk/   n. 技巧，工艺；（尤指体育或艺术方面的）技巧，技术
+tedious  /ˈtiːdiəs/   adj. 冗长的，单调乏味的
+template  /ˈtemplət/   n. （用于切割木材、纸、金属等的）模板；（计算机文档的）模板；样板，榜样；（生化）模板；承梁短板，垫木，垫板
+template parameter   模板形参，范本参数
+template-id   
+temporary object   暂存物件：指在程序执行期间临时创建的对象，用于存储临时数据。
+temporary table   临时表：在数据库中，临时表是一种用于存储临时数据的表，通常在执行某些操作或查询时使用，操作完成后会自动删除。
+tenancy  /ˈtenənsi/   n. 租期；租用
+tentative  /ˈtentətɪv/   adj. 试探性的，暂定的；踌躇的，犹豫不定的
+text  /tekst/   n. （书、杂志等中区别于图片的）正文，文字材料；（演说等的）原文；（学习某课程必读的）课本，教科书；（供讨论或回答问题的）文本，文章；（讨论等的）题目，主题；（尤指科学或学术方面的）文献；（计算机、手机等）文档；短信；（尤指引作布道主题的）圣经经文；（尤指用于手稿的）粗体正楷
+Text Compression   正文压缩，文本压缩
+text file  /tekst faɪl/   文本文件：一种只包含纯文本、可读性强的数据文件，与包含嵌入式格式的文档有所区别。
+the rest of   剩余的部分：指某个整体中剩余的部分。
+theorem  /ˈθiːərəm/   n. [数] 定理；原理
+theoretical  /ˌθiːəˈretɪk(ə)l/   adj. 理论的；理论上存在的，假设的
+theoretically  /ˌθiːəˈretɪkli/   adv. 理论地；理论上
+theory  /ˈθiːəri/   n. 学说，理论；（某一学科基于的）理论，原理；观点，见解
+thereafter  /ˌðerˈæftər/   adv. <正式>其后，此后
+thereof  /ˌðerˈʌv/   adv. <正式>在其中，由此
+thin client  /θɪn ˈklaɪənt/   瘦客户端：一种最小化的客户端，它依赖于服务器来完成大部分的处理工作。
+third-party  /ˌθɜːrd ˈpɑːrti/   adj. 第三方，第三方的
+thoroughly  /ˈθɜːrəli/   adv. 完全地，极度地；仔细地，认真地，彻底地
+thread  /θred/   n. 线；细线，线状物；思路，贯穿的主线；（互联网留言板上的）同主题帖子，系列相关帖子；少量，较低水平；螺纹；<英，旧> 衣服；（计算机）线程，调度单位
+thread-safe  /θred seɪf/   线程安全的
+threshold  /ˈθreʃhoʊld/   n. 门槛，门口；阈，界，起始点；开端，起点，入门；机场跑道入口，跑道头
+thrilled  /θrɪld/   adj. 非常兴奋，极为激动
+throughput  /ˈθruːpʊt/   n. （某一时期内的）生产量，接待人数，吞吐量
+throw  /θroʊ/   v. 投，掷，抛，扔；掷（色子），掷出（色子的点数）；随手扔下（某物）；猛推，使劲撞；急伸，猛动（身体或某部位）；使摔倒，（摔跤、柔道等）摔倒（对手）；（马）摔下（骑手）；使处于，使陷入（某种状态）；使困惑，使惊奇；（在拉坯轮上）把……拉成坯；照射（光线），投射（阴影）；使变音，使嗓音听起来像来自他人（或他处）；故意输掉（比赛）；扳动（开关），推动（操纵杆，手柄）；将……关进（监狱等）；突然朝……（看或笑等）；突然发怒，大发雷霆；（挥拳）猛击；举办（聚会）；投入（努力、影响力、钱财等）；将……投向（某人），对……施加；（车辆）突然换挡；<美，非正式>成功完成（某特殊技能）；迅速放置（或立起）；（马）脱落（蹄铁）；（动物）下仔（尤指特殊品种）；（在车床上）车（木料等）；捻（丝等）成线
+tie-break  /taɪ breɪk/   n. （网球里）正赛未分胜负后的加赛
+tilde  /ˈtɪldə/   n. 腭化符号；波浪字符，代字号；（数学或逻辑学中的）否定符号
+tiny  /ˈtaɪni/   adj. 极小的，微小的
+To be Continued  /tu bi kənˈtɪnjuːd/   待续，未完待续；未完成
+token  /ˈtoʊkən/   n. （某些机器中用以代替纸币的）代币，专用辅币；象征，标志；礼券，代金券；（语言学）符号；（计算机）令牌，记号；（火车通行的）路签
+tolerance  /ˈtɑːlərəns/   n. 忍受，容忍；（痛苦、困难等的）忍受程度，忍耐力；耐药力，耐受性；公差，容许偏差
+topology  /təˈpɑːlədʒi/   n. 拓扑学
+trace  /treɪs/   v. 查出，发现，追踪；追溯，追究；描绘（事物的过程或发展），记述；（尤指用手指、脚趾）画（图，线）；勾画……的轮廓，勾勒；（用透明纸覆盖在地图、绘画等上）复制，描摹；（手指、嘴唇等）沿着……移动
+traceability  /ˌtreɪsəˈbɪləti/   n. [统计] 可追溯性；跟踪能力；可描绘
+tradeoff  /ˈtreɪdɔːf/   n. 权衡；折衷；（公平）交易（同 trade-off）
+trade-off  /ˈtreɪd ɔːf/   n. 平衡，协调；妥协，让步
+trajectory  /trəˈdʒektəri/   n. （物体射向或抛向空中形成的）轨道，轨迹；（事业等的）发展轨迹，起落；（几何）常角轨道，轨线
+tranquility  /træŋˈkwɪləti/   n. 宁静，安宁
+transaction  /trænˈzækʃ(ə)n/   n. 交易，买卖，业务；（学术团体会议的）议事录，公报；（人与人之间的）交流，相互影响；事务（元），事项
+transaction log   事务日志：在系统崩溃或硬件故障时用于保证数据库ACID属性的数据库管理系统执行的操作历史记录。
+transaction rollback   事务回滚：在数据库管理系统中，当一个事务无法正常完成时，将所有已执行的操作撤销，恢复到事务开始之前的状态。
+transcript  /ˈtrænskrɪpt/   n. 文字记录，抄本，文字本；<美>成绩单；（生化）转录本，转录物
+translation unit   翻译单元
+transmit  /trænzˈmɪt/   v. 播送，传输，发射；传递，传达（思想、情感）；传播，传染（病毒、疾病等）；传导（声、电等），透（光等）
+traversal  /trəˈvərs(ə)l/   n. [计] 遍历；横越；横断物
+traverse  /trəˈvɜːrs/   v. 横穿，穿过；横越岩石面的攀爬；（滑雪时）横线下（坡）；<喻>整体考虑（问题），全面讨论；来回移动，斜向移动；转动（大炮等带轴设备）；<法律>否认（一项指控），反驳
+trigger  /ˈtrɪɡər/   n. （枪械等的）扳机；（尤指引发不良反应或发展的）起因，诱因；（炸弹的）引爆器，触发器
+truncate  /ˈtrʌŋkeɪt/   v. 截断，删节；把……截成平面
+truncation  /ˈtrʌŋkeɪʃn/   n. 截断；切掉顶端
+tune  /tuːn/   n. 曲调，曲子；歌曲，乐段
+tuple  /ˈtjʊpəl; ˈtʌpəl/   n. [计] 元组，重数
+tweak  /twiːk/   v. 扭，拧；稍稍调整（机器、系统等）；轻微拉伤，轻微扭伤；<美>批评，取笑；<非正式>激动，兴奋（尤指在安非他命等兴奋剂作用下）
+two-phase commit   二阶段确认
+two-phase lookup   两阶段查找
+type  /taɪp/   n. 类型，种类；具有某种特征的人，典型；（印刷的）文字，字体；（印刷）铅字，活字；象征；（艺术的）典型，榜样；（宗教学）预兆；（植，动）型，模式标本；（奖章或硬币）图案；（语言学）类型，型
+typecast  /ˈtaɪpkæst/   v. 浇铸；使（演员）一再演出同类的角色；给……分配（合乎性格的任务）；视……为原型
+UAT   abbr. （法）联合海空运输公司（Union Aéromaritime de Transport）；用户验收测试（User Acceptance Testing）
+UDDI   
+ugly  /ˈʌɡli/   adj. 丑陋的，难看的；（通常因涉及暴力、挑衅行为而）令人厌恶的，邪恶的，恶性的；无礼的；道德败坏的；可怕的，恐怖的；难听的，不悦耳的
+ultimately  /ˈʌltɪmətli/   adv. 最终，最后；根本上，最重要地
+UML   abbr. 统一建模语言（Unified Modeling Language）
+unambiguous  /ˌʌnæmˈbɪɡjuəs/   adj. 不含糊的；清楚的；明白的
+unary function   一元函数
+unary operator   一元运算符：代表一元操作的符号，即只接受一个操作数的运算符。
+unbiased  /ʌnˈbaɪəst/   adj. 公正的，无偏见的
+unboxing   vt. 从箱子中取出
+unchecked exception   未经核查的异常
+under the hood   在表面之下；在某物的内部工作过程中
+underflow  /ˈʌndərˈfloʊ/   n. [水文] 底流；[计] 下溢
+undergo  /ˌʌndərˈɡoʊ/   v. 经历，经受
+underlie  /ˌʌndərˈlaɪ/   vt. 构成……的基础，为……的起因；位于……的下面
+underlying  /ˌʌndərˈlaɪɪŋ/   adj. 根本的，潜在的；表面下的，下层的；优先的；（数量或水平）实际的
+underscore  /ˌʌndərˈskɔːr/   v. 强调；在……的下面划线
+undertake  /ˌʌndərˈteɪk/   v. 承担，从事；承诺，答应；<英>在内侧行驶时赶上并超越（另一辆车）
+underutilize   vt. 未充分使用
+underutilized  /ˌʌndərˈjuːtəlaɪzd/   vt. 未充分使用（underutilize 过去式）
+Unicode  /ˈjuːnɪˌkoʊd/   n. 统一的字符编码标准
+uniform  /ˈjuːnɪfɔːrm/   n. 制服，校服；<非正式>穿制服的警官；（某一群体的人穿的）典型服装，特有服装；（无线电通讯）字母 U 的代码
+unify  /ˈjuːnɪfaɪ/   v. （使）联合，（使）统一；使协调
+union  /ˈjuːniən/   n. 联合，结合；和谐，一致；联盟，联合体；工会；俱乐部，会社；结婚，婚姻；性交；联管节，接头；（印度次大陆）村落联合体；南非；（数）并，并集；并集形成；<英>教会同盟，联合教会；<英，史>教区联合济贫组织；旗帜上象征国家统一的部分（一般在内上角）；交织织物，混纺织物；（尤指内战时期的）美利坚合众国（the Union）；（美国南北战争期间的）联邦（the Union）；<史> 1603年英格兰和苏格兰王国合一，1707年英格兰和苏格兰国会合一，1801年大不列颠和爱尔兰国会合一（the Union）
+Union query   联合查询
+unique index  /juˈniːk ˈɪndeks/   唯一索引：数据库中用于确保表中每行数据的唯一性的索引，通常用于防止重复数据的插入。
+unit  /ˈjuːnɪt/   n. 单位（指构成整体的事物、人或团体）；一件（商品）；（公寓楼的）单元，单位；部件，元件；（家具的）组合件，配件；科，室，部门；班组，小队；（课本）单元；（计量）单位；个位数；（数字）一；酒精单位；<美> 警车；（美国学校计算学分的）学习量；<英> 股份单位（单位信托投资公司的最小股份）
+unlikely  /ʌnˈlaɪkli/   adj. 不大可能发生的；未必真实的，难以相信的； 非心目中的，不大恰当的；不典型的；（两个人或物）不般配的
+unmanaged code   非托管代码
+unmarshal   数据编出
+unprecedented  /ʌnˈpresɪdentɪd/   adj. 前所未有的，史无前例的；（大小、数量、程度等）前所未知的，空前的
+unqualified  /ˌʌnˈkwɑːlɪfaɪd/   adj. 不合格的；无资格的；不胜任的；不受限制的；无条件的；绝对的
+unroll  /ʌnˈroʊl/   vt. 展开，铺开；显示
+unwary  /ʌnˈweri/   adj. 粗心的；不警惕的；不谨慎的
+unwound  /ˌʌnˈwaʊnd/   adj. 未上发条的；未卷绕的；松散的
+up-to-date  /ˌʌp tə ˈdeɪt/   adj. 包含最新信息的；现代的，时髦的
+upwards arrow   上箭头：指向上方的箭头符号，也称为上箭头、向上箭头或上升箭头。
+URI  /ˌjuː ɑːr ˈaɪ/   abbr. 上呼吸道感染（Upper Respiratory Infection）；统一资源标识符（Uniform Resource Identifier）
+URL  /ˌjuː ɑːr ˈel/   abbr. 全球资源定位器（Uniform Resource Locator）
+usability  /ˌjuːzəˈbɪləti/   n. 合用，可用；可用性
+user  /ˈjuːzər/   n. 用户；使用者
+user interface   用户界面：设计用来让计算机用户与机器或系统的操作系统进行交互的软件，特别是指图形用户界面（缩写为UI）。
+utility  /juːˈtɪləti/   n. （煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；<澳>小卡车，轻型货车；（博弈论，经济学）效用
+utilization  /ˌjuːtələˈzeɪʃn/   n.  利用，使用 (=utilisation)； 利用，使用
+utilize  /ˈjuːtəlaɪz/   v. 利用，使用
+UUID   abbr. 通用唯一标识符（Universally Unique Identifier）
+vacation  /veɪˈkeɪʃ(ə)n/   n. （学校的）假期，（法院的）休庭期；<美>休假，假期；腾出，辞去
+value types  /ˈvæljuː taɪp/   价值类型
+vandal  /ˈvændl/   n. 故意破坏公共财产者
+variable  /ˈveriəb(ə)l/   adj. 易变的，多变的；时好时坏的；可变的，可调节的；（数）（数字）变量的；（植，动）变异的，变型的；（齿轮）变速的
+variant  /ˈveriənt/   n. 变种，变形；（单词拼写或读音的）变异，变体
+vector  /ˈvektər/   n. 矢量，向量；（传染疾病的）介体；（飞机的）航线，航向；克隆载体；带菌者；单行矩阵，单列矩阵；（计算机）模型
+vendor  /ˈvendər/   n. 小贩，摊贩；<法律>卖主，卖方；（出售某类商品的）销售商，供应商；（贸易） 自动售货机
+verbose  /vɜːrˈboʊs/   adj. 冗长的；啰嗦的
+verify  /ˈverɪfaɪ/   v. 核实，查证；证明，证实
+versa  /ˈvɜːrsə/   adv. 反之亦然（等于 vice versa）
+vet  /vet/   n. 兽医；<美，非正式>老兵；兽医诊所（vet's）
+viable  /ˈvaɪəb(ə)l/   adj. 可望成功的，切实可行的；能存活的，能生长发育的
+viable function   可行函数
+vice versa  /ˌvaɪs ˈvɜːrsə; ˌvaɪsi ˈvɜːrsə/   反之亦然：顺序颠倒，关系相反。
+vicinity  /vəˈsɪnəti/   n. 周围地区，邻近地区，附近
+video  /ˈvɪdioʊ/   n. （某个事件或场合的）录像；（指方法）录影；录像带；音乐录影；<英>录像机；视频播放软件
+view  /vjuː/   n. 观点，看法；（理解或思维的）方法，方式；景象，视野；风景，景色；风景画，风景照；图像，视图；（一次）观看，一睹，一览；（文本或图表在计算机屏幕上的）显示方式
+violation  /ˌvaɪəˈleɪʃ(ə)n/   n. （对法律、协议、原则等的）违背，违反；侵权行为，（对人权的）侵犯；
+（对某物的）损毁，（对圣地的）亵渎；强奸
+virtual function   虚拟函数：在面向对象编程中，虚拟函数是一种可以在派生类中被重写的成员函数。它允许派生类根据需要提供自己的实现，从而实现多态性。
+virtual machine   虚拟机：计算机的软件仿真，运行在真实计算机的隔离分区中的计算机。
+virtual memory   虚拟内存：计算机硬盘上的一个部分，可以像随机存取内存一样使用。
+virtue  /ˈvɜːrtʃuː/   n. 高尚的道德，德行；美德，优秀品质；优点，长处；<古>（尤指妇女的）贞操；功效；（传统基督教天使学）道德天使（天国九级制度的第七级）（virtues）
+visualize  /ˈvɪʒuəlaɪz/   v. 想象，使形象化；使可见，使显现
+volatile  /ˈvɑːlət(ə)l/   adj. 易变的，动荡不定的，反复无常的；（情绪）易变的，易怒的，突然发作的；（液体或固体）易挥发的，易气化的；（计算机内存）易失的
+vowel  /ˈvaʊəl/   n.  元音，母音；元音字母，母音字母
+vulnerability  /ˌvʌlnərəˈbɪləti/   n. 易损性，弱点；（桥牌）局况
+wavelet  /ˈweɪvlət/   n. 微波，小浪
+weaken  /ˈwiːkən/   v. （使）虚弱，（使）衰弱；（使）变弱，削弱；使（肯定程度）减弱，动摇，犹豫；（使）（大楼 、结构体等）不结实；（使）（股票等）疲弱，疲软
+Web Services web   
+WHERE clause WHERE   
+whopping  /ˈwɑːpɪŋ/   adj. 巨大的；天大的；异常的
+widget  /ˈwɪdʒɪt/   n. 装饰物；小机械；小部件；未定名的主要新产品
+wield  /wiːld/   v. 挥，操，使用（武器、工具等）；运用（权力），施加（影响）
+wildcard characters   通配符：通配符是一种特殊字符，用于在搜索、匹配或替换字符串时代表其他字符或字符集合。
+wildcard search   通配符搜索
+window  /ˈwɪndoʊ/   n. 窗，窗玻璃；（计算机屏幕的）视窗；（信封上的）透明纸窗；（商店的）陈列窗，橱窗；一丝的机会，短暂的时机；观察（或学习）的渠道；（办理业务的）窗口；（物理）大气窗；（干扰雷达用的）金属箔片
+window function   窗口函数
+window procedure   窗口过程
+wise  /waɪz/   adj. （行为或决定）明智的，高明的；有学问的，精通的；<美，非正式>说话粗鲁的
+wizard  /ˈwɪzərd/   n. 巫师，术士；能手，奇才；向导程序
+word  /wɜːrd/   n. 字，词，单词；（某人说的）话，言语（words）；简短的交谈，谈话；命令，指示；消息，信息；诺言，承诺；口角，吵架（words）；（警告、建议、赞扬的）话，话语；歌词（words）；一个字（所说或所写的最小量）（a word）；（不同于行动的）言，言语；字（尤指16或32个字节的计算机数据基本单位）；《圣经》，福音（the Word）
+word processor   文字处理器：一种用于进行文字处理的设备或程序。
+workaround  /ˈwɜːrkəraʊnd/   n. 应变方法；变通方法，替代方法；避免计算机程序问题法
+worthy  /ˈwɜːrði/   adj. 值得尊敬的，值得注意的，值得敬仰的；值得的，应得的，相配的；好（但乏味）的；有（某人或事物）的典型特征
+would like  /wʊd laɪk/   想要：表示某人想要做或拥有某物。
+wrapper  /ˈræpər/   n. 包装纸，包装材料；宽大长衣，浴衣；<美>（雪茄的）外卷烟叶；（可得到税收优惠等的）捆绑金融商品
+write enable  /raɪt ɪˈneɪbl/   [计] 允许写入，写入启动
+write-ahead log   预写式日志：一种数据库日志记录技术，用于在数据实际写入磁盘之前记录数据的更改，以确保数据的一致性和完整性。
+write-only   只写
+WSDL   abbr. Web 服务描述语言（Web Services Description Language）；网页服务描述语言
+XML  /ˌeks em ˈel/   abbr. 可扩展标示语言（Extensive Markup Language）
+XSD   XML模式定义
+XSL   abbr. 可扩展样式表语言（Extensible Stylesheet Language）
+XSLT   abbr. 可扩展样式表语言转换（Extensible Stylesheet Language Transformation）
+xxx based   
+xxx oriented   
+zeroize  /ˈzɪroʊˌaɪz/   vt. 拨回零点；[计] 填零
